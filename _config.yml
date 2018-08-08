@@ -46,53 +46,99 @@ partners:
           url: https://www.3scale.net/partners/streamdata-io/
         - title: Streaming APIs and the Internet of Things
           url: https://www.3scale.net/2015/09/streaming-apis-and-the-internet-of-things/
-  - image: https://i0.wp.com/streamdata.io/wp-content/uploads/2018/01/chartiq.png?fit=138%2C42&ssl=1/>
-    name: ChartIQ
+  - name: ChartIQ
     description: ChartIQ creates HTML5 financial charting and data visualization solutions for capital markets.
     url: https://www.chartiq.com/
-  - image: https://i2.wp.com/streamdata.io/wp-content/uploads/2018/01/Google_Cloud.png?fit=114%2C65&ssl=1
-    name: Google Cloud Platform
+    image: https://i0.wp.com/streamdata.io/wp-content/uploads/2018/01/chartiq.png?fit=138%2C42&ssl=1
+    latest:
+        - title: How to take ChartIQ one step further with real-time data?
+          url: https://streamdata.io/blog/how-to-take-chartiq-one-step-further-with-real-time-data/
+        - title: ChartIQ Angular demo
+          url: https://github.com/streamdataio/streamdataio-ChartIQ-Angular-demo
+  - name: Google Cloud Platform
     description: Google Cloud Platform lets developers build, deploy, and scale applications, websites, and services on the same infrastructure as Google.
     url: https://cloud.google.com/
-  - image: https://i2.wp.com/streamdata.io/wp-content/uploads/2018/01/pivotal.png?fit=136%2C33&ssl=1
-    name: Pivotal
+    image: https://i2.wp.com/streamdata.io/wp-content/uploads/2018/01/Google_Cloud.png?fit=114%2C65&ssl=1
+    latest:
+        - title: Streaming Data into Google BigQuery Using Streamdata.io
+          url: https://streamdata.io/blog/streaming-data-google-bigquery/
+        - title: Streamdata.io earns Google Technological Partner Status
+          url: https://streamdata.io/blog/google-technological-partner/
+  - name: Pivotal
     description: Pivotal enables the leading companies in the world to innovate by employing an approach focused on building software.
     url: https://pivotal.io/
-  - image: https://i2.wp.com/streamdata.io/wp-content/uploads/2018/02/kong-blue2.png?fit=300%2C99&ssl=1
-    name: Kong
+    image: https://i2.wp.com/streamdata.io/wp-content/uploads/2018/01/pivotal.png?fit=136%2C33&ssl=1
+    latest:
+        - title: Setting up a streaming API with Pivotal Web Services and Streamdata.io
+          url: https://streamdata.io/blog/streaming-api-pivotal-streamdataio/s
+        - title: Streamdata.io vs. Pivotal Web Services (PWS)
+          url: https://stackshare.io/stackups/pivotal-web-services-vs-streamdata-io
+  - name: Kong
     description: Kong and Streamdata.io partner to deliver best-in-class API management solution to developers.
     url: https://konghq.com/
-  - image: https://i1.wp.com/streamdata.io/wp-content/uploads/2018/05/ibmpos_grey.jpg?fit=170%2C62&ssl=1
-    name: IBM
+    image: https://i2.wp.com/streamdata.io/wp-content/uploads/2018/02/kong-blue2.png?fit=300%2C99&ssl=1
+    latest:
+        - title: Streaming Kong API Endpoint Activity With Server-Sent Events (SSE)
+          url: https://streamdata.io/blog/streaming-kong-api-endpoint-activity-server-sent-events-sse/
+        - title: Breaking Down Kong API Gateway Plugins
+          url: https://streamdata.io/blog/breaking-down-kong-api-gateway-plugins/
+  - name: IBM
     description: The IBM Marketplace is a digital store where you can discover, try, and buy software, hardware, and services from both IBM and third-party vendors and Streamdata.io is the first streaming API service available in the marketplace.
     url: https://www.ibm.com/products
-  - image: https://i0.wp.com/streamdata.io/wp-content/uploads/2018/05/quanthouse.jpg?fit=170%2C42&ssl=1
-    name: QuantHouse
+    image: https://i1.wp.com/streamdata.io/wp-content/uploads/2018/05/ibmpos_grey.jpg?fit=170%2C62&ssl=1
+    latest:
+        - title: Streamdata.io in the IBM Marketplace
+          url: https://www.ibm.com/us-en/marketplace/8099
+        - title: Connect Streamdata.io to IBM Bluemix Issued Device Allocation
+          url: https://apiant.com/connect/Streamdata.io-to-IBM-Bluemix-Issued-Device-Allocation
+  - name: QuantHouse
     description: QuantHouse is the global independent provider of high performance API-based market data and algo trading services.
     url: https://www.quanthouse.com/
-  - image: https://i0.wp.com/streamdata.io/wp-content/uploads/2018/05/nasdaq-logo.png?fit=170%2C64&ssl=1" alt="nasdaq logo
-    name: Nasdaq
+    image: https://i0.wp.com/streamdata.io/wp-content/uploads/2018/05/quanthouse.jpg?fit=170%2C42&ssl=1
+  - name: Nasdaq
     description: Your data is time-sensitive -- access real-time market data via an API provider with advanced server pushing and consumption analytics at a lower cost.
     url: https://www.nasdaq.com/
-  - image: https://i2.wp.com/streamdata.io/wp-content/uploads/2018/05/Salesforce-partner.png?fit=170%2C170&ssl=1
-    name: Salesforce
+  - image: https://i0.wp.com/streamdata.io/wp-content/uploads/2018/05/nasdaq-logo.png?fit=170%2C64&ssl=1
+  - name: Salesforce
     description: Salesforce is the primary enterprise offering within the Salesforce platform. It provides companies with an interface for case management and task management, and a system for automatically routing and escalating important events.
     url: https://www.salesforce.com/uk/?ir=1
-  - image: https://i2.wp.com/streamdata.io/wp-content/uploads/2018/05/APImetrics.png?fit=170%2C43&ssl=1
-    name: APImetrics
+    image: https://i2.wp.com/streamdata.io/wp-content/uploads/2018/05/Salesforce-partner.png?fit=170%2C170&ssl=1
+    latest:
+        - title: Exploring SalesForce PushTopic Queries
+          url: https://streamdata.io/blog/salesforce-pushtopic-queries-api/
+        - title: Breaking Down The Salesforce Streaming API
+          url: https://streamdata.io/blog/salesforce-streaming-api/
+  - name: APIMetrics
     description: APIMetrics created the industry’s best real-time API & Cloud Service monitoring and analytics. In fact, they’re the industry’s first and only intelligent, analytics-driven API performance solution built specifically for enterprise.
     url: https://apimetrics.io/
-  - image: https://i0.wp.com/streamdata.io/wp-content/uploads/2018/05/Postman-logo.png?fit=170%2C68&ssl=1
-    name: Postman
+    image: https://i2.wp.com/streamdata.io/wp-content/uploads/2018/05/APImetrics.png?fit=170%2C43&ssl=1
+    latest:
+        - title: Cutting The HTTP Status Code Noise Out Of API Monitoring Streams
+          url: https://streamdata.io/blog/cutting-http-status-code-noise/
+        - title: APIMetrics in the Streamdata.io API Gallery
+          url: http://apimetrics.api.gallery.streamdata.io/
+  - name: Postman
     description: The Postman toolchain can help to build software that is useful across various use cases ranging from a single developer to an enterprise. We are building for the future where everything is going to be connected.
     url: https://www.getpostman.com/
-  - image: https://i1.wp.com/streamdata.io/wp-content/uploads/2018/05/Axway-logo.png?fit=170%2C60&ssl=1
-    name: Axway
+    image: https://i0.wp.com/streamdata.io/wp-content/uploads/2018/05/Postman-logo.png?fit=170%2C68&ssl=1
+    latest:
+        - title: Postman For Server-Sent Event (SSE) APIs
+          url: https://streamdata.io/blog/postman-for-server-sent-event-sse-apis/
+        - title: Converting Postman Collections Into OpenAPI Definitions
+          url: https://streamdata.io/blog/postman-collections-openapi-definitions/
+  - name: Axway
     description: Realizing the transformational power in every customer.
-  - image: https://i2.wp.com/streamdata.io/wp-content/uploads/2018/07/TCMash-1.png?fit=822%2C246&ssl=1
-    name: TIBCO Cloud Mashery
+    url: http://axway.com
+    image: https://i1.wp.com/streamdata.io/wp-content/uploads/2018/05/Axway-logo.png?fit=170%2C60&ssl=1
+    latest:
+        - title: Streamdata.io Is Available In The Axway Marketplace
+          url: https://streamdata.io/blog/streamdata-io-is-available-in-the-axway-marketplace/
+        - title: Streamdata.io In The Axway Marketplace
+          url: https://marketplace.axway.com/apps/147407#!overview
+  - name: TIBCO Cloud Mashery
     description: TIBCO is a global leader in integration, API management, and analytics. With the TIBCO Connected Intelligence Cloud, TIBCO executes on digital transformation strategies with thousands of customers with its innovative technology.
     url: https://www.mashery.com/
+    image: https://i2.wp.com/streamdata.io/wp-content/uploads/2018/07/TCMash-1.png?fit=822%2C246&ssl=1
 
 # Other Settings
 markdown: kramdown

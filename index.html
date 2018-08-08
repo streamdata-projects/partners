@@ -39,7 +39,7 @@ layout: default
          <p><strong>The Latest:</strong></p>
            <ul style="list-style-type: circle; padding-top: 10px;">
              {% for latest in partner.latest %}
-                <li style="padding: 3px 0px 3px 20px;">&rarr;<a href="{{ latest.url }}">{{ latest.title }}</a></li>
+                <li style="padding: 3px 0px 3px 20px;">&rarr; <a href="{{ latest.url }}">{{ latest.title }}</a></li>
              {% endfor %}
            </ul>
          {% endif %}
