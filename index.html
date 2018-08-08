@@ -31,7 +31,7 @@ layout: default
       {% assign partners = site.partners %}
       {% for partner in partners %}
       <div class="partnersPanel__item enterAnimation" data-enter-animation>
-         <img src="<a href="{{ partner.url }}">{{ partner.image }}" alt="xignite logo" /></a>
+         <a href="{{ partner.url }}"><img src="{{ partner.image }}" alt="{{ partner.name }} lLgo" /></a>
          <div class="partnersPanel__itemName"><a href="{{ partner.url }}">{{ partner.name }}</a></div>
          <div class="partnersPanel__itemQuote">{{ partner.description }}</div>
       </div>
