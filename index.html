@@ -35,11 +35,15 @@ layout: default
          <a href="{{ partner.url }}"><img src="{{ partner.image }}" alt="{{ partner.name }} lLgo" /></a>
          <div class="partnersPanel__itemName"><a href="{{ partner.url }}">{{ partner.name }}</a></div>
          <div class="partnersPanel__itemQuote">{{ partner.description }}</div>
-         <ul>
-         {% for latest in partner.latest %}
-          <li style="list-style: circle; padding-left:10px;"><a href="{{ latest.url }}">{{ latest.title }}</a></li>
-         {% endfor %}
-        </ul>
+         {% assign number_of_partner_latest = partner.latest | size %}
+         number_of_partner_latest: {{ number_of_partner_latest }}<br />
+         {% if number_of_partner_latest > 0 %}
+           <ul>
+             {% for latest in partner.latest %}
+                <li style="list-style-type: circle; padding: 3px 3px 3px 20px;"><a href="{{ latest.url }}">{{ latest.title }}</a></li>
+             {% endfor %}
+           </ul>
+         {% endif %}
       </div>
       {% endfor %}
 
