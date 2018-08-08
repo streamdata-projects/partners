@@ -1,0 +1,9 @@
+title: Partners
+url: partners.streamdata.io
+
+markdown: kramdown
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
+
+github_user: streamdata-projects
+github_repo: partners
+github_branch: master
