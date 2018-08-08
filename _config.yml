@@ -6,26 +6,41 @@ url: partners.streamdata.io
 partner_philosphy: Streamdata.io access tiers and pricing are designed for the most common use cases we come accross. If your company is anything button common, feel free to connect with us as the partners below did, to discuss our custom integration, referral, reseller, and partner relationship opportunities.
 
 partners:
-  - image: https://i1.wp.com/streamdata.io/wp-content/uploads/2018/01/xignite-1.png?fit=150%2C39&ssl=1
-    name: Xignite
+  - name: Xignite
     description: Xignite inspire the future of finance by making market data easy.
     url: http://www.xignite.com/
-  - image: https://i0.wp.com/streamdata.io/wp-content/uploads/2018/01/amazon.png?fit=147%2C56&ssl=1
-    name: Amazon web Services
+    image: https://i1.wp.com/streamdata.io/wp-content/uploads/2018/01/xignite-1.png?fit=150%2C39&ssl=1
+    latest:
+      - title: Xignite: A Leader In Market Data Streaming API
+        url: https://streamdata.io/blog/xignite-market-data-streaming-api-leader/
+      - title: Postman Collections For Each Xignite Global Currencies API
+        url: https://streamdata.io/blog/postman-collections-xignite-currencies-api/
+  - name: Amazon web Services
     description: Amazon Web Services offers reliable and scalable cloud computing services.
     url: https://aws.amazon.com/
-  - image: https://i0.wp.com/streamdata.io/wp-content/uploads/2018/04/Talend-logo.png?fit=150%2C59&ssl=1
-    name: Talend
+    image: https://i0.wp.com/streamdata.io/wp-content/uploads/2018/01/amazon.png?fit=147%2C56&ssl=1
+    latest:
+      - title: An AWS Lambda Function For Streaming New Hacker News Posts Into Your S3 Data Lake
+        url: https://streamdata.io/blog/aws-lambda-function-streaming-new-hacker-news-posts-into-s3-data-lake/
+      - title: An AWS Lambda Function For Streaming Twitter Searches Into Your S3 Data Lake
+        url: https://streamdata.io/blog/aws-lambda-function-for-streaming-twitter-searches-into-your-s3-data-lake/
+  - name: Talend
     description: Talend is the world leader in big data cloud integration solutions.
     url: https://www.talend.com
-  - image: https://i1.wp.com/streamdata.io/wp-content/uploads/2018/01/trading_central.png?fit=104%2C68&ssl=1
-    name: Trading Central
+    image: https://i0.wp.com/streamdata.io/wp-content/uploads/2018/04/Talend-logo.png?fit=150%2C59&ssl=1
+    latest:
+        - title: The Next Generation Of Extract Transform and Load At TalendConnect
+          url: https://streamdata.io/blog/next-generation-extract-transform-load-talendconnect/
+        - title: When ESB and API worlds merge: @talend data streams with our historic partner Restlet to interconnect with API launched in TalendConnect
+          url: https://twitter.com/StreamdataIO/status/993858516094996481
+  - name: Trading Central
     description: Trading Central is the leader in the field of financial markets analysis.
     url: https://www.tradingcentral.com/
-  - image: https://i1.wp.com/streamdata.io/wp-content/uploads/2018/01/3scale-1.png?fit=148%2C46&ssl=1
-    name: 3Scale
+    image: https://i1.wp.com/streamdata.io/wp-content/uploads/2018/01/trading_central.png?fit=104%2C68&ssl=1
+  - name: 3Scale
     description: 3Scale helps to build a more programmable web through its API management platform.
     url: https://www.3scale.net/
+    image: https://i1.wp.com/streamdata.io/wp-content/uploads/2018/01/3scale-1.png?fit=148%2C46&ssl=1
   - image: https://i0.wp.com/streamdata.io/wp-content/uploads/2018/01/chartiq.png?fit=138%2C42&ssl=1/>
     name: ChartIQ
     description: ChartIQ creates HTML5 financial charting and data visualization solutions for capital markets.
