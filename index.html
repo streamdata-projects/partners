@@ -36,9 +36,9 @@ layout: default
          <div class="partnersPanel__itemQuote">{{ partner.description }}</div>
          {% assign number_of_partner_latest = partner.latest | size %}
          {% if number_of_partner_latest > 0 %}
-           <ul style="list-style-type: circle;">
+           <ul style="list-style-type: circle; padding-top: 5px;">
              {% for latest in partner.latest %}
-                <li style="padding: 3px 3px 3px 20px;"><a href="{{ latest.url }}">{{ latest.title }}</a></li>
+                <li style="padding: 3px 0px 3px 20px;"><a href="{{ latest.url }}">{{ latest.title }}</a></li>
              {% endfor %}
            </ul>
          {% endif %}
