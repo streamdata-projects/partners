@@ -41,6 +41,11 @@ partners:
     description: 3Scale helps to build a more programmable web through its API management platform.
     url: https://www.3scale.net/
     image: https://i1.wp.com/streamdata.io/wp-content/uploads/2018/01/3scale-1.png?fit=148%2C46&ssl=1
+    latest:
+        - title: 3Scale Technology Partner
+          url: https://www.3scale.net/partners/streamdata-io/
+        - title: Streaming APIs and the Internet of Things
+          url: https://www.3scale.net/2015/09/streaming-apis-and-the-internet-of-things/
   - image: https://i0.wp.com/streamdata.io/wp-content/uploads/2018/01/chartiq.png?fit=138%2C42&ssl=1/>
     name: ChartIQ
     description: ChartIQ creates HTML5 financial charting and data visualization solutions for capital markets.
