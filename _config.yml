@@ -17,7 +17,7 @@ partners:
       - title: Postman Collections For Each Xignite Global Currencies API
         url: https://streamdata.io/blog/postman-collections-xignite-currencies-api/
   - name: Amazon web Services
-    ranking: 2
+    ranking: 16
     description: Amazon Web Services offers reliable and scalable cloud computing services.
     url: https://aws.amazon.com/
     image: https://i0.wp.com/streamdata.io/wp-content/uploads/2018/01/amazon.png?fit=147%2C56&ssl=1
@@ -142,7 +142,7 @@ partners:
         - title: Converting Postman Collections Into OpenAPI Definitions
           url: https://streamdata.io/blog/postman-collections-openapi-definitions/
   - name: Axway
-    ranking: 16
+    ranking: 2
     description: Realizing the transformational power in every customer.
     url: http://axway.com
     image: https://i1.wp.com/streamdata.io/wp-content/uploads/2018/05/Axway-logo.png?fit=170%2C60&ssl=1
