@@ -37,7 +37,7 @@ layout: default
          {% assign number_of_partner_latest = partner.latest | size %}
          {% if number_of_partner_latest > 0 %}
          <p><strong>The Latest:</strong></p>
-           <ul style="list-style-type: circle; padding-top: 10px;">
+           <ul style="list-style-type: circle; padding-top: 15px;">
              {% for latest in partner.latest %}
                 <li style="padding: 3px 0px 3px 20px;">&rarr; <a href="{{ latest.url }}">{{ latest.title }}</a></li>
              {% endfor %}
