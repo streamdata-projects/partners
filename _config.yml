@@ -3,7 +3,7 @@ title: Partners
 url: partners.streamdata.io
 
 # Partners
-partner_philosophy: This is the Streamdata.io partner center. Where we showcase and engage with other technology providers in the space. We have worked to establish a relationship with each of the companies below, from helping them evolve their services, to being a reseller, and publishing our solutions in their marketplace. Take a look at our current partners, then maybe consider if your product or service might be a fit for working with Streamdata.io and our customers.
+philosophy: This is the Streamdata.io partner center. Where we showcase and engage with other technology providers in the space. We have worked to establish a relationship with each of the companies below, from helping them evolve their services, to being a reseller, and publishing our solutions in their marketplace. Take a look at our current partners, then maybe consider if your product or service might be a fit for working with Streamdata.io and our customers.
 
 partners:
   - name: Xignite
@@ -11,7 +11,7 @@ partners:
     url: http://www.xignite.com/
     image: https://i1.wp.com/streamdata.io/wp-content/uploads/2018/01/xignite-1.png?fit=150%2C39&ssl=1
     latest:
-      - title: Xignite: A Leader In Market Data Streaming API
+      - title: Xignite, A Leader In Market Data Streaming API
         url: https://streamdata.io/blog/xignite-market-data-streaming-api-leader/
       - title: Postman Collections For Each Xignite Global Currencies API
         url: https://streamdata.io/blog/postman-collections-xignite-currencies-api/
