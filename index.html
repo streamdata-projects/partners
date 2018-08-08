@@ -27,7 +27,7 @@ layout: default
 <div class="partnersPanel">
    <div class="partnersPanel__container">
 
-      {% assign partners = site.partners %}
+      {% assign partners = site.partners | sort: 'ranking' %}
       {% assign number_of_partners = partners | size %}
       {% for partner in partners %}
       <div class="partnersPanel__item enterAnimation" data-enter-animation>
