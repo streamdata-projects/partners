@@ -9,10 +9,10 @@ layout: default
    <div class="imageMasthead__content-side">
       <div class="imageMasthead__content-container">
          <div class="imageMasthead__content-wrap">
-            <h3 class="imageMasthead__eyebrow enterAnimation" data-enter-animation>PARTNERS</h3>
-            <h1 class="imageMasthead__heading enterAnimation" data-enter-animation>Partner philosophy</h1>
+            <h3 class="imageMasthead__eyebrow enterAnimation" data-enter-animation>{{ site.title }}</h3>
+            <h1 class="imageMasthead__heading enterAnimation" data-enter-animation>{{ site.title }} philosophy</h1>
             <div class="imageMasthead__body enterAnimation" data-enter-animation>
-               <p>Streamdata.io access tiers and pricing are designed for the most common use cases we come accross. If your company is anything button common, feel free to connect with us as the partners below did, to discuss our custom integration, referral, reseller, and partner relationship opportunities.</p>
+               <p>{{ site.partner_philosophy }}</p>
             </div>
          </div>
       </div>
@@ -23,14 +23,16 @@ layout: default
       </div>
    </div>
 </section>
+
+<!--list partners--->
 <div class="partnersPanel">
    <div class="partnersPanel__container">
 
       {% assign partners = site.partners %}
       {% for partner in partners %}
       <div class="partnersPanel__item enterAnimation" data-enter-animation>
-         <img src="{{ partner.image }}" alt="xignite logo" />
-         <div class="partnersPanel__itemName">{{ partner.image }}</div>
+         <img src="<a href="{{ partner.url }}">{{ partner.image }}" alt="xignite logo" /></a>
+         <div class="partnersPanel__itemName"><a href="{{ partner.url }}">{{ partner.name }}</a></div>
          <div class="partnersPanel__itemQuote">{{ partner.description }}</div>
       </div>
       {% endfor %}
@@ -38,3 +40,4 @@ layout: default
 
    </div>
 </div>
+<!--list partners--->
