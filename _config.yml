@@ -7,3 +7,57 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "
 github_user: streamdata-projects
 github_repo: partners
 github_branch: master
+
+partners:
+
+- image: https://i1.wp.com/streamdata.io/wp-content/uploads/2018/01/xignite-1.png?fit=150%2C39&ssl=1
+  name: Xignite
+  description: Xignite inspire the future of finance by making market data easy.
+- image: https://i0.wp.com/streamdata.io/wp-content/uploads/2018/01/amazon.png?fit=147%2C56&ssl=1
+  name: Amazon web Services
+  description: Amazon Web Services offers reliable and scalable cloud computing services.
+- image: https://i0.wp.com/streamdata.io/wp-content/uploads/2018/04/Talend-logo.png?fit=150%2C59&ssl=1
+  name: Talend
+  description: Talend is the world leader in big data cloud integration solutions.
+- image: https://i1.wp.com/streamdata.io/wp-content/uploads/2018/01/trading_central.png?fit=104%2C68&ssl=1
+  name: Trading Central
+  description: Trading Central is the leader in the field of financial markets analysis.
+- image: https://i1.wp.com/streamdata.io/wp-content/uploads/2018/01/3scale-1.png?fit=148%2C46&ssl=1
+  name: 3Scale
+  description: 3Scale helps to build a more programmable web through its API management platform.
+- image: https://i0.wp.com/streamdata.io/wp-content/uploads/2018/01/chartiq.png?fit=138%2C42&ssl=1/>
+  name: ChartIQ
+  description: ChartIQ creates HTML5 financial charting and data visualization solutions for capital markets.
+- image: https://i2.wp.com/streamdata.io/wp-content/uploads/2018/01/Google_Cloud.png?fit=114%2C65&ssl=1
+  name: Google Cloud Platform
+  description: Google Cloud Platform lets developers build, deploy, and scale applications, websites, and services on the same infrastructure as Google.
+- image: https://i2.wp.com/streamdata.io/wp-content/uploads/2018/01/pivotal.png?fit=136%2C33&ssl=1
+  name: Pivotal
+  description: Pivotal enables the leading companies in the world to innovate by employing an approach focused on building software.
+- image: https://i2.wp.com/streamdata.io/wp-content/uploads/2018/02/kong-blue2.png?fit=300%2C99&ssl=1
+  name: Kong
+  description: Kong and Streamdata.io partner to deliver best-in-class API management solution to developers.
+- image: https://i1.wp.com/streamdata.io/wp-content/uploads/2018/05/ibmpos_grey.jpg?fit=170%2C62&ssl=1
+  name: IBM
+  description: The IBM Marketplace is a digital store where you can discover, try, and buy software, hardware, and services from both IBM and third-party vendors and Streamdata.io is the first streaming API service available in the marketplace.
+- image: https://i0.wp.com/streamdata.io/wp-content/uploads/2018/05/quanthouse.jpg?fit=170%2C42&ssl=1
+  name: QuantHouse
+  description: QuantHouse is the global independent provider of high performance API-based market data and algo trading services.
+- image: https://i0.wp.com/streamdata.io/wp-content/uploads/2018/05/nasdaq-logo.png?fit=170%2C64&ssl=1" alt="nasdaq logo
+  name: Nasdaq
+  description: Your data is time-sensitive -- access real-time market data via an API provider with advanced server pushing and consumption analytics at a lower cost.
+- image: https://i2.wp.com/streamdata.io/wp-content/uploads/2018/05/Salesforce-partner.png?fit=170%2C170&ssl=1
+  name: Salesforce
+  description:
+- image: https://i2.wp.com/streamdata.io/wp-content/uploads/2018/05/APImetrics.png?fit=170%2C43&ssl=1
+  name: APImetrics
+  description: APIMetrics created the industry’s best real-time API & Cloud Service monitoring and analytics. In fact, they’re the industry’s first and only intelligent, analytics-driven API performance solution built specifically for enterprise.
+- image: https://i0.wp.com/streamdata.io/wp-content/uploads/2018/05/Postman-logo.png?fit=170%2C68&ssl=1
+  name: Postman
+  description: The Postman toolchain can help to build software that is useful across various use cases ranging from a single developer to an enterprise. We are building for the future where everything is going to be connected.
+- image: https://i1.wp.com/streamdata.io/wp-content/uploads/2018/05/Axway-logo.png?fit=170%2C60&ssl=1
+  name: Axway
+  description: Realizing the transformational power in every customer.
+- image: https://i2.wp.com/streamdata.io/wp-content/uploads/2018/07/TCMash-1.png?fit=822%2C246&ssl=1
+  name: TIBCO Cloud Mashery
+  description: TIBCO is a global leader in integration, API management, and analytics. With the TIBCO Connected Intelligence Cloud, TIBCO executes on digital transformation strategies with thousands of customers with its innovative technology.
