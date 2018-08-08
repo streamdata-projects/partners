@@ -33,10 +33,9 @@ layout: default
          <a href="{{ partner.url }}"><img src="{{ partner.image }}" alt="{{ partner.name }} lLgo" /></a>
          <div class="partnersPanel__itemName"><a href="{{ partner.url }}">{{ partner.name }}</a></div>
          <div class="partnersPanel__itemQuote">{{ partner.description }}</div>
-        HERE: {{ partner.latest }}--
          <ul>
          {% for latest in partner.latest %}
-          <li><a href="{{ latest.url }}">{{ latest.title }}</a></li>
+          <listyle="list-style: circle; padding-left:10px;"><a href="{{ latest.url }}">{{ latest.title }}</a></li>
          {% endfor %}
         </ul>
       </div>
