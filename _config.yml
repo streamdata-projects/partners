@@ -31,7 +31,7 @@ partners:
     latest:
         - title: The Next Generation Of Extract Transform and Load At TalendConnect
           url: https://streamdata.io/blog/next-generation-extract-transform-load-talendconnect/
-        - title: When ESB and API worlds merge: @talend data streams with our historic partner Restlet to interconnect with API launched in TalendConnect
+        - title: When ESB and API worlds merge, @talend data streams with our historic partner Restlet to interconnect with API launched in TalendConnect
           url: https://twitter.com/StreamdataIO/status/993858516094996481
   - name: Trading Central
     description: Trading Central is the leader in the field of financial markets analysis.
