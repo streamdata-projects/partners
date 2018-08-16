@@ -1,7 +1,149 @@
 title: Partners
 url: partners.streamdata.io
-philosophy: This is the Streamdata.io partner center. Where we showcase and engage with other technology providers in the space. We have worked to establish a relationship with each of the companies below, from helping them evolve their services, to being a reseller, and publishing our solutions in their marketplace. Take a look at our current partners, then maybe consider if your product or service might be a fit for working with Streamdata.io and our customers.
+philosophy: This is the Streamdata.io partner center. Where we showcase and engage
+  with other technology providers in the space. We have worked to establish a relationship
+  with each of the companies below, from helping them evolve their services, to being
+  a reseller, and publishing our solutions in their marketplace. Take a look at our
+  current partners, then maybe consider if your product or service might be a fit
+  for working with Streamdata.io and our customers.
 competition:
+- organization_id: OrIfMeaJ0J72v1168IrrAv7DcEZpJ0FFIZ4VcJBlIuqyg117
+  name: 42Crunch
+  description: 42Crunch builds the enterprise grade API Security platform including
+    an industry-first API firewall and support for OAuth, OpenID Connect and JWT.
+  url: https://www.42crunch.com
+  email: ""
+  blog_url: https://www.42crunch.com/blog/
+  blog_rss_url: https://www.42crunch.com/feed/
+  twitter_url: https://twitter.com/42crunch
+  github_url: https://github.com/42crunch
+  tag_url: ""
+  tag_description: ""
+  base_url: ""
+  portal_url: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28360-www-42crunch-com.jpg
+  image_width: "150"
+  latest_blog:
+  - title: 42Crunch partners with Kudelski IoT Security group
+    url: https://www.42crunch.com/kudelski-partnership-announce/
+    time_stamp: "2017-12-21 02:10:11"
+  - title: 'API Security FAQ : the top 5 questions we answered at the APIWorld conference!'
+    url: https://www.42crunch.com/api-security-faq/
+    time_stamp: "2017-10-10 10:43:48"
+  - title: Start acting on API Security today!
+    url: https://www.42crunch.com/act-on-api-security/
+    time_stamp: "2017-07-25 06:50:53"
+  - title: Why do we need the A10 entry in the OWASP Top 10 ?
+    url: https://www.42crunch.com/a10-owasp/
+    time_stamp: "2017-07-18 05:42:29"
+  - title: "42crunch named a Cool Vendor in Monitoring and Management
+      of Threats to Applications and Data"
+    url: https://www.42crunch.com/cool-vendor-2017/
+    time_stamp: "2017-07-04 04:26:38"
+  latest_tweets:
+  - title: Expect API Breaches to Accelerate!  https://t.co/xFDRiZaDPT
+    url: https://twitter.com/42crunch/status/1027140309774475264
+    time_stamp: "2018-08-08 03:31:47"
+  - title: '@esStackOverflow Voy a usar esto en mi proxima charla! Muy bueno :)'
+    url: https://twitter.com/42crunch/status/1006887391150436359
+    time_stamp: "2018-06-13 06:13:55"
+  - title: "If you run Drupal 7.x or 8.x systems, update them immediately to address
+      this remote execution, highly critical iss... https://t.co/sFC07pe7sO"
+    url: https://twitter.com/42crunch/status/990348322488582150
+    time_stamp: "2018-04-28 14:53:34"
+  - title: High-Grade API Security For Banks https://t.co/dij08X7IMC via @nordicapis
+    url: https://twitter.com/42crunch/status/968614317057892352
+    time_stamp: "2018-02-27 14:30:23"
+  - title: What is SQL injection? This oldie but goodie can make your web applications
+      https://t.co/kBTbvU73h8 via @csoonline
+    url: https://twitter.com/42crunch/status/968555098115858438
+    time_stamp: "2018-02-27 10:35:04"
+  - title: Pushing for automation at @APIdaysGlobal ! https://t.co/fNiLZdPUcV
+    url: https://twitter.com/42crunch/status/959131883387916290
+    time_stamp: "2018-02-01 10:30:35"
+  - title: No more SSL/early TLS by June 30, 2018! Get ready ! https://t.co/Udm93hFqfp
+    url: https://twitter.com/42crunch/status/945733572308230145
+    time_stamp: "2017-12-26 11:10:29"
+  - title: "Brilliant presentation by Mark Willis from @aetna! Summarizes perfectly
+      what 42Crunch is advocating and was built t... https://t.co/gsQhrrUV0C"
+    url: https://twitter.com/42crunch/status/941259474173612032
+    time_stamp: "2017-12-14 02:52:01"
+  - title: "RT @TheMarkONeill: Published today with @dizumerle and @jeremydhoinne
+      : How to Build an Effective API Security Strategy https://t.co/JTyZ..."
+    url: https://twitter.com/42crunch/status/939576014170148867
+    time_stamp: "2017-12-09 11:22:32"
+  - title: 'RT @OpenApiSpec: The TSC is pleased to announce the release of @OpenApiSpec
+      3.0.1 https://t.co/DzZtxj4qyH #API #opensource'
+    url: https://twitter.com/42crunch/status/939075639113547776
+    time_stamp: "2017-12-08 02:14:14"
+  - title: 'Want to learn about API Security and how #DevSecOps is your best bet to
+      proper security? Get our free whitepaper! https://t.co/YJvgYLEOgw'
+    url: https://twitter.com/42crunch/status/913135699955732488
+    time_stamp: "2017-09-27 13:18:10"
+  - title: '30 mins to go before my talk at @APIWorld on API Security - Check the
+      presentation here : https://t.co/H1zyZdSkwt!'
+    url: https://twitter.com/42crunch/status/912718065690746880
+    time_stamp: "2017-09-26 09:38:38"
+  - title: 'we are on booth #236! https://t.co/ddZfuqFB0G'
+    url: https://twitter.com/42crunch/status/912717804377214977
+    time_stamp: "2017-09-26 09:37:36"
+  - title: 'Such a thrill to see everybody walking on the booth floor at #APIWorld17
+      with 42Crunch around their necks :) https://t.co/lx1q2eViLc'
+    url: https://twitter.com/42crunch/status/912544913102839808
+    time_stamp: "2017-09-25 22:10:36"
+  - title: 'Quite emotive moment as we are showing our platform for first time at
+      #APIWorld17- A date to remember :) https://t.co/xezFzFfi1Z'
+    url: https://twitter.com/42crunch/status/912541093836636161
+    time_stamp: "2017-09-25 21:55:25"
+  - title: Brilliant Podcast ! Must listen ! @shehackpurple @thedeadrobots we will
+      have to talk :) https://t.co/92enWVUtwd
+    url: https://twitter.com/42crunch/status/907579170540138496
+    time_stamp: "2017-09-12 05:18:30"
+  - title: How To Build More Secure Apps https://t.co/hegeNq8Ze7 via @DZone
+    url: https://twitter.com/42crunch/status/906430078174859264
+    time_stamp: "2017-09-09 01:12:25"
+  - title: API Message Integrity With JSON Web Token (JWT) https://t.co/fDDuEasC15
+      via @DZone
+    url: https://twitter.com/42crunch/status/899389872649228288
+    time_stamp: "2017-08-20 14:57:10"
+  - title: Congratulations to the community who contributed to this important milestone
+      of the OpenAPI spec! https://t.co/bQgrd8orJj
+    url: https://twitter.com/42crunch/status/890241056687755265
+    time_stamp: "2017-07-26 09:03:02"
+  - title: Is security killing your digital transformation? Great set of guidelines
+      from SDTimes! https://t.co/d3AvvamfNn
+    url: https://twitter.com/42crunch/status/887710700252135425
+    time_stamp: "2017-07-19 09:28:18"
+  - title: This article exposes the main motivation behind the 42Crunch platform!  https://t.co/6PSxlbjX2S.
+      API Security is a team job!
+    url: https://twitter.com/42crunch/status/885258679691468800
+    time_stamp: "2017-07-12 15:04:51"
+  - title: Time to update your Wordpress plugins! Another SQL injection flaw discovered.
+      https://t.co/AVG16sn3Aq
+    url: https://twitter.com/42crunch/status/882157012175532033
+    time_stamp: "2017-07-04 01:39:56"
+  - title: 42Crunch Named a 2017 Cool Vendor in Monitoring and Management of Threats
+      to Applications and Data https://t.co/9WksgcJ9sn
+    url: https://twitter.com/42crunch/status/881892949898002433
+    time_stamp: "2017-07-03 08:10:38"
+  - title: 'RT @OpenApiSpec: Open API Initiative Announces v3 Comment Period and Release
+      Timeline https://t.co/AfWNPpu8Av #OSS'
+    url: https://twitter.com/42crunch/status/874382209020461057
+    time_stamp: "2017-06-12 14:45:38"
+  - title: We are honoured to be a Gartner Cool Vendor for Monitoring and Management
+      of Threats to Applications ! https://t.co/y48CzYnJRE @Gartner_inc
+    url: https://twitter.com/42crunch/status/873267323347587072
+    time_stamp: "2017-06-09 12:55:29"
+  latest_github_activity: []
+  latest_reddit_searches: []
+  latest_hacker_news_searches: []
+  latest_stack_exchange_searches: []
+  tags:
+  - Technology
+  - Security
+  - SDIO Partner
+  - SaaS
+  - Enterprise
 - organization_id: 4V123YoOLFpV5LlFjcYPTnkrz89tC91fdO51z7y60uipU117
   name: Amazon Web Services
   description: Amazon Web Services (AWS) is a subsidiary of Amazon.com that provides
@@ -794,6 +936,36 @@ competition:
   - SDIO Partner
   - Financial
   - Dashboards
+- organization_id: emYJnppD116qeLcsuZgQxqx0TGPY116n2C116lZcCSyAr1zcE117
+  name: Elastic Beam
+  description: "Elastic Beam brings AI-powered cyberattack protection to any organization's
+    API infrastructure ' on premise, in public clouds, or in hybrid clouds. Its
+    API Behavioral Security blocks cyberattacks that use APIs to compromise data,
+    applications and syste..."
+  url: https://www.elasticbeam.com
+  email: ""
+  blog_url: https://www.elasticbeam.com/blog/
+  blog_rss_url: ""
+  twitter_url: https://twitter.com/elasticbeam
+  github_url: https://github.com/elasticbeam
+  tag_url: ""
+  tag_description: ""
+  base_url: ""
+  portal_url: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28361-www-elasticbeam-com.jpg
+  image_width: "150"
+  latest_blog: []
+  latest_tweets: []
+  latest_github_activity: []
+  latest_reddit_searches: []
+  latest_hacker_news_searches: []
+  latest_stack_exchange_searches: []
+  tags:
+  - Technology
+  - Security
+  - SDIO Partner
+  - SaaS
+  - Enterprise
 - organization_id: JKmrKv75Z4ANwjyWl2TK6FZ5LLVA7etM4DmVRh38YQc117
   name: Google Cloud Platform
   description: Google Cloud Platform, offered by Google, is a suite of cloud computing
@@ -1873,6 +2045,203 @@ competition:
   - Customer
   - CRM
   - BaaS
+- organization_id: 8zVl3dSm3ENuDMsHOu1161123Wl3Pkijd4h5h2wXI9bCxL8117
+  name: StopLight
+  description: 'StopLight, providing engineering teams with the best way to document,
+    test, and build web APIs.  '
+  url: https://api.github.com/repos/stoplightio/desktop/issues/290
+  email: ""
+  blog_url: http://blog.stoplight.io/
+  blog_rss_url: http://blog.stoplight.io/rss/
+  twitter_url: https://twitter.com/stoplightio
+  github_url: https://github.com/stoplightio
+  tag_url: ""
+  tag_description: ""
+  base_url: ""
+  portal_url: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2951-stoplight.jpg
+  image_width: "150"
+  latest_blog:
+  - title: Stoplight s SendGrid
+    url: https://blog.stoplight.io/stoplight-s-sendgrid-c7f87e47aa0c?source=rss----9be7d78deaf4---4
+    time_stamp: "2017-02-14 14:09:58"
+  - title: Introducing Scenarios
+    url: https://blog.stoplight.io/introducing-scenarios-3b88242cf9cc?source=rss----9be7d78deaf4---4
+    time_stamp: "2017-02-08 16:22:20"
+  - title: Trump Rolling to Make APIs Great Again
+    url: https://blog.stoplight.io/trump-rolling-to-make-apis-great-again-a80678766564?source=rss----9be7d78deaf4---4
+    time_stamp: "2016-11-03 13:01:43"
+  - title: Chivalry is dead, and so is testing.
+    url: https://blog.stoplight.io/chivalry-is-dead-and-so-is-testing-8e9103251f15?source=rss----9be7d78deaf4---4
+    time_stamp: "2016-10-05 08:47:00"
+  - title: New Stoplight Docs, a Stoplight API, RAML 1.0, 5x Faster API Docs
+    url: https://blog.stoplight.io/new-stoplight-docs-a-stoplight-api-raml-1-0-5x-faster-api-docs-b90cfcfff517?source=rss----9be7d78deaf4---4
+    time_stamp: "2016-09-29 08:37:59"
+  - title: A big v2 update, and goodbye to v1
+    url: https://blog.stoplight.io/a-big-v2-update-and-goodbye-to-v1-f8b51f7dbd08?source=rss----9be7d78deaf4---4
+    time_stamp: "2016-08-16 18:10:37"
+  - title: "Stoplight \u2764 Windows and Linux"
+    url: https://blog.stoplight.io/stoplight-windows-and-linux-97fe9bdbb5e7?source=rss----9be7d78deaf4---4
+    time_stamp: "2016-07-25 10:28:55"
+  latest_tweets: []
+  latest_github_activity:
+  - title: lottamus pushed to stoplightio/js-coding-challenge
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: lottamus
+    repo: stoplightio/js-coding-challenge
+  - title: erik-hansen submitted an issue on stoplightio/desktop
+    url: https://api.github.com/repos/stoplightio/desktop/issues/297
+    time_stamp: "2018-08-15"
+    type: IssuesEvent
+    user_name: erik-hansen
+    repo: stoplightio/desktop
+  - title: lottamus pushed to stoplightio/js-coding-challenge
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: lottamus
+    repo: stoplightio/js-coding-challenge
+  - title: lottamus pushed to stoplightio/js-coding-challenge
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: lottamus
+    repo: stoplightio/js-coding-challenge
+  - title: lottamus pushed to stoplightio/js-coding-challenge
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: lottamus
+    repo: stoplightio/js-coding-challenge
+  - title: lottamus pushed to stoplightio/js-coding-challenge
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: lottamus
+    repo: stoplightio/js-coding-challenge
+  - title: lottamus pushed to stoplightio/js-coding-challenge
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: lottamus
+    repo: stoplightio/js-coding-challenge
+  - title: lottamus pushed to stoplightio/js-coding-challenge
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: lottamus
+    repo: stoplightio/js-coding-challenge
+  - title: rflprr submitted an issue on stoplightio/desktop
+    url: https://api.github.com/repos/stoplightio/desktop/issues/296
+    time_stamp: "2018-08-15"
+    type: IssuesEvent
+    user_name: rflprr
+    repo: stoplightio/desktop
+  - title: rossmcdonald pushed to stoplightio/gitlabhq
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: rossmcdonald
+    repo: stoplightio/gitlabhq
+  - title: stoplightio/prism being watched by apievangelist
+    url: ""
+    time_stamp: "2018-08-14"
+    type: WatchEvent
+    user_name: apievangelist
+    repo: stoplightio/prism
+  - title: lottamus submitted an issue on stoplightio/desktop
+    url: https://api.github.com/repos/stoplightio/desktop/issues/295
+    time_stamp: "2018-08-14"
+    type: IssuesEvent
+    user_name: lottamus
+    repo: stoplightio/desktop
+  - title: rossmcdonald submitted an issue on stoplightio/docs
+    url: https://api.github.com/repos/stoplightio/docs/issues/242
+    time_stamp: "2018-08-14"
+    type: IssuesEvent
+    user_name: rossmcdonald
+    repo: stoplightio/docs
+  - title: erik-hansen submitted an issue on stoplightio/desktop
+    url: https://api.github.com/repos/stoplightio/desktop/issues/294
+    time_stamp: "2018-08-13"
+    type: IssuesEvent
+    user_name: erik-hansen
+    repo: stoplightio/desktop
+  - title: erik-hansen submitted an issue on stoplightio/desktop
+    url: https://api.github.com/repos/stoplightio/desktop/issues/293
+    time_stamp: "2018-08-13"
+    type: IssuesEvent
+    user_name: erik-hansen
+    repo: stoplightio/desktop
+  - title: rowa97 pushed to stoplightio/docs
+    url: ""
+    time_stamp: "2018-08-13"
+    type: PushEvent
+    user_name: rowa97
+    repo: stoplightio/docs
+  - title: rowa97 pushed to stoplightio/docs
+    url: ""
+    time_stamp: "2018-08-13"
+    type: PushEvent
+    user_name: rowa97
+    repo: stoplightio/docs
+  - title: pytlesk4 pushed to stoplightio/gitlabhq
+    url: ""
+    time_stamp: "2018-08-13"
+    type: PushEvent
+    user_name: pytlesk4
+    repo: stoplightio/gitlabhq
+  - title: tbarn commented on an issue for stoplightio/desktop
+    url: https://api.github.com/repos/stoplightio/desktop/issues/comments/412587489
+    time_stamp: "2018-08-13"
+    type: IssueCommentEvent
+    user_name: tbarn
+    repo: stoplightio/desktop
+  - title: stoplightio/prism being watched by gerxiu
+    url: ""
+    time_stamp: "2018-08-13"
+    type: WatchEvent
+    user_name: gerxiu
+    repo: stoplightio/prism
+  - title: stoplightio/api-spec-converter being watched by rmros
+    url: ""
+    time_stamp: "2018-08-13"
+    type: WatchEvent
+    user_name: rmros
+    repo: stoplightio/api-spec-converter
+  - title: usmanovbf submitted an issue on stoplightio/desktop
+    url: https://api.github.com/repos/stoplightio/desktop/issues/292
+    time_stamp: "2018-08-13"
+    type: IssuesEvent
+    user_name: usmanovbf
+    repo: stoplightio/desktop
+  - title: usmanovbf submitted an issue on stoplightio/desktop
+    url: https://api.github.com/repos/stoplightio/desktop/issues/291
+    time_stamp: "2018-08-13"
+    type: IssuesEvent
+    user_name: usmanovbf
+    repo: stoplightio/desktop
+  - title: usmanovbf submitted an issue on stoplightio/desktop
+    url: https://api.github.com/repos/stoplightio/desktop/issues/290
+    time_stamp: "2018-08-13"
+    type: IssuesEvent
+    user_name: usmanovbf
+    repo: stoplightio/desktop
+  latest_reddit_searches: []
+  latest_hacker_news_searches: []
+  latest_stack_exchange_searches: []
+  tags:
+  - Testing
+  - Technology
+  - Studio
+  - SDIO Partner
+  - SaaS
+  - Proxy
+  - Design
+  - Clients
+  - API LIfeycle
 - organization_id: tNKyZxQqXbtabRnTZRrjtWpFsLDGncIzT1eINslrnlc117
   name: Talend
   description: Talend open source integration software offers real-time solutions
@@ -2845,8 +3214,13 @@ competition:
   - Bond Markets
   - Articles
 markdown: kramdown
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-
+exclude:
+- .rvmrc
+- .rbenv-version
+- README.md
+- Rakefile
+- changelog.md
+- .DS_Store
 github_user: streamdata-projects
 github_repo: partners
 github_branch: master
