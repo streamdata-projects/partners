@@ -21,14 +21,14 @@ competition:
   - title: Aurora Serverless MySQL Generally Available
     url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/zDmobFZZkEk/
     time_stamp: "2018-08-09 17:10:46"
-  - title: "AWS Online Tech Talks \u2013 August 2018"
+  - title: "AWS Online Tech Talks ' August 2018"
     url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/5B9YGXIJlNQ/
     time_stamp: "2018-08-06 15:11:05"
-  - title: "AWS IoT Device Defender Now Available \u2013 Keep Your Connected Devices
+  - title: "AWS IoT Device Defender Now Available ' Keep Your Connected Devices
       Safe"
     url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/ldmdgZIXhwM/
     time_stamp: "2018-08-02 10:12:00"
-  - title: "New \u2013 Provisioned Throughput for Amazon Elastic File System (EFS)"
+  - title: "New ' Provisioned Throughput for Amazon Elastic File System (EFS)"
     url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/Mw2n4oJYETU/
     time_stamp: "2018-08-02 07:08:55"
   - title: Thoughts On Machine Learning Accuracy
@@ -41,13 +41,13 @@ competition:
       Containers
     url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/wu3xyJvgVEY/
     time_stamp: "2018-07-20 16:15:58"
-  - title: "Amazon Polly Update \u2013 TimeDriven Prosody and Asynchronous Synthesis"
+  - title: "Amazon Polly Update ' TimeDriven Prosody and Asynchronous Synthesis"
     url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/GnnxvEdn-o8/
     time_stamp: "2018-07-17 11:56:45"
-  - title: "Amazon EC2 Instance Update \u2013 Faster Processors and More Memory"
+  - title: "Amazon EC2 Instance Update ' Faster Processors and More Memory"
     url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/uGr9Ozu5zVE/
     time_stamp: "2018-07-17 08:13:36"
-  - title: "New \u2013 EC2 Compute Instances for AWS Snowball Edge"
+  - title: "New ' EC2 Compute Instances for AWS Snowball Edge"
     url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/9b3U_AdLkdI/
     time_stamp: "2018-07-17 07:43:28"
   latest_tweets:
@@ -174,13 +174,13 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1916-apimetrics.jpg
   image_width: "150"
   latest_blog:
-  - title: "API Compliance Monitoring \u2013 Can you afford not to?"
+  - title: "API Compliance Monitoring ' Can you afford not to?"
     url: https://apimetrics.io/2018/08/09/api-compliance-monitoring-can-you-afford-not-to/
     time_stamp: "2018-08-09 12:03:52"
   - title: Why API Monitoring?
     url: https://apimetrics.io/2018/08/08/why-api-monitoring/
     time_stamp: "2018-08-08 10:20:11"
-  - title: "Open Banking CMA9 API Performance Data CMA9  \u2013 July 2018"
+  - title: "Open Banking CMA9 API Performance Data CMA9  ' July 2018"
     url: https://apimetrics.io/2018/08/06/cma9-open-banking-api-performance/
     time_stamp: "2018-08-06 10:21:33"
   - title: 'CMA9 Open Banking public APIs: Latest News'
@@ -201,7 +201,7 @@ competition:
   - title: APImetrics DevOps Product of the Year
     url: https://apimetrics.io/2018/06/14/apimetrics-devops-product-of-the-year/
     time_stamp: "2018-06-14 12:36:29"
-  - title: "Watching The Connectors \u2013 SAP, Mulesoft, Cloud Elements, Oh My!"
+  - title: "Watching The Connectors ' SAP, Mulesoft, Cloud Elements, Oh My!"
     url: https://apimetrics.io/2018/06/14/watching-the-connectors/
     time_stamp: "2018-06-14 05:06:12"
   latest_tweets:
@@ -353,10 +353,10 @@ competition:
       Update'
     url: https://www.axway.com/en/webinar/partner-webinar-axway-embedded-analytics-api-management-solution-update
     time_stamp: "2018-07-30 03:11:08"
-  - title: "AWS Summit \u2013 Atlanta"
+  - title: "AWS Summit ' Atlanta"
     url: https://www.axway.com/en/event/aws-summit-atlanta
     time_stamp: "2018-07-27 12:32:00"
-  - title: "Axway Software \u2013 HalfYear 2018: Revenue of \u20AC134.9 million"
+  - title: "Axway Software ' HalfYear 2018: Revenue of \u20AC134.9 million"
     url: https://www.axway.com/en/pressrelease/2018/axway-software-half-year-2018-revenue1-eu1349-million
     time_stamp: "2018-07-25 09:27:00"
   - title: API:WORLD
@@ -414,7 +414,7 @@ competition:
     url: https://twitter.com/Axway/status/1028014182686281728
     time_stamp: "2018-08-10 13:24:15"
   - title: "Axway is proud to sponsor the 2018 National Plan Automation Group conference
-      \u201CMountains of Opportunity in #EDI\u201D in... https://t.co/JM7pTWsTli"
+      Mountains of Opportunity in #EDI in... https://t.co/JM7pTWsTli"
     url: https://twitter.com/Axway/status/1027970163067383808
     time_stamp: "2018-08-10 10:29:20"
   - title: "It's not too late to accelerate your IT modernization efforts for
@@ -886,7 +886,7 @@ competition:
       for Public Cloud Storage \u2192 https://t.co/B57oilMjUB https://t.co/VQRmbbrhr3"
     url: https://twitter.com/googlecloud/status/1029170995624660992
     time_stamp: "2018-08-13 18:01:01"
-  - title: "#GoogleNext18 \u201Cfurther confirmed the transformation Google Cloud
+  - title: "#GoogleNext18 further confirmed the transformation Google Cloud
       has undergone since Diane Greene took the helm as... https://t.co/1arGDYemJe"
     url: https://twitter.com/googlecloud/status/1029148091876814848
     time_stamp: "2018-08-13 16:30:00"
@@ -1065,7 +1065,7 @@ competition:
       a great place to start. Find Harry Bagdi dem... https://t.co/QqNLjpL8sx"
     url: https://twitter.com/thekonginc/status/1029774725302501377
     time_stamp: "2018-08-15 10:00:01"
-  - title: "Service Mesh \u2013 A New Pattern, Not A New Technology?https://t.co/S3hJ9l19Zc"
+  - title: "Service Mesh ' A New Pattern, Not A New Technology?https://t.co/S3hJ9l19Zc"
     url: https://twitter.com/thekonginc/status/1029769232270151680
     time_stamp: "2018-08-15 09:38:11"
   - title: "Why I Believe in Kong  Kongs head of marketing, @Sandeep_S_Kohli, reflects
@@ -1210,10 +1210,10 @@ competition:
   - title: Postmans API Monitoring is now available in Fun Size Blocks
     url: http://blog.getpostman.com/2018/07/10/postmans-api-monitoring-is-now-available-in-fun-size-blocks/
     time_stamp: "2018-07-10 07:21:28"
-  - title: "Accidental delete? Dont panic \u2013 collections are now recoverable!"
+  - title: "Accidental delete? Dont panic ' collections are now recoverable!"
     url: http://blog.getpostman.com/2018/07/02/accidental-delete-dont-panic-collections-are-now-recoverable/
     time_stamp: "2018-07-02 09:14:01"
-  - title: "Postman \u2013 a beacon of hope in a world of API darkness \U0001F4A1"
+  - title: "Postman ' a beacon of hope in a world of API darkness \U0001F4A1"
     url: http://blog.getpostman.com/2018/06/22/postman-a-beacon-of-hope-in-a-world-of-api-darkness-%f0%9f%92%a1/
     time_stamp: "2018-06-21 14:07:56"
   - title: 'Newman: run and test your collections from the command line'
@@ -1281,7 +1281,7 @@ competition:
       https://t.co/pxDzFpMJmo'
     url: https://twitter.com/postmanclient/status/1029565864176168960
     time_stamp: "2018-08-14 20:10:05"
-  - title: "Accidental delete? Dont panic \u2013 Postman Collections are recoverable!
+  - title: "Accidental delete? Dont panic ' Postman Collections are recoverable!
       https://t.co/qIqc7nUAyZ https://t.co/NzUkXfSmJp"
     url: https://twitter.com/postmanclient/status/1029431276514803713
     time_stamp: "2018-08-14 11:15:16"
@@ -1889,68 +1889,68 @@ competition:
   image_width: "150"
   latest_blog:
   - title: Going Serverless with Talend through CI/CD and Containers
-    url: http://feedproxy.google.com/""r/Talend/""3/ZEB7CDsr1nY/
+    url: http://feedproxy.google.com/""/ZEB7CDsr1nY/
     time_stamp: "2018-08-13 02:20:37"
   - title: 'Talend Connect Europe 2018: Liberate your Data. Become a Data Hero'
-    url: http://feedproxy.google.com/""r/Talend/""3/sYZ45-G--vw/
+    url: http://feedproxy.google.com/""/sYZ45-G--vw/
     time_stamp: "2018-08-10 09:03:51"
   - title: 3 Common Pitfalls in Building Your Data Lake and How to Overcome Them
-    url: http://feedproxy.google.com/""r/Talend/""3/ZjL3jocOoUk/
+    url: http://feedproxy.google.com/""/ZjL3jocOoUk/
     time_stamp: "2018-08-08 09:36:19"
-  - title: "How to Develop a Data Processing Job Using Apache Beam \u2013 Streaming
+  - title: "How to Develop a Data Processing Job Using Apache Beam ' Streaming
       Pipelines"
-    url: http://feedproxy.google.com/""r/Talend/""3/rNNsBYqZia0/
+    url: http://feedproxy.google.com/""/rNNsBYqZia0/
     time_stamp: "2018-08-07 10:21:12"
   - title: Looking Beyond OAS 3 (Part 1)
-    url: http://feedproxy.google.com/""r/Talend/""3/Byv845TmsJk/
+    url: http://feedproxy.google.com/""/Byv845TmsJk/
     time_stamp: "2018-08-06 08:39:22"
   - title: 'Making Data a Team Sport: Muscle your Data Quality by Challenging IT &
       Business to Work Together'
-    url: http://feedproxy.google.com/""r/Talend/""3/BqYFf6qhd4Q/
+    url: http://feedproxy.google.com/""/BqYFf6qhd4Q/
     time_stamp: "2018-08-02 09:29:11"
   - title: 'Talend and Splunk: Aggregate, Analyze and Get Answers from Your Data Integration
       Jobs'
-    url: http://feedproxy.google.com/""r/Talend/""3/oyNK9R04Mvk/
+    url: http://feedproxy.google.com/""/oyNK9R04Mvk/
     time_stamp: "2018-08-01 10:26:50"
   - title: Making Sense of the 2018 Gartner Magic Quadrant for Data Integration Tools
-    url: http://feedproxy.google.com/""r/Talend/""3/lfIpvXIkERM/
+    url: http://feedproxy.google.com/""/lfIpvXIkERM/
     time_stamp: "2018-07-30 07:56:41"
   - title: 'Talend & Apache Spark:  Debugging & Logging'
-    url: http://feedproxy.google.com/""r/Talend/""3/2YHO2bny0bg/
+    url: http://feedproxy.google.com/""/2YHO2bny0bg/
     time_stamp: "2018-07-30 07:43:13"
-  - title: "Data Preparation and Wrangling Best Practices \u2013 Part 2"
-    url: http://feedproxy.google.com/""r/Talend/""3/qAKsaeDVPeQ/
+  - title: "Data Preparation and Wrangling Best Practices ' Part 2"
+    url: http://feedproxy.google.com/""/qAKsaeDVPeQ/
     time_stamp: "2018-07-24 14:52:58"
-  - title: "Talend \u201CJob Design Patterns\u201D & Best Practices Part 4"
-    url: http://feedproxy.google.com/""r/Talend/""3/wqBSlOkTNqY/talend-%E2%80%9Cjob-design-patterns%E2%80%9D-best-practices-part-4
+  - title: "Talend Job Design Patterns & Best Practices""Part 4"
+    url: http://feedproxy.google.com/""/wqBSlOkTNqY/talend-%E2%80%9Cjob-design-patterns%E2%80%9D-best-practices-part-4
     time_stamp: "2017-01-05 09:20:24"
   - title: Top 6 Technology Market Predictions for 2017
-    url: http://feedproxy.google.com/""r/Talend/""3/P8n0sDfHeas/top-6-technology-market-predictions-for-2017
+    url: http://feedproxy.google.com/""/P8n0sDfHeas/top-6-technology-market-predictions-for-2017
     time_stamp: "2016-12-22 05:47:31"
   - title: "Your 'Resolution List' for 2017: 5 Best Practices for Unleashing
       the Power of Your Data Lakes"
-    url: http://feedproxy.google.com/""r/Talend/""3/vJAU9bvKRvM/your-%E2%80%98resolution-list%E2%80%99-for-2017-5-best-practices-for-unleashing-the-power-of-your
+    url: http://feedproxy.google.com/""/vJAU9bvKRvM/your-%E2%80%98resolution-list%E2%80%99-for-2017-5-best-practices-for-unleashing-the-power-of-your
     time_stamp: "2016-12-21 11:23:00"
   - title: 4 Considerations for Delivering Data Quality on Hadoop
-    url: http://feedproxy.google.com/""r/Talend/""3/YvM7FzUM2sU/4-considerations-for-delivering-data-quality-on-hadoop
+    url: http://feedproxy.google.com/""/YvM7FzUM2sU/4-considerations-for-delivering-data-quality-on-hadoop
     time_stamp: "2016-12-20 16:09:51"
   - title: The Role of Statistics in Business Decision Making
-    url: http://feedproxy.google.com/""r/Talend/""3/jZYzAimrNgo/the-role-of-statistics-in-business-decision-making
+    url: http://feedproxy.google.com/""/jZYzAimrNgo/the-role-of-statistics-in-business-decision-making
     time_stamp: "2016-12-19 12:29:54"
-  - title: "Talend Data Masters 2016 \u2013 UNOS: How many lives can you save?"
-    url: http://feedproxy.google.com/""r/Talend/""3/xchp8FbZwPo/talend-data-masters-2016-%E2%80%93-unos-how-many-lives-can-you-save
+  - title: "Talend Data Masters 2016 ' UNOS: How many lives can you save?"
+    url: http://feedproxy.google.com/""/xchp8FbZwPo/talend-data-masters-2016-%E2%80%93-unos-how-many-lives-can-you-save
     time_stamp: "2016-12-14 15:57:21"
   - title: 'Data Matching 101: How Does Data Matching Work?'
-    url: http://feedproxy.google.com/""r/Talend/""3/QVyTfL6t-BU/data-matching-101-how-does-data-matching-work
+    url: http://feedproxy.google.com/""/QVyTfL6t-BU/data-matching-101-how-does-data-matching-work
     time_stamp: "2016-12-13 20:38:02"
   - title: "Guide de survie de l'IT dans un monde de SelfService"
-    url: http://feedproxy.google.com/""r/Talend/""3/v4xu0hRQgu4/94144
+    url: http://feedproxy.google.com/""/v4xu0hRQgu4/94144
     time_stamp: "2016-12-12 14:36:33"
   - title: 'IT: How to Survive in a SelfService World'
-    url: http://feedproxy.google.com/""r/Talend/""3/Ld2woAEnEIM/it-how-to-survive-in-a-self-service-world
+    url: http://feedproxy.google.com/""/Ld2woAEnEIM/it-how-to-survive-in-a-self-service-world
     time_stamp: "2016-12-12 14:16:26"
   - title: Sensors, Environment and Internet of Things (IoT)
-    url: http://feedproxy.google.com/""r/Talend/""3/ITkp7ombzWQ/sensors-environment-and-internet-of-things-iot
+    url: http://feedproxy.google.com/""/ITkp7ombzWQ/sensors-environment-and-internet-of-things-iot
     time_stamp: "2016-12-08 11:59:54"
   latest_tweets:
   - title: "RT @TalendCommunity: Join us in #NYC for the next User Group! Dale Anderson
@@ -2514,7 +2514,7 @@ competition:
   - title: A Noble Energy Plan
     url: http://blog.tradingcentral.com/blog/possible-diamond-rough-0
     time_stamp: "2018-07-14 14:25:00"
-  - title: "Trading Central awarded \u201CBest Specialist Product\u201D following
+  - title: "Trading Central awarded Best Specialist Product following
       recent modernization of flagship product."
     url: http://blog.tradingcentral.com/blog/trading-central-awarded-best-specialist-product-following-recent-modernization-of-flagship-product
     time_stamp: "2018-06-27 10:03:26"
@@ -2774,7 +2774,7 @@ competition:
       issue a debit card alongside its digital bor... https://t.co/DKNwI0uh8C"
     url: https://twitter.com/xignite/status/973268984094224385
     time_stamp: "2018-03-12 11:46:22"
-  - title: "The Key to Building a Successful Digital Agenda - \u201CBanks need to
+  - title: "The Key to Building a Successful Digital Agenda - Banks need to
       ask themselves whether they are flexible and sensi... https://t.co/qMX6C8w3kH"
     url: https://twitter.com/xignite/status/972091206552387584
     time_stamp: "2018-03-09 04:46:18"
