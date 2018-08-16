@@ -1,3 +1,85 @@
 ---
 layout: default
 ---
+
+<section
+   class="imageMasthead imageMasthead--content-left"
+   style="background: url('https://i2.wp.com/streamdata.io/wp-content/uploads/2017/12/masthead-bg.jpg?fit=1440%2C782&ssl=1') no-repeat center center; background-size: cover" >
+   <div class="imageMasthead__content-side">
+      <div class="imageMasthead__content-container">
+         <div class="imageMasthead__content-wrap">
+            <h3 class="imageMasthead__eyebrow enterAnimation" data-enter-animation><a href="https://github.com/streamdata-projects/competition/blob/master/_config.yml" target="_blank" style="color: #000;">{{ site.title }}</a></h3>
+            <h1 class="imageMasthead__heading enterAnimation" data-enter-animation>{{ site.title }} Philosophy</h1>
+            <div class="imageMasthead__body enterAnimation" data-enter-animation>
+               <p>{{ site.philosophy }}</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="imageMasthead__image-side enterAnimation" data-enter-animation>
+      <div class="imageMasthead__image-wrap">
+         <img src="http://competition.streamdata.io/images/competition.jpg" alt="standing out in the landscape" class="imageMasthead__image">
+      </div>
+   </div>
+</section>
+
+<!--list competitions--->
+<div class="partnersPanel">
+   <div class="partnersPanel__container">
+      {% assign competitions = site.competition | sort: 'ranking' %}
+      {% assign number_of_competitions = competitions | size %}
+      {% for competition in competitions %}
+      <div class="partnersPanel__item enterAnimation" data-enter-animation>
+         <div class="partnersPanel__itemName"><a href="{{ competition.url }}">{{ competition.name }}</a></div>
+         <a href="{{ competition.url }}"><img src="{{ competition.image }}" alt="{{ competition.name }} logo" width="100" align="right" style="padding: 15px;" /></a>
+         <div class="partnersPanel__itemQuote">{{ competition.description }}<br /></div>
+         <div style="padding-top: 7px; padding-bottom: 7px;">
+           <p><strong>Key Links:</strong></p>
+           <ul style="list-style-type: circle; padding-top: 15px;">
+             <li style="padding: 3px 0px 3px 20px;">&rarr; <a href="{{ competition.url }}" style="color: #000;">Website</a></li>
+             {% if blog_url != '' %}
+                <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ competition.blog_url }}" style="color: #000; text-decoration: underline;" target="_blank">Blog</a></li>
+             {% endif %}
+             {% if blog_rss_url != '' %}
+                <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ competition.blog_rss_url }}" style="color: #000; text-decoration: underline;" target="_blank">Blog RSS</a></li>
+             {% endif %}
+             {% if twitter_url != '' %}
+                <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ competition.twitter_url }}" style="color: #000; text-decoration: underline;" target="_blank">Twitter</a></li>
+             {% endif %}
+             {% if github_url != '' %}
+                <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ competition.github_url }}" style="color: #000; text-decoration: underline;" target="_blank">GitHub</a></li>
+             {% endif %}
+           </ul>
+         </div>
+
+         {% assign number_of_competition_blog = competition.latest_blog | size %}
+         {% if number_of_competition_blog > 0 %}
+         <div style="padding-top: 7px; padding-bottom: 7px;">
+           <p><strong>The Latest From Blog:</strong></p>
+           <div style="height: 200px; overflow: scroll;">
+             <ul style="list-style-type: circle; padding-top: 15px;">
+               {% for blog in competition.latest_blog %}
+                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ blog.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ blog.title }}</a></li>
+               {% endfor %}
+             </ul>
+           </div>
+         </div>
+         {% endif %}
+
+         {% assign number_of_competition_twitter = competition.latest_tweets | size %}
+         {% if number_of_competition_twitter > 0 %}
+         <div style="padding-top: 7px; padding-bottom: 7px;">
+           <p><strong>The Latest Twitter:</strong></p>
+           <div style="height: 200px; overflow: scroll;">
+             <ul style="list-style-type: circle; padding-top: 15px;">
+               {% for twitter in competition.latest_tweets %}
+                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ twitter.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ twitter.title }}</a></li>
+               {% endfor %}
+             </ul>
+           </div>
+         </div>
+         {% endif %}
+
+   </div>
+</div>
+<!--list competitions--->
