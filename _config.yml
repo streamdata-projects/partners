@@ -41,7 +41,7 @@ competition:
       Containers
     url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/wu3xyJvgVEY/
     time_stamp: "2018-07-20 16:15:58"
-  - title: "Amazon Polly Update \u2013 Time-Driven Prosody and Asynchronous Synthesis"
+  - title: "Amazon Polly Update \u2013 TimeDriven Prosody and Asynchronous Synthesis"
     url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/GnnxvEdn-o8/
     time_stamp: "2018-07-17 11:56:45"
   - title: "Amazon EC2 Instance Update \u2013 Faster Processors and More Memory"
@@ -335,18 +335,18 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21-axway.jpg
   image_width: "150"
   latest_blog:
-  - title: 'API Talk: How to protect your API infrastructure from Cyber-attacks with
+  - title: 'API Talk: How to protect your API infrastructure from Cyberattacks with
       AI'
     url: https://www.axway.com/en/event/api-talk-how-protect-your-api-infrastructure-cyber-attacks-ai
     time_stamp: "2018-08-13 13:09:29"
-  - title: 'API Talk: How to protect your API Infrastructure against Cyber-Attacks
+  - title: 'API Talk: How to protect your API Infrastructure against CyberAttacks
       with AI'
     url: https://www.axway.com/en/event/api-talk-top-3-best-practices-protect-your-api-infrastructure-against-cyber-attacks-ai
     time_stamp: "2018-08-09 09:23:00"
-  - title: Make It Real - Dell Technologies Forum Sydney 2018
+  - title: Make It Real  Dell Technologies Forum Sydney 2018
     url: https://www.axway.com/en/event/make-it-real-dell-technologies-forum-sydney-2018
     time_stamp: "2018-07-31 07:36:08"
-  - title: Make It Real - Dell Technologies Forum Singapore 2018
+  - title: Make It Real  Dell Technologies Forum Singapore 2018
     url: https://www.axway.com/en/event/make-it-real-dell-technologies-forum-singapore-2018
     time_stamp: "2018-07-31 07:26:51"
   - title: 'Partner Webinar: Axway Embedded Analytics for API Management Solution
@@ -356,7 +356,7 @@ competition:
   - title: "AWS Summit \u2013 Atlanta"
     url: https://www.axway.com/en/event/aws-summit-atlanta
     time_stamp: "2018-07-27 12:32:00"
-  - title: "Axway Software \u2013 Half-Year 2018: Revenue of \u20AC134.9 million"
+  - title: "Axway Software \u2013 HalfYear 2018: Revenue of \u20AC134.9 million"
     url: https://www.axway.com/en/pressrelease/2018/axway-software-half-year-2018-revenue1-eu1349-million
     time_stamp: "2018-07-25 09:27:00"
   - title: API:WORLD
@@ -1207,10 +1207,10 @@ competition:
   - title: Find and replace text, code, and variables in Postman
     url: http://blog.getpostman.com/2018/07/16/find-and-replace-text-code-and-variables-in-postman/
     time_stamp: "2018-07-16 07:58:17"
-  - title: Postman's API Monitoring is now available in 'Fun Size' Blocks
+  - title: Postmans API Monitoring is now available in Fun Size Blocks
     url: http://blog.getpostman.com/2018/07/10/postmans-api-monitoring-is-now-available-in-fun-size-blocks/
     time_stamp: "2018-07-10 07:21:28"
-  - title: "Accidental delete? Don't panic \u2013 collections are now recoverable!"
+  - title: "Accidental delete? Dont panic \u2013 collections are now recoverable!"
     url: http://blog.getpostman.com/2018/07/02/accidental-delete-dont-panic-collections-are-now-recoverable/
     time_stamp: "2018-07-02 09:14:01"
   - title: "Postman \u2013 a beacon of hope in a world of API darkness \U0001F4A1"
@@ -1219,7 +1219,7 @@ competition:
   - title: 'Newman: run and test your collections from the command line'
     url: http://blog.getpostman.com/2018/06/21/newman-run-and-test-your-collections-from-the-command-line/
     time_stamp: "2018-06-20 17:22:25"
-  - title: 'The lazy dev''s guide to API automation: Airtable to SurveyMonkey uploader'
+  - title: 'The lazy devs guide to API automation: Airtable to SurveyMonkey uploader'
     url: http://blog.getpostman.com/2018/06/05/airtable-to-surveymonkey/
     time_stamp: "2018-06-04 18:32:02"
   - title: Share your API with 5 million developers in the Postman community
@@ -1610,7 +1610,7 @@ competition:
   - title: A Declarative Rollup Summary Tool for Force.com Lookup Relationships
     url: http://feedproxy.google.com/""r/SforceBlog/""3/w4Pp3cphV7o/a-declarative-rollup-summary-tool-for-force-com-lookup-relationships.html
     time_stamp: "2018-07-18 14:00:02"
-  - title: "Get Your Learning On Before The Main Event with New Pre-Dreamforce '18
+  - title: "Get Your Learning On Before The Main Event with New PreDreamforce '18
       Bootcamps!"
     url: http://feedproxy.google.com/""r/SforceBlog/""3/xhzA48NJBGc/get-your-learning-on-before-the-main-event-with-new-pre-dreamforce-18-bootcamps.html
     time_stamp: "2018-07-18 13:00:15"
@@ -1943,10 +1943,10 @@ competition:
   - title: 'Data Matching 101: How Does Data Matching Work?'
     url: http://feedproxy.google.com/""r/Talend/""3/QVyTfL6t-BU/data-matching-101-how-does-data-matching-work
     time_stamp: "2016-12-13 20:38:02"
-  - title: "Guide de survie de l'IT dans un monde de Self-Service"
+  - title: "Guide de survie de l'IT dans un monde de SelfService"
     url: http://feedproxy.google.com/""r/Talend/""3/v4xu0hRQgu4/94144
     time_stamp: "2016-12-12 14:36:33"
-  - title: 'IT: How to Survive in a Self-Service World'
+  - title: 'IT: How to Survive in a SelfService World'
     url: http://feedproxy.google.com/""r/Talend/""3/Ld2woAEnEIM/it-how-to-survive-in-a-self-service-world
     time_stamp: "2016-12-12 14:16:26"
   - title: Sensors, Environment and Internet of Things (IoT)
@@ -2232,7 +2232,7 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11397-tibco-software.jpg
   image_width: "150"
   latest_blog:
-  - title: Why Brick-and-Mortar Retailers Need to Utilize Analytics
+  - title: Why BrickandMortar Retailers Need to Utilize Analytics
     url: http://feedproxy.google.com/""r/TheTIBCOBlog/""3/0fVRdzyPUH4/
     time_stamp: "2017-08-14 05:00:30"
   - title: Build Your Big Data Pipeline Using TIBCO Connectors
@@ -2508,7 +2508,7 @@ competition:
   - title: 'U.S bank stocks: Seeking solid growth, reasonably priced'
     url: http://blog.tradingcentral.com/blog/seeking-lower-volatility-us-consumer-stocks-0
     time_stamp: "2018-07-25 06:56:26"
-  - title: Digging for nuggets in the rallying basic-materials sector
+  - title: Digging for nuggets in the rallying basicmaterials sector
     url: http://blog.tradingcentral.com/blog/stocks-poised-to-benefit-from-the-january-effect-0
     time_stamp: "2018-07-16 15:15:00"
   - title: A Noble Energy Plan
@@ -2521,7 +2521,7 @@ competition:
   - title: Tuning in to Volatility
     url: http://blog.tradingcentral.com/blog/tuning-in-to-volatility
     time_stamp: "2018-06-26 09:48:49"
-  - title: U.S. technology-services firms set for continuing strength
+  - title: U.S. technologyservices firms set for continuing strength
     url: http://blog.tradingcentral.com/blog/u-s-technology-services-firms-set-for-continuing-strength
     time_stamp: "2018-06-25 12:16:32"
   - title: IFX International
@@ -2530,7 +2530,7 @@ competition:
   - title: Integrated Device Technology charging up
     url: http://blog.tradingcentral.com/blog/integrated-device-technology-charging-up
     time_stamp: "2018-06-01 09:00:37"
-  - title: Technical Insight wins "Best Specialist Product"
+  - title: Technical Insight wins Best Specialist Product
     url: http://blog.tradingcentral.com/blog/technical-insight-wins-best-specialist-product
     time_stamp: "2018-05-29 12:18:12"
   latest_tweets:
