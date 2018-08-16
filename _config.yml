@@ -1,3 +1,6 @@
+title: Partners
+url: partners.streamdata.io
+philosophy: This is the Streamdata.io partner center. Where we showcase and engage with other technology providers in the space. We have worked to establish a relationship with each of the companies below, from helping them evolve their services, to being a reseller, and publishing our solutions in their marketplace. Take a look at our current partners, then maybe consider if your product or service might be a fit for working with Streamdata.io and our customers.
 competition:
 - organization_id: 4V123YoOLFpV5LlFjcYPTnkrz89tC91fdO51z7y60uipU117
   name: Amazon Web Services
@@ -2841,3 +2844,9 @@ competition:
   - Business
   - Bond Markets
   - Articles
+markdown: kramdown
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
+
+github_user: streamdata-projects
+github_repo: partners
+github_branch: master
