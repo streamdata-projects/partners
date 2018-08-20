@@ -2879,6 +2879,9 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trading-central.jpeg
   image_width: "150"
   latest_blog:
+  - title: Search for Canadas value stars avoids stocks with excessive debt
+    url: http://blog.tradingcentral.com/blog/seeking-lower-volatility-us-consumer-stocks-0-1
+    time_stamp: "2018-08-17 09:25:00"
   - title: TC Research Platform Release 23
     url: http://blog.tradingcentral.com/blog/tc-research-platform-release-23
     time_stamp: "2018-08-14 06:43:53"
