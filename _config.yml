@@ -459,7 +459,7 @@ competition:
   - Technology
   - SDIO Partner
   - SaaS
-  - Profiled
+  - Profiles
   - My API Stack
   - Monitoring
   - API Service Provider
@@ -480,6 +480,9 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21-axway.jpg
   image_width: "150"
   latest_blog:
+  - title: 'API Talk: The compass for Microservices and API Management!'
+    url: https://www.axway.com/en/event/api-talk-compass-micro-services-and-api-management
+    time_stamp: "2018-08-17 08:20:00"
   - title: 'API Talk: How to protect your API infrastructure from Cyberattacks with
       AI'
     url: https://www.axway.com/en/event/api-talk-how-protect-your-api-infrastructure-cyber-attacks-ai
@@ -773,11 +776,11 @@ competition:
   - Stack Network
   - SDIO Partner
   - SaaS
-  - Profiled
+  - Profiles
   - Management
   - Gateway
   - Enterprise
-  - Deployment
+  - Deployments
   - API Service Provider
 - organization_id: i4o38X0juPpof123oPaF4Igexw614C123Hh2dv116LrU4HVIY117
   name: ChartIQ
@@ -1215,9 +1218,9 @@ competition:
   tags:
   - Stack Network
   - SDIO Partner
-  - Profiled
+  - Profiles
   - Enterprise
-  - Database
+  - Databases
 - organization_id: vunmTkT630ALGaccH3RsgDpfBL5iGa116ikxQe3YMKGdM117
   name: Kong
   description: Secure, Manage & Extend your APIs or Microservices with plugins for
@@ -1341,7 +1344,7 @@ competition:
   - Stack Network
   - SDIO Partner
   - SaaS
-  - Profiled
+  - Profiles
   - Management
   - API Service Provider
 - organization_id: cqA56nxcuP1tYqqRuHHCCeGLtvwp5r99eb4DkHNTjFQ117
@@ -1363,6 +1366,9 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3776-postman.jpg
   image_width: "150"
   latest_blog:
+  - title: "Using a Postman app to ... Run the Dishwasher"
+    url: http://blog.getpostman.com/2018/08/18/using-a-postman-app-to-run-the-dishwasher/
+    time_stamp: "2018-08-17 14:38:28"
   - title: Newman v4.0
     url: http://blog.getpostman.com/2018/08/10/newman-v4-0/
     time_stamp: "2018-08-09 21:28:49"
@@ -1436,9 +1442,6 @@ competition:
   - title: Looping through a data file in the Postman Collection Runner
     url: http://blog.getpostman.com/2018/04/11/looping-through-a-data-file-in-the-postman-collection-runner/
     time_stamp: "2018-04-10 13:42:03"
-  - title: 'Spotlight on Engineering: Ankit Jaggi'
-    url: http://blog.getpostman.com/2018/04/09/spotlight-on-engineering-ankit-jaggi/
-    time_stamp: "2018-04-09 10:20:10"
   latest_tweets:
   - title: "Postman makes it easy to import data and work with your API description
       format of choice. Learn how to sync your sp... https://t.co/PaRl0H0fgH"
@@ -2031,9 +2034,11 @@ competition:
   - Stack Network
   - Stack
   - Spreadsheets
+  - Service API
   - SDIO Partner
   - Sales
   - SaaS
+  - Relative Data
   - Productivity
   - PaaS
   - Notifications
@@ -2041,8 +2046,8 @@ competition:
   - Hosting
   - Freshbooks
   - Enterprise
-  - Database
-  - Customer
+  - Databases
+  - Customers
   - CRM
   - BaaS
 - organization_id: 8zVl3dSm3ENuDMsHOu1161123Wl3Pkijd4h5h2wXI9bCxL8117
@@ -2241,7 +2246,7 @@ competition:
   - Proxy
   - Design
   - Clients
-  - API LIfeycle
+  - API LIfeyclessss
 - organization_id: tNKyZxQqXbtabRnTZRrjtWpFsLDGncIzT1eINslrnlc117
   name: Talend
   description: Talend open source integration software offers real-time solutions
@@ -2854,7 +2859,7 @@ competition:
   - Management
   - Gateway
   - Enterprise
-  - Deployment
+  - Deployments
   - API Management Other
 - organization_id: HB09w8nwgyMITSkeb6fQkuEh26VqZnfcw0tXEXLKnNQ117
   name: Trading Central
@@ -3013,6 +3018,340 @@ competition:
   tags:
   - SDIO Partner
   - Financial
+- organization_id: lKq09MZ6ZyvkGbhYaOTekJ9hN4xwBdUwyavnoFI7lG0117
+  name: Tyk
+  description: Tyk - Open Source API Gateway, API Management Platform, Developer Portal
+    and Analytics - Tyk
+  url: ""
+  email: ""
+  blog_url: https://tyk.io/news-2/
+  blog_rss_url: https://tyk.io/feed/
+  twitter_url: https://twitter.com/tyk_io
+  github_url: https://github.com/TykTechnologies
+  tag_url: ""
+  tag_description: ""
+  base_url: ""
+  portal_url: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11408-tyk.jpg
+  image_width: "150"
+  latest_blog:
+  - title: 'Tyk on Tour: Bringing API education to a city near you'
+    url: https://tyk.io/blog/tyk-tour-bringing-api-events-education-tour/
+    time_stamp: "2018-06-13 16:49:02"
+  - title: "The power of HTTP for REST APIs ' Part 2"
+    url: https://tyk.io/blog/power-http-rest-apis-part-2/
+    time_stamp: "2018-06-06 06:18:51"
+  - title: GDPR and Tyk
+    url: https://tyk.io/blog/gdpr-and-tyk/
+    time_stamp: "2018-05-17 05:21:14"
+  - title: "The power of HTTP for REST APIs ' Part 1"
+    url: https://tyk.io/blog/power-http-rest-apis-part-1/
+    time_stamp: "2018-05-14 20:57:39"
+  - title: 'Tyk Retreat 2.0: Vamos a Vamos!'
+    url: https://tyk.io/blog/tyk-retreat-2-0-vamos-vamos/
+    time_stamp: "2018-05-08 03:45:20"
+  - title: Captain Underpants and the Incredible Magic Quadrant
+    url: https://tyk.io/blog/tyk-api-gateway-enters-gartner-magic-quadrant/
+    time_stamp: "2018-05-02 09:43:54"
+  - title: How APIs contribute to logistics innovation
+    url: https://tyk.io/blog/apis-contribute-logistics-innovation/
+    time_stamp: "2018-05-02 09:24:21"
+  - title: Deploying a global API Gateway infrastructure in just 5 clicks with Tyk
+      & AWS
+    url: https://tyk.io/blog/deploying-global-api-gateway-infrastructure-just-5-clicks-tyk-aws/
+    time_stamp: "2018-05-02 08:43:51"
+  - title: 'Tyk 2.6: Taking your API Management to the next level'
+    url: https://tyk.io/blog/tyk-2-6-next-level-api-management/
+    time_stamp: "2018-04-16 23:40:59"
+  - title: "Tyk Developer Licences ' connecting more of the world"
+    url: https://tyk.io/blog/tyk-developer-licences-connecting-world/
+    time_stamp: "2018-03-28 03:38:03"
+  - title: 'Going for gold: Recognising winning contributions from our Community'
+    url: https://tyk.io/blog/introducing-tyk-community-awards-api-acceleration/
+    time_stamp: "2018-03-28 01:18:56"
+  - title: 'Tyk on Tour: upcoming API community events in 2018'
+    url: https://tyk.io/blog/upcoming-api-events-in-2018/
+    time_stamp: "2018-03-28 00:46:02"
+  - title: How we added SingleSignOn (SSO) functionality to our open source API gateway
+    url: https://tyk.io/blog/single-sign-on-sso-open-source-api-gateway/
+    time_stamp: "2018-03-13 21:20:06"
+  - title: 'Behind the curtain: 4 tales of women working in technology'
+    url: https://tyk.io/blog/4-tales-women-working-technology/
+    time_stamp: "2018-03-07 21:28:16"
+  - title: Accelerate your API delivery process
+    url: https://tyk.io/blog/how-to-accelerate-your-api-delivery-process/
+    time_stamp: "2018-02-23 03:42:09"
+  - title: Taking REST beyond CRUD
+    url: https://tyk.io/blog/taking-rest-beyond-crud/
+    time_stamp: "2018-02-08 22:03:46"
+  - title: "Tyk 2.5: It's Tyk, with added bite"
+    url: https://tyk.io/blog/tyk-2-5-release-its-tyk-with-added-bite-sso-openid/
+    time_stamp: "2018-01-25 09:56:24"
+  - title: Your data model is not an API
+    url: https://tyk.io/blog/your-data-model-is-not-an-api/
+    time_stamp: "2018-01-21 15:49:54"
+  - title: Removing barriers to API adoption, for everyone
+    url: https://tyk.io/blog/removing-barriers-api-adoption-everyone/
+    time_stamp: "2018-01-17 01:40:58"
+  - title: 'Happy New Year: 2018 resolutions to hold us to'
+    url: https://tyk.io/blog/2017-year-in-review-tyk-enterprise-api-management/
+    time_stamp: "2018-01-05 04:36:50"
+  - title: "What's the minimum documentation required for an API?"
+    url: https://tyk.io/blog/whats-minimum-documentation-required-api/
+    time_stamp: "2017-12-29 09:03:52"
+  - title: 'Integrating API Management into your organisation: an introduction to
+      Tyk Plugins'
+    url: https://tyk.io/blog/integrating-api-management-an-introduction-to-tyk-plugins/
+    time_stamp: "2017-12-21 01:30:21"
+  - title: A guide for when (and how) to version your API
+    url: https://tyk.io/blog/guide-version-api/
+    time_stamp: "2017-12-05 18:21:10"
+  - title: Buckle up! Tyk Gateway v2.4 (and more) is here!
+    url: https://tyk.io/blog/tyk-gateway-v2-4-is-here/
+    time_stamp: "2017-11-20 00:18:49"
+  - title: Which kind of API is the right one for your next project?
+    url: https://tyk.io/blog/what-kind-of-api-are-you-building/
+    time_stamp: "2017-11-07 23:12:31"
+  latest_tweets:
+  - title: "Need custom key hashing algorithms? Your dog days are over; create them
+      Laika boss with Tyk 2.7... https://t.co/dYsSFzwogR"
+    url: https://twitter.com/tyk_io/status/1030129569188257793
+    time_stamp: "2018-08-16 09:30:02"
+  - title: "From REST vs GraphQL, its common to now see the needs of teams go beyond
+      APIs to a complete platform that includ... https://t.co/UD9cRWUzS4"
+    url: https://twitter.com/tyk_io/status/1029910734669537285
+    time_stamp: "2018-08-15 19:00:28"
+  - title: 'How to implement Single Sign On (SSO) with Tyk and @Okta - a step-by-step
+      guide: https://t.co/peNbdRxxBS'
+    url: https://twitter.com/tyk_io/status/1029810208900608000
+    time_stamp: "2018-08-15 12:21:01"
+  - title: "1 week until API Tyks @davegarvey speaks at the latest @nordicapis livecast.
+      Its going to be packed full of usefu... https://t.co/psyPg4Dl66"
+    url: https://twitter.com/tyk_io/status/1029627532235161600
+    time_stamp: "2018-08-15 00:15:07"
+  - title: How is platform thinking transforming companies beyond APIs? @launchany
+      has an idea https://t.co/r9638M7tH6
+    url: https://twitter.com/tyk_io/status/1029447819478933506
+    time_stamp: "2018-08-14 12:21:01"
+  - title: "Our latest engineering blog demonstrates how easy it is to combine API
+      *and* identity management . Follow Tyks Yaa... https://t.co/FAVvET0JjS"
+    url: https://twitter.com/tyk_io/status/1029337860305047554
+    time_stamp: "2018-08-14 05:04:04"
+  - title: "Were excited to be joining @DoerrfeldBill &amp; @travisspencer on 22/8
+      for @nordicapis livecast on The Role of Identit... https://t.co/fWG6UdzGWm"
+    url: https://twitter.com/tyk_io/status/1029085432519254021
+    time_stamp: "2018-08-13 12:21:01"
+  - title: "In his latest piece, @launchany suggests moving beyond the standard REST
+      vs. GraphQL debate and onto platform th... https://t.co/TH6yRQLW7H"
+    url: https://twitter.com/tyk_io/status/1028975457931284481
+    time_stamp: "2018-08-13 05:04:01"
+  - title: The 3 elements needed to support your API platform success https://t.co/r9638M7tH6
+    url: https://twitter.com/tyk_io/status/1027955233979281408
+    time_stamp: "2018-08-10 09:30:00"
+  - title: "Are legacy systems preventing you from getting started with #microservices?
+      We can't stop your org from using the t... https://t.co/uRD5U4C2mu"
+    url: https://twitter.com/tyk_io/status/1027815578076102656
+    time_stamp: "2018-08-10 00:15:04"
+  - title: "Whether youre new to HTTP or consider yourself a dab hand, our @launchany
+      guide serves as a great overview of its... https://t.co/xkbjQvLB43"
+    url: https://twitter.com/tyk_io/status/1027697284845395969
+    time_stamp: "2018-08-09 16:25:01"
+  - title: "How are #APIs contributing to innovation in logistics? Michelle Mondonedo
+      from @goeasyship explains how APIs are he... https://t.co/L0dSRKBuUe"
+    url: https://twitter.com/tyk_io/status/1027592920617115650
+    time_stamp: "2018-08-09 09:30:18"
+  - title: "Here are a few snaps from last weeks API Surgery held at our Singapore
+      office. Thanks to everyone who came along.... https://t.co/XAKtujnAvx"
+    url: https://twitter.com/tyk_io/status/1027453198909558784
+    time_stamp: "2018-08-09 00:15:06"
+  - title: "Happy 53rd Birthday, Singapore! \U0001F1F8\U0001F1EC\U0001F389As its National
+      Day today, our local office is closed, but our teams around the... https://t.co/SiTMbevovI"
+    url: https://twitter.com/tyk_io/status/1027334894660280321
+    time_stamp: "2018-08-08 16:25:00"
+  - title: "Just 2 weeks until our own @davegarvey takes to the mic for the latest
+      @nordicapis livecast on API Security. Dave w... https://t.co/qoIiDw3yAW"
+    url: https://twitter.com/tyk_io/status/1027273499021398016
+    time_stamp: "2018-08-08 12:21:02"
+  - title: "How did we tackle adding Single-Sign-On (SSO) functionality to our open
+      source API gateway? https://t.co/kJO5ovgSxi... https://t.co/eBCauzLJ3a"
+    url: https://twitter.com/tyk_io/status/1027163517668024320
+    time_stamp: "2018-08-08 05:04:01"
+  - title: "Having an API versioning strategy is trickier than just switching a number.
+      This @launchany article helps you decid... https://t.co/TS4YxOF8ne"
+    url: https://twitter.com/tyk_io/status/1027011585603190784
+    time_stamp: "2018-08-07 19:00:17"
+  - title: "Tyk 2.7 - now in orbit. Our latest mission includes a huge performance
+      upgrade, custom key-hashing algorithms, Dash... https://t.co/6YwOrUEgwx"
+    url: https://twitter.com/tyk_io/status/1026911108874084352
+    time_stamp: "2018-08-07 12:21:02"
+  - title: "For those taking extra steps to help API Acceleration, we recently announced
+      our first ever Community Awards. Here... https://t.co/cDpikifIy3"
+    url: https://twitter.com/tyk_io/status/1026801159485435904
+    time_stamp: "2018-08-07 05:04:08"
+  - title: "RT @DoerrfeldBill: Ill be MCing another @NordicAPIs LiveCast on 8/22!
+      This one is all about the role of identity in #API security and wil..."
+    url: https://twitter.com/tyk_io/status/1026643014347702272
+    time_stamp: "2018-08-06 18:35:43"
+  - title: "RT @SoormallyAhmet: I just published Decoupling micro-services using
+      Message-based RPC https://t.co/MsScp6XKsj @tyk_io #golang #rabbitmq..."
+    url: https://twitter.com/tyk_io/status/1026572550392999936
+    time_stamp: "2018-08-06 13:55:43"
+  - title: "With a 160% throughput improvement, our 2.7 Gateway release brings you
+      performance that's out of this world, whiche... https://t.co/9vuP0Y9tye"
+    url: https://twitter.com/tyk_io/status/1026505830080933888
+    time_stamp: "2018-08-06 09:30:36"
+  - title: REST was NEVER about CRUD. Discuss. https://t.co/xiIXBjv4tG https://t.co/B1smEbHfp6
+    url: https://twitter.com/tyk_io/status/1026388534280695810
+    time_stamp: "2018-08-06 01:44:30"
+  - title: "RT @nordicapis: Our next LiveCast is scheduled for August 22! This time
+      @travisspencer, @davegarvey and @DoerrfeldBill will talk about the..."
+    url: https://twitter.com/tyk_io/status/1026359922202537986
+    time_stamp: "2018-08-05 23:50:48"
+  - title: "Super excited to share that our APAC Technical Director, David Garvey,
+      will be speaking at the next @nordicapis liv... https://t.co/ASan1qHGIk"
+    url: https://twitter.com/tyk_io/status/1025351583347957760
+    time_stamp: "2018-08-03 05:04:02"
+  latest_github_activity:
+  - title: TykTechnologies/tyk being watched by vckai
+    url: ""
+    time_stamp: "2018-08-15"
+    type: WatchEvent
+    user_name: vckai
+    repo: TykTechnologies/tyk
+  - title: TykTechnologies/tyk being watched by tin4g
+    url: ""
+    time_stamp: "2018-08-15"
+    type: WatchEvent
+    user_name: tin4g
+    repo: TykTechnologies/tyk
+  - title: TykTechnologies/tyk being watched by elsieholmes
+    url: ""
+    time_stamp: "2018-08-15"
+    type: WatchEvent
+    user_name: elsieholmes
+    repo: TykTechnologies/tyk
+  - title: buger pushed to TykTechnologies/tyk-email-driver
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: buger
+    repo: TykTechnologies/tyk-email-driver
+  - title: buger made a pull request on TykTechnologies/tyk-email-driver
+    url: https://github.com/TykTechnologies/tyk-email-driver/pull/8
+    time_stamp: "2018-08-15"
+    type: PullRequestEvent
+    user_name: buger
+    repo: TykTechnologies/tyk-email-driver
+  - title: asoorm made a pull request on TykTechnologies/tyk-email-driver
+    url: https://github.com/TykTechnologies/tyk-email-driver/pull/8
+    time_stamp: "2018-08-15"
+    type: PullRequestEvent
+    user_name: asoorm
+    repo: TykTechnologies/tyk-email-driver
+  - title: asoorm submitted an issue on TykTechnologies/tyk-email-driver
+    url: https://api.github.com/repos/TykTechnologies/tyk-email-driver/issues/7
+    time_stamp: "2018-08-15"
+    type: IssuesEvent
+    user_name: asoorm
+    repo: TykTechnologies/tyk-email-driver
+  - title: buger pushed to TykTechnologies/tyk
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: buger
+    repo: TykTechnologies/tyk
+  - title: buger pushed to TykTechnologies/tyk
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: buger
+    repo: TykTechnologies/tyk
+  - title: TykTechnologies/tyk being watched by ynuosoft
+    url: ""
+    time_stamp: "2018-08-15"
+    type: WatchEvent
+    user_name: ynuosoft
+    repo: TykTechnologies/tyk
+  - title: buger pushed to TykTechnologies/tyk
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: buger
+    repo: TykTechnologies/tyk
+  - title: TykTechnologies/tyk being watched by juliodias
+    url: ""
+    time_stamp: "2018-08-15"
+    type: WatchEvent
+    user_name: juliodias
+    repo: TykTechnologies/tyk
+  - title: buger pushed to TykTechnologies/tyk
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: buger
+    repo: TykTechnologies/tyk
+  - title: buger pushed to TykTechnologies/tyk
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: buger
+    repo: TykTechnologies/tyk
+  - title: buger pushed to TykTechnologies/tyk
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: buger
+    repo: TykTechnologies/tyk
+  - title: TykTechnologies/tyk being watched by ZachCheung
+    url: ""
+    time_stamp: "2018-08-15"
+    type: WatchEvent
+    user_name: ZachCheung
+    repo: TykTechnologies/tyk
+  - title: TykTechnologies/tyk-git being watched by roscopecoltran
+    url: ""
+    time_stamp: "2018-08-15"
+    type: WatchEvent
+    user_name: roscopecoltran
+    repo: TykTechnologies/tyk-git
+  - title: buger pushed to TykTechnologies/tyk
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: buger
+    repo: TykTechnologies/tyk
+  - title: marksou pushed to TykTechnologies/tyk-docs
+    url: ""
+    time_stamp: "2018-08-15"
+    type: PushEvent
+    user_name: marksou
+    repo: TykTechnologies/tyk-docs
+  - title: marksou made a pull request on TykTechnologies/tyk-docs
+    url: https://github.com/TykTechnologies/tyk-docs/pull/534
+    time_stamp: "2018-08-15"
+    type: PullRequestEvent
+    user_name: marksou
+    repo: TykTechnologies/tyk-docs
+  - title: marksou made a pull request on TykTechnologies/tyk-docs
+    url: https://github.com/TykTechnologies/tyk-docs/pull/534
+    time_stamp: "2018-08-15"
+    type: PullRequestEvent
+    user_name: marksou
+    repo: TykTechnologies/tyk-docs
+  latest_reddit_searches: []
+  latest_hacker_news_searches: []
+  latest_stack_exchange_searches: []
+  tags:
+  - Tyk API Management
+  - Technology
+  - Stack Network
+  - Service API
+  - SDIO Partner
+  - SaaS
+  - Relative Data
+  - Management
+  - Deployments
+  - API Deployment Gateways
 - organization_id: oE5X11G9alExwnSA6Y1bNQU7dBflY1160djvN8aUj1k3Q117
   name: Xignite
   description: Financial market data on-demand. Xignite financial Web services help
@@ -3187,10 +3526,12 @@ competition:
   - Technology
   - Statistics
   - Stack Network
+  - Service API
   - SDIO Partner
   - SaaS
   - Realestate
-  - Publishing
+  - Publish
+  - Pedestal
   - Markets
   - Markets
   - Market Data
@@ -3199,6 +3540,7 @@ competition:
   - JavaScript
   - Government
   - Getting Started Example
+  - General Data
   - Financial Services
   - Financial News API
   - Financial
@@ -3207,7 +3549,7 @@ competition:
   - Enterprise
   - Energy
   - Economic
-  - Currency
+  - Currencies
   - Charts
   - Business
   - Business
