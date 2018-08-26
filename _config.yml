@@ -2086,7 +2086,105 @@ competition:
   - title: "Stoplight \u2764 Windows and Linux"
     url: https://blog.stoplight.io/stoplight-windows-and-linux-97fe9bdbb5e7?source=rss----9be7d78deaf4---4
     time_stamp: "2016-07-25 10:28:55"
-  latest_tweets: []
+  latest_tweets:
+  - title: "RT @cra: Writing Documentation When You Aren't A Technical Writer\u200A
+      via @stoplightio https://t.co/ZrLloXMAji"
+    url: https://twitter.com/stoplightio/status/1033064606833553408
+    time_stamp: "2018-08-24 11:52:50"
+  - title: "RT @stoplightio: Turn \U0001F630 into \U0001F600 with your documentation.
+      Read more in Part Two of Writing Documentation When You Aren't A Technical
+      Writer..."
+    url: https://twitter.com/stoplightio/status/1032689838766649344
+    time_stamp: "2018-08-23 11:03:38"
+  - title: "Turn \U0001F630 into \U0001F600 with your documentation. Read more in
+      Part Two of Writing Documentation When You Aren't A Technical... https://t.co/ToYPcAzD4L"
+    url: https://twitter.com/stoplightio/status/1032688433234419712
+    time_stamp: "2018-08-23 10:58:03"
+  - title: "If an API team has done their homework, actually put other 3rd party APIs
+      to work, they would know that PDF docume... https://t.co/obBErKkSLF"
+    url: https://twitter.com/stoplightio/status/1032621044669005824
+    time_stamp: "2018-08-23 06:30:16"
+  - title: "Hurry! Make sure you dont miss out on the second edition of our new newsletter,
+      the API Intersection, coming out s... https://t.co/iCIcijyzOg"
+    url: https://twitter.com/stoplightio/status/1032326059868467200
+    time_stamp: "2018-08-22 10:58:07"
+  - title: ".@wiredferret answers what is API Hospitality and how we can achieve it
+      in this great piece:... https://t.co/uARkkECiKn"
+    url: https://twitter.com/stoplightio/status/1031944530545844225
+    time_stamp: "2018-08-21 09:42:03"
+  - title: "The Hardest Part of Microservices: Calling Your Services by @christianposta
+      \ https://t.co/wE8Z4zBS5y\U0001F6A8Spoiler al... https://t.co/W2jn6PEQSm"
+    url: https://twitter.com/stoplightio/status/1031896272276533248
+    time_stamp: "2018-08-21 06:30:17"
+  - title: 'A great introduction to API security with the #OpenAPISpec from @LukasRosenstock
+      https://t.co/RwTAlvce0J'
+    url: https://twitter.com/stoplightio/status/1031621177989648384
+    time_stamp: "2018-08-20 12:17:10"
+  - title: "RT @APICityConf: Wed like to announce our new sponsor. They will be paying
+      for the Speakers Dinner at the Seattle API City Conference! Th..."
+    url: https://twitter.com/stoplightio/status/1029458886741450753
+    time_stamp: "2018-08-14 13:04:59"
+  - title: "The latest from the Stoplight blog: The Changing Landscape of Developer
+      Content by @lifewingmate... https://t.co/2yYfXIWdM7"
+    url: https://twitter.com/stoplightio/status/1029426940577546241
+    time_stamp: "2018-08-14 10:58:03"
+  - title: "RT @taylor_atx: made a github bot that lints your #OpenAPISpec file (with
+      speccy) when you open/edit PRs. its kind of ugly, not fully auto..."
+    url: https://twitter.com/stoplightio/status/1029057679837278208
+    time_stamp: "2018-08-13 10:30:44"
+  - title: "RT @lyzidiamond: Welcome to Map University. Today's topic: using
+      mapping APIs for fun and profit.API stands for Application Programming..."
+    url: https://twitter.com/stoplightio/status/1028028385124069376
+    time_stamp: "2018-08-10 14:20:41"
+  - title: Stoplight team axe throwing https://t.co/mkLpeMDMEq
+    url: https://twitter.com/stoplightio/status/1028026258461024256
+    time_stamp: "2018-08-10 14:12:14"
+  - title: REST was NEVER about CRUD by @launchany https://t.co/zHyQtplgJN https://t.co/RgOZsUCtqF
+    url: https://twitter.com/stoplightio/status/1027909968379490304
+    time_stamp: "2018-08-10 06:30:08"
+  - title: 'Great resource: The Microservice Design Canvas from @MattMcLartyBC https://t.co/QoIDtnKiLr
+      https://t.co/iMJH24i1ds'
+    url: https://twitter.com/stoplightio/status/1027595870320189442
+    time_stamp: "2018-08-09 09:42:01"
+  - title: "RT @taylor_atx: Still, contracts are not documentation and are insufficient
+      for a good developer experience. Providing samples, quick star..."
+    url: https://twitter.com/stoplightio/status/1027291823545483266
+    time_stamp: "2018-08-08 13:33:51"
+  - title: A Pragmatic Take On REST Anti Patterns by @SensibleWood https://t.co/vXk9VwHajL
+      https://t.co/NUSyHvqLab
+    url: https://twitter.com/stoplightio/status/1027252612998082560
+    time_stamp: "2018-08-08 10:58:03"
+  - title: '@OwenTheTwit Send an email to support@stoplight.io and we can talk about
+      migration'
+    url: https://twitter.com/stoplightio/status/1027233280276549632
+    time_stamp: "2018-08-08 09:41:13"
+  - title: "@OwenTheTwit Hey! Sorry about that! Scenarios is now part of https://t.co/hoDXS1amhX
+      and the docs are located at... https://t.co/PQ8LM9wi0z"
+    url: https://twitter.com/stoplightio/status/1026969340292341760
+    time_stamp: "2018-08-07 16:12:25"
+  - title: 'Update on the HTTP Sunset Header: https://t.co/AksIPCxMfw'
+    url: https://twitter.com/stoplightio/status/1026890214256640001
+    time_stamp: "2018-08-07 10:58:00"
+  - title: "They see API design as unnecessary work, when in reality, they are just
+      unwilling to do the heavy lifting, and the... https://t.co/MaowtJAZR4"
+    url: https://twitter.com/stoplightio/status/1026822815968899078
+    time_stamp: "2018-08-07 06:30:11"
+  - title: "Unsure of where to get started with API Design using Stoplight and OpenAPI?
+      Heres the place to start \U0001F449... https://t.co/gUzFywQUKh"
+    url: https://twitter.com/stoplightio/status/1026508700213764098
+    time_stamp: "2018-08-06 09:42:00"
+  - title: "Writing Documentation When You Aren't A Technical Writer\u200A\u200APart
+      One by @taylor_atx https://t.co/q1x2zrBYm4 https://t.co/JWOEwSDSwI"
+    url: https://twitter.com/stoplightio/status/1026460544453304322
+    time_stamp: "2018-08-06 06:30:39"
+  - title: "@ttamhew \U0001F44B\_Its in progress in a lot of different areas of the
+      platform. Happy to talk through those struggles at support@stoplight.io."
+    url: https://twitter.com/stoplightio/status/1025439279164653570
+    time_stamp: "2018-08-03 10:52:30"
+  - title: "Just shipped the first API Intersection newsletter. \U0001F389\_Let us
+      know what you think! https://t.co/cSpwRfrl6u"
+    url: https://twitter.com/stoplightio/status/1025438981075419136
+    time_stamp: "2018-08-03 10:51:19"
   latest_github_activity:
   - title: lottamus pushed to stoplightio/js-coding-challenge
     url: ""
