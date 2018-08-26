@@ -2329,6 +2329,10 @@ competition:
     url: http://feedproxy.google.com/""/ITkp7ombzWQ/sensors-environment-and-internet-of-things-iot
     time_stamp: "2016-12-08 11:59:54"
   latest_tweets:
+  - title: "RT @TalendCommunity: For all Architecture, Best Practices, and How-Tos.
+      Check out https://t.co/mDVAcfFCif#bestpractices #TipsandTricks #C..."
+    url: https://twitter.com/Talend/status/1033578759444557825
+    time_stamp: "2018-08-25 21:55:53"
   - title: '#EmotionalIntelligence Undervalued In The Hiring Process - https://t.co/7thY6Nlelv#HR
       https://t.co/6rA4NV3rrm'
     url: https://twitter.com/Talend/status/1033507072938266625
@@ -2421,10 +2425,6 @@ competition:
       Applications. Watch the webinar here:... https://t.co/DoRScq5MuX"
     url: https://twitter.com/Talend/status/1032330069279166464
     time_stamp: "2018-08-22 11:14:02"
-  - title: 'How to manage #cloudsecurity when providers and customers share responsibility
-      - https://t.co/Qz7t4dT7Ei#Cloud #CloudComputing'
-    url: https://twitter.com/Talend/status/1032284009114611713
-    time_stamp: "2018-08-22 08:11:01"
   latest_github_activity:
   - title: build-travis-ci pushed to Talend/ui
     url: ""
