@@ -2127,6 +2127,18 @@ competition:
     url: https://blog.stoplight.io/stoplight-windows-and-linux-97fe9bdbb5e7?source=rss----9be7d78deaf4---4
     time_stamp: "2016-07-25 10:28:55"
   latest_tweets:
+  - title: "RT @AdobeIO: OpenAPI specs give you more than just documentation, says
+      @taylor_atx. It lets you focus on the API experience. https://t.co/7..."
+    url: https://twitter.com/stoplightio/status/1034159463559835649
+    time_stamp: "2018-08-27 12:23:24"
+  - title: Art of README https://t.co/RfL0B153py About what they do, why they are
+      an absolute necessity, and how to craft them well.
+    url: https://twitter.com/stoplightio/status/1034137972185214978
+    time_stamp: "2018-08-27 10:58:00"
+  - title: "The Arrival of REST by @HeyChelseaTroy https://t.co/DUCDHT4RFuREST is
+      based on the idea that you should send dat... https://t.co/qwczQp8ar3"
+    url: https://twitter.com/stoplightio/status/1034118854111318016
+    time_stamp: "2018-08-27 09:42:02"
   - title: "RT @cra: Writing Documentation When You Aren't A Technical Writer\u200A
       via @stoplightio https://t.co/ZrLloXMAji"
     url: https://twitter.com/stoplightio/status/1033064606833553408
@@ -2213,18 +2225,6 @@ competition:
       Heres the place to start \U0001F449... https://t.co/gUzFywQUKh"
     url: https://twitter.com/stoplightio/status/1026508700213764098
     time_stamp: "2018-08-06 09:42:00"
-  - title: "Writing Documentation When You Aren't A Technical Writer\u200A\u200APart
-      One by @taylor_atx https://t.co/q1x2zrBYm4 https://t.co/JWOEwSDSwI"
-    url: https://twitter.com/stoplightio/status/1026460544453304322
-    time_stamp: "2018-08-06 06:30:39"
-  - title: "@ttamhew \U0001F44B\_Its in progress in a lot of different areas of the
-      platform. Happy to talk through those struggles at support@stoplight.io."
-    url: https://twitter.com/stoplightio/status/1025439279164653570
-    time_stamp: "2018-08-03 10:52:30"
-  - title: "Just shipped the first API Intersection newsletter. \U0001F389\_Let us
-      know what you think! https://t.co/cSpwRfrl6u"
-    url: https://twitter.com/stoplightio/status/1025438981075419136
-    time_stamp: "2018-08-03 10:51:19"
   latest_github_activity:
   - title: lottamus pushed to stoplightio/js-coding-challenge
     url: ""
