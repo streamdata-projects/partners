@@ -163,6 +163,19 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-logo.png
   image_width: "150"
   latest_blog:
+  - title: "Amazon DynamoDB ' Features to Power Your Enterprise"
+    url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/x2b-44rnPtM/
+    time_stamp: "2018-08-27 05:57:02"
+  - title: "Amazon Lightsail Update ' More Instance Sizes and Price Reductions"
+    url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/hhOqSxD02PQ/
+    time_stamp: "2018-08-23 15:03:25"
+  - title: "New T3 Instances ' Burstable, CostEffective Performance"
+    url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/FN3O_0ZGt5E/
+    time_stamp: "2018-08-21 16:36:27"
+  - title: Amazon Kinesis Data Streams Adds Enhanced FanOut and HTTP/2 for Faster
+      Streaming
+    url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/hdNPoPy8_rw/
+    time_stamp: "2018-08-21 10:00:34"
   - title: Aurora Serverless MySQL Generally Available
     url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/zDmobFZZkEk/
     time_stamp: "2018-08-09 17:10:46"
