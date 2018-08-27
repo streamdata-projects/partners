@@ -1485,6 +1485,17 @@ competition:
     url: http://blog.getpostman.com/2018/04/11/looping-through-a-data-file-in-the-postman-collection-runner/
     time_stamp: "2018-04-10 13:42:03"
   latest_tweets:
+  - title: "Looping through a #data file is simple with the Postman Collection Runner
+      - learn how in this tutorial:... https://t.co/adNKayi8I7"
+    url: https://twitter.com/postmanclient/status/1034146064188760064
+    time_stamp: "2018-08-27 11:30:09"
+  - title: 'Read about how @spotinst uses Postman for everyday development: https://t.co/AsBSBCMtcl'
+    url: https://twitter.com/postmanclient/status/1034102848504688643
+    time_stamp: "2018-08-27 08:38:26"
+  - title: "Become a Postman Expert! Attend a full day Workshop on Postman features
+      and best practices on 29th Sept'18 in Banga... https://t.co/jNqHf7O398"
+    url: https://twitter.com/postmanclient/status/1033997736079773696
+    time_stamp: "2018-08-27 01:40:45"
   - title: "Read about @ankit_muchhala - he started out as an intern at Postman and
       now works on everything from UI to backend... https://t.co/wrzDG4cBsZ"
     url: https://twitter.com/postmanclient/status/1033194809203286016
@@ -1569,18 +1580,6 @@ competition:
       8/22! Our founders, @a85 and @sobtiankit an... https://t.co/xHw6WjGOWR"
     url: https://twitter.com/postmanclient/status/1030192131414077440
     time_stamp: "2018-08-16 13:38:38"
-  - title: "We recently released Newman Version 4  Newman is our open-source
-      companion CLI tool that allows you to run Postman... https://t.co/w0Tb8gRLZS"
-    url: https://twitter.com/postmanclient/status/1030109490690105344
-    time_stamp: "2018-08-16 08:10:15"
-  - title: "Postman makes it easy to import data and work with your API description
-      format of choice. Learn how to sync your sp... https://t.co/PaRl0H0fgH"
-    url: https://twitter.com/postmanclient/status/1029929505870282752
-    time_stamp: "2018-08-15 20:15:04"
-  - title: "Postman Enterprise is the complete API development environment for enterprise
-      teams - find out how Postman can help... https://t.co/GJkwwedrrn"
-    url: https://twitter.com/postmanclient/status/1029796149899788290
-    time_stamp: "2018-08-15 11:25:09"
   latest_github_activity:
   - title: postmanlabs/newman being watched by EXPurity
     url: ""
