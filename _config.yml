@@ -480,6 +480,36 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21-axway.jpg
   image_width: "150"
   latest_blog:
+  - title: Syncplicity by Axway  Product Advisory Council
+    url: https://www.axway.com/en/axway_user_groups/syncplicity-axway-product-advisory-council
+    time_stamp: "2018-08-24 05:44:50"
+  - title: 403 | Forbidden
+    url: https://www.axway.com/en/403-forbidden
+    time_stamp: "2018-08-22 19:54:43"
+  - title: 404 | Not Found
+    url: https://www.axway.com/en/404-not-found
+    time_stamp: "2018-08-22 19:41:12"
+  - title: Wipro
+    url: https://www.axway.com/en/partners/wipro
+    time_stamp: "2018-08-21 15:20:52"
+  - title: Vauban
+    url: https://www.axway.com/en/partners/vauban
+    time_stamp: "2018-08-21 15:18:29"
+  - title: Trustlink
+    url: https://www.axway.com/en/partners/trustlink
+    time_stamp: "2018-08-21 15:10:08"
+  - title: Tech Mahindra
+    url: https://www.axway.com/en/partners/tech-mahindra
+    time_stamp: "2018-08-21 15:07:37"
+  - title: Tata Consultancy Services
+    url: https://www.axway.com/en/partners/tata-consultancy-services
+    time_stamp: "2018-08-21 15:04:51"
+  - title: Take Solutions
+    url: https://www.axway.com/en/partners/take-solutions
+    time_stamp: "2018-08-21 15:04:04"
+  - title: Squirrel Mobile
+    url: https://www.axway.com/en/partners/squirrel-mobile
+    time_stamp: "2018-08-21 15:02:29"
   - title: 'API Talk: The compass for Microservices and API Management!'
     url: https://www.axway.com/en/event/api-talk-compass-micro-services-and-api-management
     time_stamp: "2018-08-17 08:20:00"
