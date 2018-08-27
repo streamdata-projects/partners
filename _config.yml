@@ -3000,6 +3000,9 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trading-central.jpeg
   image_width: "150"
   latest_blog:
+  - title: 'Riding The Wave: Making Elliott Wave Simple'
+    url: http://blog.tradingcentral.com/blog/riding-the-wave-making-elliott-wave-simple
+    time_stamp: "2018-08-24 10:56:46"
   - title: Search for Canadas value stars avoids stocks with excessive debt
     url: http://blog.tradingcentral.com/blog/seeking-lower-volatility-us-consumer-stocks-0-1
     time_stamp: "2018-08-17 09:25:00"
