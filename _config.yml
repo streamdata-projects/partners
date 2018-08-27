@@ -2423,6 +2423,22 @@ competition:
     url: http://feedproxy.google.com/""/ITkp7ombzWQ/sensors-environment-and-internet-of-things-iot
     time_stamp: "2016-12-08 11:59:54"
   latest_tweets:
+  - title: 'The #cloudcomputing market has grown significantly but some barriers to
+      entry still exist - https://t.co/UKUAjv1SIr#Cloud'
+    url: https://twitter.com/Talend/status/1033794711826391043
+    time_stamp: "2018-08-26 12:14:00"
+  - title: "RT @BernardMarr: Stop bad #data before it enters your system. Download
+      this definitive guide on data quality to make the leap to better dat..."
+    url: https://twitter.com/Talend/status/1033773728784572416
+    time_stamp: "2018-08-26 10:50:38"
+  - title: "[ebook] This @TDWI checklist demonstrates how to reduce risk and disruption
+      while implementing multi-cloud... https://t.co/w7WDP5ZCPT"
+    url: https://twitter.com/Talend/status/1033754707448274944
+    time_stamp: "2018-08-26 09:35:03"
+  - title: "The rise of the machine has freed @ICIJorg members globally to pore over
+      millions of documents in a custom-built se... https://t.co/0w57Hpgseq"
+    url: https://twitter.com/Talend/status/1033716446684176385
+    time_stamp: "2018-08-26 07:03:01"
   - title: "RT @TalendCommunity: For all Architecture, Best Practices, and How-Tos.
       Check out https://t.co/mDVAcfFCif#bestpractices #TipsandTricks #C..."
     url: https://twitter.com/Talend/status/1033578759444557825
@@ -2504,21 +2520,6 @@ competition:
       #Cloud #Containers https://t.co/2DmaYk34XX'
     url: https://twitter.com/Talend/status/1032676631012364289
     time_stamp: "2018-08-23 10:11:09"
-  - title: "NEWS: @Talend named @dbtrends Readers Choice for Best #DataIntegration
-      Solution ' the essential link between infor... https://t.co/apaGShAMTk"
-    url: https://twitter.com/Talend/status/1032606841258344449
-    time_stamp: "2018-08-23 05:33:50"
-  - title: '5 Ways #ArtificialIntelligence Can Improve Your Business Right Now - https://t.co/LAATNyKe9A'
-    url: https://twitter.com/Talend/status/1032463187604656128
-    time_stamp: "2018-08-22 20:03:00"
-  - title: "[Blog] How to containerize your integration jobs with one click with Talend
-      and @Docker - https://t.co/Y71K74qIIw... https://t.co/XnywmFN9cC"
-    url: https://twitter.com/Talend/status/1032374613693489152
-    time_stamp: "2018-08-22 14:11:03"
-  - title: "Learn How to Combine #Geodata from Different Sources with Domain-specific
-      Applications. Watch the webinar here:... https://t.co/DoRScq5MuX"
-    url: https://twitter.com/Talend/status/1032330069279166464
-    time_stamp: "2018-08-22 11:14:02"
   latest_github_activity:
   - title: build-travis-ci pushed to Talend/ui
     url: ""
