@@ -2125,6 +2125,14 @@ competition:
     url: https://blog.stoplight.io/stoplight-windows-and-linux-97fe9bdbb5e7?source=rss----9be7d78deaf4---4
     time_stamp: "2016-07-25 10:28:55"
   latest_tweets:
+  - title: "RT @thenewstack: Discussing Microservices and APIs with https://t.co/3GSeALS99ys
+      Taylor Barnett  https://t.co/wGSsUDe0el @alexwilliams @ta..."
+    url: https://twitter.com/stoplightio/status/1034446247489404928
+    time_stamp: "2018-08-28 07:22:59"
+  - title: "How to Approach Testing for Microservices by Nathan Jakubiak https://t.co/vojMQadUx6Hint:
+      Service virtualization... https://t.co/iBH2XH9eZA"
+    url: https://twitter.com/stoplightio/status/1034433037726035968
+    time_stamp: "2018-08-28 06:30:29"
   - title: "RT @AdobeIO: OpenAPI specs give you more than just documentation, says
       @taylor_atx. It lets you focus on the API experience. https://t.co/7..."
     url: https://twitter.com/stoplightio/status/1034159463559835649
@@ -2215,14 +2223,6 @@ competition:
   - title: 'Update on the HTTP Sunset Header: https://t.co/AksIPCxMfw'
     url: https://twitter.com/stoplightio/status/1026890214256640001
     time_stamp: "2018-08-07 10:58:00"
-  - title: "They see API design as unnecessary work, when in reality, they are just
-      unwilling to do the heavy lifting, and the... https://t.co/MaowtJAZR4"
-    url: https://twitter.com/stoplightio/status/1026822815968899078
-    time_stamp: "2018-08-07 06:30:11"
-  - title: "Unsure of where to get started with API Design using Stoplight and OpenAPI?
-      Heres the place to start \U0001F449... https://t.co/gUzFywQUKh"
-    url: https://twitter.com/stoplightio/status/1026508700213764098
-    time_stamp: "2018-08-06 09:42:00"
   latest_github_activity:
   - title: lottamus pushed to stoplightio/js-coding-challenge
     url: ""
