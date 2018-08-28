@@ -1485,6 +1485,21 @@ competition:
     url: http://blog.getpostman.com/2018/04/11/looping-through-a-data-file-in-the-postman-collection-runner/
     time_stamp: "2018-04-10 13:42:03"
   latest_tweets:
+  - title: "RT @briandesousa1: The measure of a well designed tool is when you can
+      get up and running with the basics quickly and figure out how to do..."
+    url: https://twitter.com/postmanclient/status/1034531890718363648
+    time_stamp: "2018-08-28 13:03:18"
+  - title: "Our CEO and Co-founder, @a85 will share tips on making your API developer-friendly,
+      well-known, and well-used in hi... https://t.co/F36n7ESWW5"
+    url: https://twitter.com/postmanclient/status/1034507196640501760
+    time_stamp: "2018-08-28 11:25:10"
+  - title: "RT @DailyHostNews: Read Abhinav Asthana, Founder &amp; CEO of Postman's
+      exclusive interview with DHN about its journey &amp; how Postman helps #dev..."
+    url: https://twitter.com/postmanclient/status/1034478686240559104
+    time_stamp: "2018-08-28 09:31:53"
+  - title: 'Review #PostCon2018 workshop material in this YouTube playlist: https://t.co/WdayxqHQiJ'
+    url: https://twitter.com/postmanclient/status/1034280677137674240
+    time_stamp: "2018-08-27 20:25:04"
   - title: "Looping through a #data file is simple with the Postman Collection Runner
       - learn how in this tutorial:... https://t.co/adNKayi8I7"
     url: https://twitter.com/postmanclient/status/1034146064188760064
@@ -1564,22 +1579,6 @@ competition:
       community! https://t.co/NhAiaF63fZ https://t.co/n8Jq4OYJT6
     url: https://twitter.com/postmanclient/status/1030659323230408704
     time_stamp: "2018-08-17 20:35:06"
-  - title: "An API-first approach assumes the design and development of an application
-      programming interface (#API) comes befor... https://t.co/qzu4mhNDSz"
-    url: https://twitter.com/postmanclient/status/1030519708846616576
-    time_stamp: "2018-08-17 11:20:19"
-  - title: Our CEO and Co-founder, @a85 shares his leadership strategies to improve
-      company culture. https://t.co/fltHYjBjlw https://t.co/wfYH7h0A0h
-    url: https://twitter.com/postmanclient/status/1030474406865371136
-    time_stamp: "2018-08-17 08:20:18"
-  - title: 'Level up to Postman advanced skills with this YouTube playlist: https://t.co/xrUupmjzG2
-      https://t.co/HYBCvpuj9v'
-    url: https://twitter.com/postmanclient/status/1030295726285365250
-    time_stamp: "2018-08-16 20:30:17"
-  - title: "Dont miss our summer meet-up in our San Francisco office on Wednesday,
-      8/22! Our founders, @a85 and @sobtiankit an... https://t.co/xHw6WjGOWR"
-    url: https://twitter.com/postmanclient/status/1030192131414077440
-    time_stamp: "2018-08-16 13:38:38"
   latest_github_activity:
   - title: postmanlabs/newman being watched by EXPurity
     url: ""
