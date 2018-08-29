@@ -2123,6 +2123,33 @@ competition:
     url: https://blog.stoplight.io/stoplight-windows-and-linux-97fe9bdbb5e7?source=rss----9be7d78deaf4---4
     time_stamp: "2016-07-25 10:28:55"
   latest_tweets:
+  - title: "Want to meet part of the Stoplight team to talk about API design, mocking,
+      testing, and governance? Join us in Nash... https://t.co/O6sNXp7e4s"
+    url: https://twitter.com/stoplightio/status/1034854978706386944
+    time_stamp: "2018-08-29 10:27:08"
+  - title: 'RT @APICityConf: Have you grabbed your ticket today? https://t.co/df70qTTbVF.
+      Hurry before we sell out! :-) #APICity2018'
+    url: https://twitter.com/stoplightio/status/1034853399043473409
+    time_stamp: "2018-08-29 10:20:51"
+  - title: "RT @philsturgeon: I wrote up an article showing how we handle API Specifications
+      at WeWork. This is a preview of the topics Ill be talking..."
+    url: https://twitter.com/stoplightio/status/1034853194550132736
+    time_stamp: "2018-08-29 10:20:02"
+  - title: 'RT @screaminggeek: We believe that @OpenApiSpec is a massive productivity
+      win for developers. https://t.co/YjRHe3V2oH'
+    url: https://twitter.com/stoplightio/status/1034852993127116800
+    time_stamp: "2018-08-29 10:19:14"
+  - title: "RT @P_Ensarguet: Antother great #podcast from @thenewstack #Makers Discussing
+      Microservices and APIs with https://t.co/YZH6KGiaSC's Taylor..."
+    url: https://twitter.com/stoplightio/status/1034852531736911873
+    time_stamp: "2018-08-29 10:17:24"
+  - title: "RT @mackenlyj02: @stoplightio is amazing! The amount of time it takes
+      to create an API has never been shorter! #openAPI #appdev https://t.c..."
+    url: https://twitter.com/stoplightio/status/1034852301402517504
+    time_stamp: "2018-08-29 10:16:29"
+  - title: '@mackenlyj02 yay! what are you building?'
+    url: https://twitter.com/stoplightio/status/1034852284302336002
+    time_stamp: "2018-08-29 10:16:25"
   - title: "RT @thenewstack: Discussing Microservices and APIs with https://t.co/3GSeALS99ys
       Taylor Barnett  https://t.co/wGSsUDe0el @alexwilliams @ta..."
     url: https://twitter.com/stoplightio/status/1034446247489404928
@@ -2195,32 +2222,6 @@ competition:
   - title: Stoplight team axe throwing https://t.co/mkLpeMDMEq
     url: https://twitter.com/stoplightio/status/1028026258461024256
     time_stamp: "2018-08-10 14:12:14"
-  - title: REST was NEVER about CRUD by @launchany https://t.co/zHyQtplgJN https://t.co/RgOZsUCtqF
-    url: https://twitter.com/stoplightio/status/1027909968379490304
-    time_stamp: "2018-08-10 06:30:08"
-  - title: 'Great resource: The Microservice Design Canvas from @MattMcLartyBC https://t.co/QoIDtnKiLr
-      https://t.co/iMJH24i1ds'
-    url: https://twitter.com/stoplightio/status/1027595870320189442
-    time_stamp: "2018-08-09 09:42:01"
-  - title: "RT @taylor_atx: Still, contracts are not documentation and are insufficient
-      for a good developer experience. Providing samples, quick star..."
-    url: https://twitter.com/stoplightio/status/1027291823545483266
-    time_stamp: "2018-08-08 13:33:51"
-  - title: A Pragmatic Take On REST Anti Patterns by @SensibleWood https://t.co/vXk9VwHajL
-      https://t.co/NUSyHvqLab
-    url: https://twitter.com/stoplightio/status/1027252612998082560
-    time_stamp: "2018-08-08 10:58:03"
-  - title: '@OwenTheTwit Send an email to support@stoplight.io and we can talk about
-      migration'
-    url: https://twitter.com/stoplightio/status/1027233280276549632
-    time_stamp: "2018-08-08 09:41:13"
-  - title: "@OwenTheTwit Hey! Sorry about that! Scenarios is now part of https://t.co/hoDXS1amhX
-      and the docs are located at... https://t.co/PQ8LM9wi0z"
-    url: https://twitter.com/stoplightio/status/1026969340292341760
-    time_stamp: "2018-08-07 16:12:25"
-  - title: 'Update on the HTTP Sunset Header: https://t.co/AksIPCxMfw'
-    url: https://twitter.com/stoplightio/status/1026890214256640001
-    time_stamp: "2018-08-07 10:58:00"
   latest_github_activity:
   - title: lottamus pushed to stoplightio/js-coding-challenge
     url: ""
