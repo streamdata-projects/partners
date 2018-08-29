@@ -363,6 +363,17 @@ competition:
     url: https://apimetrics.io/2018/06/14/watching-the-connectors/
     time_stamp: "2018-06-14 05:06:12"
   latest_tweets:
+  - title: Updates on the API industry, including some news from us! https://t.co/1ujY1wUP1O
+    url: https://twitter.com/APImetricStats/status/1034837559556239360
+    time_stamp: "2018-08-29 09:17:55"
+  - title: "Interesting in performance data on various key APIs for the IT, Banking
+      and government sectors? Check out our new l... https://t.co/p05RRFvYCX"
+    url: https://twitter.com/APImetricStats/status/1034837303137456129
+    time_stamp: "2018-08-29 09:16:54"
+  - title: "Thanks to @apievangelist for highlighting our work! Helping The Federal
+      Government Get In Tune With Their API Upti... https://t.co/zYL0D75GLL"
+    url: https://twitter.com/APImetricStats/status/1034747224079654912
+    time_stamp: "2018-08-29 03:18:57"
   - title: "New common corporate API performance dashboard - the Monitoring as a Service
       product is coming soon, but feel free... https://t.co/7vXZz5zDWb"
     url: https://twitter.com/APImetricStats/status/1033412938038558720
@@ -446,18 +457,6 @@ competition:
       (SLOs). Whats the difference between an... https://t.co/z6xOd1Rgyj"
     url: https://twitter.com/APImetricStats/status/1004774937561894918
     time_stamp: "2018-06-07 10:19:47"
-  - title: "You know the future has arrived when you see an advert for it for it on
-      \ an obscure Sky satellite channel. In this... https://t.co/Zp9Xux5uQz"
-    url: https://twitter.com/APImetricStats/status/1004401683722653696
-    time_stamp: "2018-06-06 09:36:36"
-  - title: "Were not ones for conspiracies but we were amused to see that the otherwise
-      rock solid Github APIs had their first... https://t.co/SkuDckTC4v"
-    url: https://twitter.com/APImetricStats/status/1004381791518507009
-    time_stamp: "2018-06-06 08:17:34"
-  - title: "Hey, to the people @Visa who were Googling our service on May 31st, give
-      us a call you were ahead of your time..... https://t.co/tGMOdV4uCc"
-    url: https://twitter.com/APImetricStats/status/1003741729957208071
-    time_stamp: "2018-06-04 13:54:11"
   latest_github_activity:
   - title: ndenny pushed to APImetrics/bootstrap
     url: ""
