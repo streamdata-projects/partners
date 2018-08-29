@@ -1484,6 +1484,22 @@ competition:
     url: http://blog.getpostman.com/2018/04/11/looping-through-a-data-file-in-the-postman-collection-runner/
     time_stamp: "2018-04-10 13:42:03"
   latest_tweets:
+  - title: Find out how to build a serverless librarian @SlackHQ app using Postman
+      and @airtable https://t.co/KfT0GYDIXb https://t.co/reXJQmxLf6
+    url: https://twitter.com/postmanclient/status/1034869585420402688
+    time_stamp: "2018-08-29 11:25:10"
+  - title: "Are you demoing Postman at a meetup or other event? Fill out our swag
+      request form and well send you some Postman... https://t.co/2eYpPEWJf3"
+    url: https://twitter.com/postmanclient/status/1034824297200664578
+    time_stamp: "2018-08-29 08:25:13"
+  - title: 'Last few early bird tickets left for the Postman Workshop in Bengaluru
+      - https://t.co/w6jZ4UIuPf#postmanworkshop #bengaluru #apiworkshop'
+    url: https://twitter.com/postmanclient/status/1034712835895439360
+    time_stamp: "2018-08-29 01:02:18"
+  - title: Postman Workspaces - what are they good for? Find out in this blog post!
+      https://t.co/OaYOXwC4Um https://t.co/pQzm7CV1M3
+    url: https://twitter.com/postmanclient/status/1034643064579608576
+    time_stamp: "2018-08-28 20:25:03"
   - title: "RT @briandesousa1: The measure of a well designed tool is when you can
       get up and running with the basics quickly and figure out how to do..."
     url: https://twitter.com/postmanclient/status/1034531890718363648
@@ -1563,21 +1579,6 @@ competition:
       at 6:00pm! Register for our meet-up here: https://t.co/BKYks4XDRk'
     url: https://twitter.com/postmanclient/status/1031922707284353025
     time_stamp: "2018-08-21 08:15:20"
-  - title: Want Postman swag? Visit our swag store! https://t.co/eNcwAtv8MU https://t.co/HwRopXMiZb
-    url: https://twitter.com/postmanclient/status/1031741458276122624
-    time_stamp: "2018-08-20 20:15:07"
-  - title: "Postman has been essential to us in rapidly developing new APIs '
-      internally we use it to debug and share particul... https://t.co/qDjkMQoXUY"
-    url: https://twitter.com/postmanclient/status/1031605607458131970
-    time_stamp: "2018-08-20 11:15:17"
-  - title: "How we use Postman, @airtable, and @SlackHQ in our San Francisco office
-      to enforce kitchen and dishwasher duty:... https://t.co/bHeLweypG6"
-    url: https://twitter.com/postmanclient/status/1031561568952246273
-    time_stamp: "2018-08-20 08:20:18"
-  - title: Find out how you can share your API with 5 million developers in the Postman
-      community! https://t.co/NhAiaF63fZ https://t.co/n8Jq4OYJT6
-    url: https://twitter.com/postmanclient/status/1030659323230408704
-    time_stamp: "2018-08-17 20:35:06"
   latest_github_activity:
   - title: postmanlabs/newman being watched by EXPurity
     url: ""
