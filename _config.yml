@@ -1484,6 +1484,22 @@ competition:
     url: http://blog.getpostman.com/2018/04/11/looping-through-a-data-file-in-the-postman-collection-runner/
     time_stamp: "2018-04-10 13:42:03"
   latest_tweets:
+  - title: "RT @tistre: I can't imagine testing and developing APIs without @postmanclient
+      anymore. It simply has every feature I can think of."
+    url: https://twitter.com/postmanclient/status/1035252265823531008
+    time_stamp: "2018-08-30 12:45:48"
+  - title: "Learn how to keep your API development DRY (dont repeat yourself) with
+      collection and folder elements:... https://t.co/gl5lYb4Sl8"
+    url: https://twitter.com/postmanclient/status/1035230720174776330
+    time_stamp: "2018-08-30 11:20:12"
+  - title: "Check out this blog post by our Dev Evangelist @Scottishkilt - How to
+      dissolve communication barriers in your #API... https://t.co/HnSjlnU4u1"
+    url: https://twitter.com/postmanclient/status/1035184206073221120
+    time_stamp: "2018-08-30 08:15:22"
+  - title: "Our Developer Advocate, @PetuniaGray will be speaking at @APIWorld and
+      sharing tips for improving your documentatio... https://t.co/Ft7fyuNULV"
+    url: https://twitter.com/postmanclient/status/1035001686350340097
+    time_stamp: "2018-08-29 20:10:06"
   - title: Find out how to build a serverless librarian @SlackHQ app using Postman
       and @airtable https://t.co/KfT0GYDIXb https://t.co/reXJQmxLf6
     url: https://twitter.com/postmanclient/status/1034869585420402688
@@ -1564,21 +1580,6 @@ competition:
       San Francisco office! You can still register... https://t.co/aCDFFx9EwJ"
     url: https://twitter.com/postmanclient/status/1032329113326022658
     time_stamp: "2018-08-22 11:10:15"
-  - title: "Our CEO and Co-founder, @a85 wrote about how IoT has made APIs indispensable
-      and contributed to the growth of the A... https://t.co/xcaXD1OgUX"
-    url: https://twitter.com/postmanclient/status/1032285112057167872
-    time_stamp: "2018-08-22 08:15:24"
-  - title: 'Run and test your collections from the command line with Newman! Learn
-      more: https://t.co/JayFEis0kA https://t.co/DYOrXRSNEd'
-    url: https://twitter.com/postmanclient/status/1032105111609327616
-    time_stamp: "2018-08-21 20:20:08"
-  - title: Find out whats new in Postman 6.2! https://t.co/mei64gpz8u https://t.co/B6FoqeFCZN
-    url: https://twitter.com/postmanclient/status/1031968009466851333
-    time_stamp: "2018-08-21 11:15:21"
-  - title: 'Come hang out with the Postman team in our San Francisco office tomorrow
-      at 6:00pm! Register for our meet-up here: https://t.co/BKYks4XDRk'
-    url: https://twitter.com/postmanclient/status/1031922707284353025
-    time_stamp: "2018-08-21 08:15:20"
   latest_github_activity:
   - title: postmanlabs/newman being watched by EXPurity
     url: ""
