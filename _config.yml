@@ -2126,6 +2126,14 @@ competition:
     url: https://blog.stoplight.io/stoplight-windows-and-linux-97fe9bdbb5e7?source=rss----9be7d78deaf4---4
     time_stamp: "2016-07-25 10:28:55"
   latest_tweets:
+  - title: "One of the hardest parts of API leadership is that you can craft the best
+      possible guidance for API design, deploy... https://t.co/xpQpErVboG"
+    url: https://twitter.com/stoplightio/status/1035568396795105281
+    time_stamp: "2018-08-31 09:42:00"
+  - title: If youre in Europe (or want to be), check out sponsoring this great event!
+      https://t.co/kiujnFHTx2
+    url: https://twitter.com/stoplightio/status/1035301562707529728
+    time_stamp: "2018-08-30 16:01:42"
   - title: "Want to meet part of the Stoplight team to talk about API design, mocking,
       testing, and governance? Join us in Nash... https://t.co/O6sNXp7e4s"
     url: https://twitter.com/stoplightio/status/1034854978706386944
@@ -2218,13 +2226,6 @@ competition:
       speccy) when you open/edit PRs. its kind of ugly, not fully auto..."
     url: https://twitter.com/stoplightio/status/1029057679837278208
     time_stamp: "2018-08-13 10:30:44"
-  - title: "RT @lyzidiamond: Welcome to Map University. Today's topic: using
-      mapping APIs for fun and profit.API stands for Application Programming..."
-    url: https://twitter.com/stoplightio/status/1028028385124069376
-    time_stamp: "2018-08-10 14:20:41"
-  - title: Stoplight team axe throwing https://t.co/mkLpeMDMEq
-    url: https://twitter.com/stoplightio/status/1028026258461024256
-    time_stamp: "2018-08-10 14:12:14"
   latest_github_activity:
   - title: lottamus pushed to stoplightio/js-coding-challenge
     url: ""
