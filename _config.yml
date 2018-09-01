@@ -1865,6 +1865,10 @@ competition:
     url: http://feedproxy.google.com/""r/SforceBlog/""3/OFq5s2Hmrn4/integrate-external-content-into-communities-using-cms-connect-json.html
     time_stamp: "2018-06-13 10:33:06"
   latest_tweets:
+  - title: "Agenda Builder for #DF18 will be here soon, but while you wait, why not
+      bookmark your favorite sessions? Discover w... https://t.co/uTDHEGB4c4"
+    url: https://twitter.com/SalesforceDevs/status/1035580512256045059
+    time_stamp: "2018-08-31 10:30:08"
   - title: "Our Developer Keynote is one of the select events you can access with
       the #DF18 Free Expo+ Pass! Find out more here... https://t.co/H80oELS7yA"
     url: https://twitter.com/SalesforceDevs/status/1035210583849820162
@@ -1960,10 +1964,6 @@ competition:
       and will have an update today. Sorry for the delay!'
     url: https://twitter.com/SalesforceDevs/status/1031948208744751104
     time_stamp: "2018-08-21 09:56:40"
-  - title: "RT @andyinthecloud: Working on our demos for the Salesforce DX booth at
-      #DF18. We have some very exciting new features to show you! Our DX..."
-    url: https://twitter.com/SalesforceDevs/status/1031942843818885120
-    time_stamp: "2018-08-21 09:35:21"
   latest_github_activity:
   - title: studanshu pushed to salesforce/Argus
     url: ""
@@ -2466,6 +2466,30 @@ competition:
     url: http://feedproxy.google.com/""/ITkp7ombzWQ/sensors-environment-and-internet-of-things-iot
     time_stamp: "2016-12-08 11:59:54"
   latest_tweets:
+  - title: "[Step-by-Step] Using @Talend to Bulk Load #Data in @SnowflakeDB Cloud
+      Data Warehouse - https://t.co/HBtvRKuSH1... https://t.co/HutrQliVM0"
+    url: https://twitter.com/Talend/status/1035651955924852736
+    time_stamp: "2018-08-31 15:14:02"
+  - title: '.@RTInsights discusses the top features of Talends new bulk data uploader
+      for @Azure: https://t.co/qi2zW7FHxJ'
+    url: https://twitter.com/Talend/status/1035620992897482752
+    time_stamp: "2018-08-31 13:11:00"
+  - title: "[Blog] Build an Enterprise Level Password Vault with @Talend and @CyberArk
+      - https://t.co/UOAbkyY1CZ#BigData... https://t.co/EgG6MJ8f74"
+    url: https://twitter.com/Talend/status/1035591560472264704
+    time_stamp: "2018-08-31 11:14:03"
+  - title: "RT @iemejia: At #OSSummit and interested in a robust foundation for Big
+      data. Come to my talk about @ApacheBeam, A Solution for Portable an..."
+    url: https://twitter.com/Talend/status/1035575483474341888
+    time_stamp: "2018-08-31 10:10:09"
+  - title: 'What tools should you be looking at in #datascience? @isanuage shares
+      her thoughts with @TechTarget - https://t.co/rQvtQA0xe5'
+    url: https://twitter.com/Talend/status/1035566635128684544
+    time_stamp: "2018-08-31 09:35:00"
+  - title: "[Webinar] Learn How to Modernize PL/SQL Code with Automated Conversion
+      to Talend. Watch now -... https://t.co/Gy0TWU07PI"
+    url: https://twitter.com/Talend/status/1035528407965229056
+    time_stamp: "2018-08-31 07:03:06"
   - title: 'Importance of Interactive Maps in #BigData Space - https://t.co/9N3Kotpoki'
     url: https://twitter.com/Talend/status/1035355244493004801
     time_stamp: "2018-08-30 19:35:00"
@@ -2541,30 +2565,6 @@ competition:
       https://t.co/GiYgnV5egh'
     url: https://twitter.com/Talend/status/1034615381934178305
     time_stamp: "2018-08-28 18:35:03"
-  - title: "RT @TDWI: The #Cloud #DataIntegration Primer - New Checklist Report! Learn
-      how to move some of #DataOps to the cloud, overcome risks, cost,..."
-    url: https://twitter.com/Talend/status/1034603809077518336
-    time_stamp: "2018-08-28 17:49:04"
-  - title: 'What is a #DataMart? https://t.co/QsQrR2ttUU#BigData #DataWarehouse #DataAnalytics
-      https://t.co/oBHHss8pVD'
-    url: https://twitter.com/Talend/status/1034533837160759296
-    time_stamp: "2018-08-28 13:11:02"
-  - title: 'RT @Talend: What tools should you be looking at in #datascience? @isanuage
-      shares her thoughts with @TechTarget: https://t.co/6enmxq1Zmm'
-    url: https://twitter.com/Talend/status/1034529774666801153
-    time_stamp: "2018-08-28 12:54:53"
-  - title: "RT @Ronald_vanLoon: How to Start Incorporating #BigData and #MachineLearning
-      Solutions into Business Models by @Ronald_vanLoon @cdynes |..."
-    url: https://twitter.com/Talend/status/1034529712129753088
-    time_stamp: "2018-08-28 12:54:38"
-  - title: 'What tools should you be looking at in #datascience? @isanuage shares
-      her thoughts with @TechTarget: https://t.co/6enmxq1Zmm'
-    url: https://twitter.com/Talend/status/1034529481430458368
-    time_stamp: "2018-08-28 12:53:43"
-  - title: "We take a high-level look at six great languages for doing #datascience,
-      and how #bigdata professionals of all leve... https://t.co/ct0mGgefpB"
-    url: https://twitter.com/Talend/status/1034519487050076160
-    time_stamp: "2018-08-28 12:14:00"
   latest_github_activity:
   - title: build-travis-ci pushed to Talend/ui
     url: ""
