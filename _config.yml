@@ -1483,6 +1483,10 @@ competition:
     url: http://blog.getpostman.com/2018/04/11/looping-through-a-data-file-in-the-postman-collection-runner/
     time_stamp: "2018-04-10 13:42:03"
   latest_tweets:
+  - title: 'Find out how to set and view SSL certificates with Postman: https://t.co/aDvNP4PUCg
+      https://t.co/QusmKukj8p'
+    url: https://twitter.com/postmanclient/status/1035732747371855872
+    time_stamp: "2018-08-31 20:35:04"
   - title: Treat yourself to some sweet Postman swag from our store! https://t.co/jXnHWbQ1UO
       https://t.co/aSP1Kj0YYN
     url: https://twitter.com/postmanclient/status/1035596888140066816
@@ -1574,10 +1578,6 @@ competition:
       now company headaches at the Postman company results in improvement..."
     url: https://twitter.com/postmanclient/status/1032680831532167168
     time_stamp: "2018-08-23 10:27:51"
-  - title: 'RT @PetuniaGray: Talking about Conways Law and workspaces at @postmanclient
-      s summer meetup with @Scottishkilt https://t.co/G8q1JpHaJH'
-    url: https://twitter.com/postmanclient/status/1032680721934995456
-    time_stamp: "2018-08-23 10:27:25"
   latest_github_activity:
   - title: postmanlabs/newman being watched by EXPurity
     url: ""
