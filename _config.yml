@@ -559,6 +559,10 @@ competition:
     url: https://www.axway.com/en/event/gartner-aadi-sydney-2018
     time_stamp: "2018-07-11 05:49:00"
   latest_tweets:
+  - title: 'Axway scores in Gartner Critical Capabilities for #API Management. Read
+      the FREE report: https://t.co/tE3LsUXcJY https://t.co/KFayGjYTZv'
+    url: https://twitter.com/Axway/status/1035580742913482753
+    time_stamp: "2018-08-31 10:31:03"
   - title: "7 Strategic Guidelines for Selecting a modern Enterprise File Sharing
       + Content Collaboration Solution (CCP). Read... https://t.co/cxb4pOJIhz"
     url: https://twitter.com/Axway/status/1035527725954596864
@@ -653,10 +657,6 @@ competition:
       report should be your go-to resource for findin... https://t.co/MzM9OsHGae"
     url: https://twitter.com/Axway/status/1032308999071227904
     time_stamp: "2018-08-22 09:50:19"
-  - title: "RT @Colombeia1: @Axway y @Colombeia1 presentes en el Congreso Internacional
-      de TIC m\xE1s importante en su versi\xF3n #33 #ANDICOM2O18 @Ministeri..."
-    url: https://twitter.com/Axway/status/1032285786450751488
-    time_stamp: "2018-08-22 08:18:05"
   latest_github_activity:
   - title: radokostadinov pushed to Axway/ats-framework
     url: ""
