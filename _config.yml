@@ -562,6 +562,9 @@ competition:
     url: https://www.axway.com/en/event/gartner-aadi-sydney-2018
     time_stamp: "2018-07-11 05:49:00"
   latest_tweets:
+  - title: Our website is reborn. Experience the new https://t.co/X5WvFDdA3V. https://t.co/mgX7Re3ei3
+    url: https://twitter.com/Axway/status/1036600416899936256
+    time_stamp: "2018-09-03 06:02:53"
   - title: 'Axway scores in Gartner Critical Capabilities for #API Management. Read
       the FREE report: https://t.co/tE3LsUXcJY https://t.co/KFayGjYTZv'
     url: https://twitter.com/Axway/status/1035580742913482753
@@ -656,10 +659,6 @@ competition:
       da @Axway#software #inovacao #conectividade https://t.co/gSgrtIX..."
     url: https://twitter.com/Axway/status/1032350980430430208
     time_stamp: "2018-08-22 12:37:08"
-  - title: "If you're responsible for #API strategy, this Critical Capabilities
-      report should be your go-to resource for findin... https://t.co/MzM9OsHGae"
-    url: https://twitter.com/Axway/status/1032308999071227904
-    time_stamp: "2018-08-22 09:50:19"
   latest_github_activity:
   - title: radokostadinov pushed to Axway/ats-framework
     url: ""
