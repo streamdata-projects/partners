@@ -2466,6 +2466,26 @@ competition:
     url: http://feedproxy.google.com/""/ITkp7ombzWQ/sensors-environment-and-internet-of-things-iot
     time_stamp: "2016-12-08 11:59:54"
   latest_tweets:
+  - title: 'Azure SQL Warehouse Gets New Data Link - https://t.co/nDZewmTk9M#DataWarehouse
+      #BigData #Cloud https://t.co/u8yNEYImhS'
+    url: https://twitter.com/Talend/status/1036406176509054976
+    time_stamp: "2018-09-02 17:11:02"
+  - title: "Learn How to Combine #Geodata from Different Sources with Domain-specific
+      Applications. Watch the #webinar here:... https://t.co/C6eaALZfNw"
+    url: https://twitter.com/Talend/status/1036365910355914757
+    time_stamp: "2018-09-02 14:31:02"
+  - title: "[Blog] Building Ingestion Pipelines for #IoT Data with Talend Data Streams
+      - https://t.co/yuBG1iMsOg... https://t.co/RNYEUckqVb"
+    url: https://twitter.com/Talend/status/1036331432417939459
+    time_stamp: "2018-09-02 12:14:02"
+  - title: "Learn how to stop bad data before it enters your system and how to create
+      systems and workflow to manage clean data... https://t.co/88LLuI5g8i"
+    url: https://twitter.com/Talend/status/1036291421320503298
+    time_stamp: "2018-09-02 09:35:02"
+  - title: 'RT @markmcardle: The Big Data Debate: Batch Versus Stream Processing https://t.co/m7IePtuSbS
+      @markbalk @Talend'
+    url: https://twitter.com/Talend/status/1036277742692651008
+    time_stamp: "2018-09-02 08:40:41"
   - title: "Talend has been named a @Gartner_inc Leader in the 2018 Magic Quadrant
       for #DataIntegration Tools for the 3rd strai... https://t.co/MenAOpQxmL"
     url: https://twitter.com/Talend/status/1035983391454375937
@@ -2545,26 +2565,6 @@ competition:
       uploader for #AzureSQLDW from Talend. Read from @EnterpriseTek: http..."
     url: https://twitter.com/Talend/status/1034971045164269568
     time_stamp: "2018-08-29 18:08:20"
-  - title: '6 Benefits of Master Data Management  - https://t.co/EpCdssZtja    #MDM
-      #Cloud #DataGovernance https://t.co/6ijxKLisbq'
-    url: https://twitter.com/Talend/status/1034969710901841920
-    time_stamp: "2018-08-29 18:03:02"
-  - title: "RT @4QsZale: Great night at Arq Group last night for Beer &amp; Big Data
-      with Infoready, Talend and AWS. Learnt how to build a data lake rapidl..."
-    url: https://twitter.com/Talend/status/1034967793379106816
-    time_stamp: "2018-08-29 17:55:25"
-  - title: "RT @JackVaughanatTT: Talend tool targets Azure data integration for analytics
-      use https://t.co/bsaSMu5qmP via @searchsqlserver Be aware of..."
-    url: https://twitter.com/Talend/status/1034967786328481792
-    time_stamp: "2018-08-29 17:55:23"
-  - title: "RT @MarkBalk: Good crowd and great questions after the session. Thanks
-      #OSSummit  for having me and @talend at your Summit. https://t.co/O5..."
-    url: https://twitter.com/Talend/status/1034945047760785409
-    time_stamp: "2018-08-29 16:25:02"
-  - title: '#Bigdata technologies and advanced #analytics, including #AI, are promising
-      a way to get ahead of #cyberthreat - https://t.co/S2VrrS5AxL'
-    url: https://twitter.com/Talend/status/1034935479676928001
-    time_stamp: "2018-08-29 15:47:01"
   latest_github_activity:
   - title: build-travis-ci pushed to Talend/ui
     url: ""
