@@ -492,6 +492,9 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21-axway.jpg
   image_width: "150"
   latest_blog:
+  - title: Contact Sales
+    url: https://www.axway.com/en/contact-sales
+    time_stamp: "2018-08-31 04:51:04"
   - title: Syncplicity by Axway  Product Advisory Council
     url: https://www.axway.com/en/axway_user_groups/syncplicity-axway-product-advisory-council
     time_stamp: "2018-08-24 05:44:50"
