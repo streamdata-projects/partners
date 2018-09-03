@@ -1485,6 +1485,14 @@ competition:
     url: http://blog.getpostman.com/2018/04/11/looping-through-a-data-file-in-the-postman-collection-runner/
     time_stamp: "2018-04-10 13:42:03"
   latest_tweets:
+  - title: 'Postmans API Monitoring is available in fun size block. Learn more: https://t.co/q0OKv5Uf65
+      https://t.co/VAbS3CfyMx'
+    url: https://twitter.com/postmanclient/status/1036677766014545925
+    time_stamp: "2018-09-03 11:10:14"
+  - title: 'How to make money by chaining requests in Postman: https://t.co/Paa2WPHbYe
+      https://t.co/DTiuwF8W5O'
+    url: https://twitter.com/postmanclient/status/1036636236079943680
+    time_stamp: "2018-09-03 08:25:13"
   - title: 'Find out how to set and view SSL certificates with Postman: https://t.co/aDvNP4PUCg
       https://t.co/QusmKukj8p'
     url: https://twitter.com/postmanclient/status/1035732747371855872
@@ -1572,14 +1580,6 @@ competition:
       FAQ: https://t.co/anOHons7uZ https://t.co/1XKtFpGXJ9'
     url: https://twitter.com/postmanclient/status/1032827361375518720
     time_stamp: "2018-08-23 20:10:06"
-  - title: 'Read about how Postman Teams for free users work in our Free Teams FAQ:
-      https://t.co/NcPF5xEnOh'
-    url: https://twitter.com/postmanclient/status/1032694004075376640
-    time_stamp: "2018-08-23 11:20:11"
-  - title: "RT @PetuniaGray: Created @postmanclient to deal with API headaches, and
-      now company headaches at the Postman company results in improvement..."
-    url: https://twitter.com/postmanclient/status/1032680831532167168
-    time_stamp: "2018-08-23 10:27:51"
   latest_github_activity:
   - title: postmanlabs/newman being watched by EXPurity
     url: ""
