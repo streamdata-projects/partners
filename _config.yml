@@ -332,6 +332,9 @@ competition:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1916-apimetrics.jpg
   image_width: "150"
   latest_blog:
+  - title: Monthly Fintech API Performance Dashboard
+    url: https://apimetrics.io/2018/08/29/fintech-api-performance-dashboard/
+    time_stamp: "2018-08-29 09:14:18"
   - title: "API Compliance Monitoring ' Can you afford not to?"
     url: https://apimetrics.io/2018/08/09/api-compliance-monitoring-can-you-afford-not-to/
     time_stamp: "2018-08-09 12:03:52"
