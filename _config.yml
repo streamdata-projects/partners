@@ -565,6 +565,10 @@ competition:
     url: https://www.axway.com/en/event/gartner-aadi-sydney-2018
     time_stamp: "2018-07-11 05:49:00"
   latest_tweets:
+  - title: "#Healthcare is a complex industry with multiple stakeholders, but one
+      \ common denominator is the need to securely a... https://t.co/ZFPbv8vrO1"
+    url: https://twitter.com/Axway/status/1036983335392825344
+    time_stamp: "2018-09-04 07:24:28"
   - title: Our website is reborn. Experience the new https://t.co/X5WvFDdA3V. https://t.co/mgX7Re3ei3
     url: https://twitter.com/Axway/status/1036600416899936256
     time_stamp: "2018-09-03 06:02:53"
@@ -658,10 +662,6 @@ competition:
       areas of your IT to modernize for 2018:... https://t.co/fa8Y3hJIkc"
     url: https://twitter.com/Axway/status/1032351143337156608
     time_stamp: "2018-08-22 12:37:47"
-  - title: "RT @ABES_SOFTWARE: Cetelem agiliza processos internos com #API Management
-      da @Axway#software #inovacao #conectividade https://t.co/gSgrtIX..."
-    url: https://twitter.com/Axway/status/1032350980430430208
-    time_stamp: "2018-08-22 12:37:08"
   latest_github_activity:
   - title: radokostadinov pushed to Axway/ats-framework
     url: ""
