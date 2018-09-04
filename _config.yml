@@ -2468,6 +2468,25 @@ competition:
     url: http://feedproxy.google.com/""/ITkp7ombzWQ/sensors-environment-and-internet-of-things-iot
     time_stamp: "2016-12-08 11:59:54"
   latest_tweets:
+  - title: "Talend released software that does bulk data uploads to @Azure SQL #DataWarehouse.
+      The goal is to streamline... https://t.co/TD4A9Y9aq1"
+    url: https://twitter.com/Talend/status/1036783669854253056
+    time_stamp: "2018-09-03 18:11:04"
+  - title: 'How @Dominos Pizza is Mastering #Data, One Pizza at a Time - https://t.co/E4MggV0XZE#BigData
+      #DataIntegration https://t.co/aGNZXpN00Y'
+    url: https://twitter.com/Talend/status/1036716217418084352
+    time_stamp: "2018-09-03 13:43:02"
+  - title: 6 Key Steps in a Data Migration Strategy - https://t.co/5E8FWfvbzp https://t.co/lUg1NCuXZA
+    url: https://twitter.com/Talend/status/1036693829775228929
+    time_stamp: "2018-09-03 12:14:04"
+  - title: "Find out how to create a #datalake that doesn't become a data swamp!
+      Watch now: https://t.co/2YSpxsnUnK... https://t.co/BumH56Aqhs"
+    url: https://twitter.com/Talend/status/1036653810066907136
+    time_stamp: "2018-09-03 09:35:03"
+  - title: '#Cloud adoption has become table stakes for companies looking to compete
+      - https://t.co/ORo1czBg1P'
+    url: https://twitter.com/Talend/status/1036615553941741573
+    time_stamp: "2018-09-03 07:03:02"
   - title: 'Azure SQL Warehouse Gets New Data Link - https://t.co/nDZewmTk9M#DataWarehouse
       #BigData #Cloud https://t.co/u8yNEYImhS'
     url: https://twitter.com/Talend/status/1036406176509054976
@@ -2547,26 +2566,6 @@ competition:
       Your Platform and Strengthen Your Processes.https://t.co/O1pbYGCk..."
     url: https://twitter.com/Talend/status/1035292278896582656
     time_stamp: "2018-08-30 15:24:48"
-  - title: '#MapReduce 101: What It Is &amp; How to Get Started - https://t.co/OUM9mZndms
-      https://t.co/qLXifCQSBG'
-    url: https://twitter.com/Talend/status/1035259370572066816
-    time_stamp: "2018-08-30 13:14:02"
-  - title: "Learn how to spot bad data and debunks the 6 most common #dataquality
-      myths! Download the ebook:... https://t.co/EIcQ7HAPc3"
-    url: https://twitter.com/Talend/status/1035219355129315329
-    time_stamp: "2018-08-30 10:35:02"
-  - title: "[Blog] #TalendConnect Europe 2018: What to Expect at This Years Show -
-      https://t.co/8lZqTPE8KY  #Cloud... https://t.co/6AaHrCPe73"
-    url: https://twitter.com/Talend/status/1035177086204436480
-    time_stamp: "2018-08-30 07:47:04"
-  - title: "New episode of #ThinkFastTalkTech is out! We discuss #DataLake, #PrecisionFarming,
-      #PanamaPapers and more with... https://t.co/vwxsLWHw8H"
-    url: https://twitter.com/Talend/status/1035134034349907968
-    time_stamp: "2018-08-30 04:56:00"
-  - title: "RT @Azure: Enable faster analytics on more data with the new bulk data
-      uploader for #AzureSQLDW from Talend. Read from @EnterpriseTek: http..."
-    url: https://twitter.com/Talend/status/1034971045164269568
-    time_stamp: "2018-08-29 18:08:20"
   latest_github_activity:
   - title: build-travis-ci pushed to Talend/ui
     url: ""
