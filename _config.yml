@@ -2130,6 +2130,14 @@ competition:
     url: https://blog.stoplight.io/stoplight-windows-and-linux-97fe9bdbb5e7?source=rss----9be7d78deaf4---4
     time_stamp: "2016-07-25 10:28:55"
   latest_tweets:
+  - title: "RT @grmpyprogrammer: OpenAPI is a way for folks to document their API's
+      to make them easier to use. One of the projects I test at @mozilla..."
+    url: https://twitter.com/stoplightio/status/1036985502803656704
+    time_stamp: "2018-09-04 07:33:04"
+  - title: ".@HeyChelseaTroy on GraphQL: When we understand where technology comes
+      from, we can more effectively engage with i... https://t.co/BJkxmxHbu5"
+    url: https://twitter.com/stoplightio/status/1036969743817891840
+    time_stamp: "2018-09-04 06:30:27"
   - title: "One of the hardest parts of API leadership is that you can craft the best
       possible guidance for API design, deploy... https://t.co/xpQpErVboG"
     url: https://twitter.com/stoplightio/status/1035568396795105281
@@ -2222,14 +2230,6 @@ competition:
       for the Speakers Dinner at the Seattle API City Conference! Th..."
     url: https://twitter.com/stoplightio/status/1029458886741450753
     time_stamp: "2018-08-14 13:04:59"
-  - title: "The latest from the Stoplight blog: The Changing Landscape of Developer
-      Content by @lifewingmate... https://t.co/2yYfXIWdM7"
-    url: https://twitter.com/stoplightio/status/1029426940577546241
-    time_stamp: "2018-08-14 10:58:03"
-  - title: "RT @taylor_atx: made a github bot that lints your #OpenAPISpec file (with
-      speccy) when you open/edit PRs. its kind of ugly, not fully auto..."
-    url: https://twitter.com/stoplightio/status/1029057679837278208
-    time_stamp: "2018-08-13 10:30:44"
   latest_github_activity:
   - title: lottamus pushed to stoplightio/js-coding-challenge
     url: ""
