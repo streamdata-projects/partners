@@ -1488,6 +1488,16 @@ competition:
     url: http://blog.getpostman.com/2018/04/11/looping-through-a-data-file-in-the-postman-collection-runner/
     time_stamp: "2018-04-10 13:42:03"
   latest_tweets:
+  - title: 'Integrations: how Postman plays with some of your favorite tools https://t.co/eTgCNDBQGb'
+    url: https://twitter.com/postmanclient/status/1037406295421116417
+    time_stamp: "2018-09-05 11:25:09"
+  - title: 'How Should Teams Be Documenting Their APIs? By @kinlane in @DZone:  https://t.co/4iX4d3pY1a'
+    url: https://twitter.com/postmanclient/status/1037358532130234371
+    time_stamp: "2018-09-05 08:15:21"
+  - title: "Postman Teams are available for free users - check out our Free Teams
+      FAQ and start collaborating with your team in... https://t.co/YuGvJAjDO4"
+    url: https://twitter.com/postmanclient/status/1037178530931638277
+    time_stamp: "2018-09-04 20:20:06"
   - title: 'RT @DannyDainton: Ive just wrote a short post about using Lodash within
       @postmanclient - https://t.co/puuAIi9sjo #api #testing'
     url: https://twitter.com/postmanclient/status/1037083313448529920
@@ -1572,17 +1582,6 @@ competition:
   - title: 'Read about how @spotinst uses Postman for everyday development: https://t.co/AsBSBCMtcl'
     url: https://twitter.com/postmanclient/status/1034102848504688643
     time_stamp: "2018-08-27 08:38:26"
-  - title: "Become a Postman Expert! Attend a full day Workshop on Postman features
-      and best practices on 29th Sept'18 in Banga... https://t.co/jNqHf7O398"
-    url: https://twitter.com/postmanclient/status/1033997736079773696
-    time_stamp: "2018-08-27 01:40:45"
-  - title: "Read about @ankit_muchhala - he started out as an intern at Postman and
-      now works on everything from UI to backend... https://t.co/wrzDG4cBsZ"
-    url: https://twitter.com/postmanclient/status/1033194809203286016
-    time_stamp: "2018-08-24 20:30:13"
-  - title: 'Find out whats new in Newman Version 4: https://t.co/Tsn0tBG8UJ https://t.co/OJfOsgQf1p'
-    url: https://twitter.com/postmanclient/status/1033062716859142144
-    time_stamp: "2018-08-24 11:45:19"
   latest_github_activity:
   - title: postmanlabs/newman being watched by EXPurity
     url: ""
