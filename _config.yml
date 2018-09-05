@@ -2130,6 +2130,10 @@ competition:
     url: https://blog.stoplight.io/stoplight-windows-and-linux-97fe9bdbb5e7?source=rss----9be7d78deaf4---4
     time_stamp: "2016-07-25 10:28:55"
   latest_tweets:
+  - title: "We \U0001F496 hearing about different teams API workflows and how they
+      are built on top of specifications. Heres a great ex... https://t.co/pEO8brxMpl"
+    url: https://twitter.com/stoplightio/status/1037399476237991938
+    time_stamp: "2018-09-05 10:58:03"
   - title: "RT @grmpyprogrammer: OpenAPI is a way for folks to document their API's
       to make them easier to use. One of the projects I test at @mozilla..."
     url: https://twitter.com/stoplightio/status/1036985502803656704
@@ -2226,10 +2230,6 @@ competition:
       https://t.co/RwTAlvce0J'
     url: https://twitter.com/stoplightio/status/1031621177989648384
     time_stamp: "2018-08-20 12:17:10"
-  - title: "RT @APICityConf: Wed like to announce our new sponsor. They will be paying
-      for the Speakers Dinner at the Seattle API City Conference! Th..."
-    url: https://twitter.com/stoplightio/status/1029458886741450753
-    time_stamp: "2018-08-14 13:04:59"
   latest_github_activity:
   - title: lottamus pushed to stoplightio/js-coding-challenge
     url: ""
