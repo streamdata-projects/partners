@@ -2135,6 +2135,10 @@ partners:
     url: https://blog.stoplight.io/stoplight-windows-and-linux-97fe9bdbb5e7?source=rss----9be7d78deaf4---4
     time_stamp: "2016-07-25 10:28:55"
   latest_tweets:
+  - title: 'ICYMI: Writing Documentation When You Arent A Technical Writer - Part
+      Two by @taylor_atx https://t.co/h5HSRB2yhN https://t.co/CEX8u5UjFX'
+    url: https://twitter.com/stoplightio/status/1037742741713645568
+    time_stamp: "2018-09-06 09:42:04"
   - title: "We \U0001F496 hearing about different teams API workflows and how they
       are built on top of specifications. Heres a great ex... https://t.co/pEO8brxMpl"
     url: https://twitter.com/stoplightio/status/1037399476237991938
@@ -2231,10 +2235,6 @@ partners:
       \ https://t.co/wE8Z4zBS5y\U0001F6A8Spoiler al... https://t.co/W2jn6PEQSm"
     url: https://twitter.com/stoplightio/status/1031896272276533248
     time_stamp: "2018-08-21 06:30:17"
-  - title: 'A great introduction to API security with the #OpenAPISpec from @LukasRosenstock
-      https://t.co/RwTAlvce0J'
-    url: https://twitter.com/stoplightio/status/1031621177989648384
-    time_stamp: "2018-08-20 12:17:10"
   latest_github_activity:
   - title: lottamus pushed to stoplightio/js-coding-challenge
     url: ""
