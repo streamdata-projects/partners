@@ -64,7 +64,7 @@ layout: default
          {% if number_of_partners_blog > 0 %}
          <div style="padding-top: 7px; padding-bottom: 7px;">
            <p><strong>The Latest From Blog:</strong></p>
-           <div style="height: 200px; overflow: scroll;">
+           <div style="height: 350px; overflow: scroll;">
              <ul style="list-style-type: circle; padding-top: 15px;">
                {% for blog in partner.latest_blog %}
                   <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ blog.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ blog.title }}</a></li>
@@ -78,7 +78,7 @@ layout: default
          {% if number_of_partners_twitter > 0 %}
          <div style="padding-top: 7px; padding-bottom: 7px;">
            <p><strong>The Latest Twitter:</strong></p>
-           <div style="height: 200px; overflow: scroll;">
+           <div style="height: 350px; overflow: scroll;">
              <ul style="list-style-type: circle; padding-top: 15px;">
                {% for twitter in partner.latest_tweets %}
                   <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ twitter.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ twitter.title }}</a></li>
