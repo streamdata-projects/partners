@@ -1491,6 +1491,17 @@ partners:
     url: http://blog.getpostman.com/2018/04/11/looping-through-a-data-file-in-the-postman-collection-runner/
     time_stamp: "2018-04-10 13:42:03"
   latest_tweets:
+  - title: "RT @APIWorld: Dont miss the world's largest API + Integration Tradeshow
+      with 3,000 developers, executives, and entrepreneurs in attendance..."
+    url: https://twitter.com/postmanclient/status/1037776753681285120
+    time_stamp: "2018-09-06 11:57:13"
+  - title: 'Migrating from manual to automated testing: The roadblocks and the journey
+      by our Developer Advocate, @kaustavdm: https://t.co/jeonVdyMII'
+    url: https://twitter.com/postmanclient/status/1037722147895091200
+    time_stamp: "2018-09-06 08:20:14"
+  - title: 'Using Postman to run the dishwasher: https://t.co/A3zp2pAo98 https://t.co/6nXhmJVurI'
+    url: https://twitter.com/postmanclient/status/1037538405477957638
+    time_stamp: "2018-09-05 20:10:07"
   - title: 'Integrations: how Postman plays with some of your favorite tools https://t.co/eTgCNDBQGb'
     url: https://twitter.com/postmanclient/status/1037406295421116417
     time_stamp: "2018-09-05 11:25:09"
@@ -1575,16 +1586,6 @@ partners:
       exclusive interview with DHN about its journey &amp; how Postman helps #dev..."
     url: https://twitter.com/postmanclient/status/1034478686240559104
     time_stamp: "2018-08-28 09:31:53"
-  - title: 'Review #PostCon2018 workshop material in this YouTube playlist: https://t.co/WdayxqHQiJ'
-    url: https://twitter.com/postmanclient/status/1034280677137674240
-    time_stamp: "2018-08-27 20:25:04"
-  - title: "Looping through a #data file is simple with the Postman Collection Runner
-      - learn how in this tutorial:... https://t.co/adNKayi8I7"
-    url: https://twitter.com/postmanclient/status/1034146064188760064
-    time_stamp: "2018-08-27 11:30:09"
-  - title: 'Read about how @spotinst uses Postman for everyday development: https://t.co/AsBSBCMtcl'
-    url: https://twitter.com/postmanclient/status/1034102848504688643
-    time_stamp: "2018-08-27 08:38:26"
   latest_github_activity:
   - title: postmanlabs/newman being watched by EXPurity
     url: ""
