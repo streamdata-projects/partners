@@ -1875,6 +1875,26 @@ partners:
     url: http://feedproxy.google.com/""r/SforceBlog/""3/OFq5s2Hmrn4/integrate-external-content-into-communities-using-cms-connect-json.html
     time_stamp: "2018-06-13 10:33:06"
   latest_tweets:
+  - title: "RT @SkipSauls: Are you a developer looking to leverage @SForceAnalytics?
+      Check out the #Dreamforce session Intro to the Einstein Analytics..."
+    url: https://twitter.com/SalesforceDevs/status/1037913802497449984
+    time_stamp: "2018-09-06 21:01:48"
+  - title: "RT @SkipSauls: Want to see the cool @SForceAnalytics plugin for #salesforcedx?
+      Checkout the #Dreamforce session Salesforce DX and Einstein..."
+    url: https://twitter.com/SalesforceDevs/status/1037913776563974144
+    time_stamp: "2018-09-06 21:01:42"
+  - title: "Happening now: Were talking with @salomaa @rschellack and @_MichaelSalem
+      on how to best use Big Objects and Async... https://t.co/CcD2MCSMjl"
+    url: https://twitter.com/SalesforceDevs/status/1037747287726931968
+    time_stamp: "2018-09-06 10:00:08"
+  - title: "Empower everyone to build apps AND keep your app delivery \U0001F4AA !
+      Learn best practices for architectures &amp; governance f... https://t.co/rNXcVqkieg"
+    url: https://twitter.com/SalesforceDevs/status/1037732173435076608
+    time_stamp: "2018-09-06 09:00:04"
+  - title: "In 2 hours, well be going live with @salomaa @rschellack @_MichaelSalem
+      and @darabella to talk about creating Big... https://t.co/yrblhZqeBH"
+    url: https://twitter.com/SalesforceDevs/status/1037717084074070019
+    time_stamp: "2018-09-06 08:00:07"
   - title: "RT @andyinthecloud: @WadeWegner and I are working on a mega demo session
       for #DF18... any ideas on what kind of app you would like to see us..."
     url: https://twitter.com/SalesforceDevs/status/1037537633830764545
@@ -1954,26 +1974,6 @@ partners:
       with Salesforce MVPs: Cant wait to get all that real life know..."
     url: https://twitter.com/SalesforceDevs/status/1034231396691136515
     time_stamp: "2018-08-27 17:09:14"
-  - title: "\U0001F4E3 Have you seen our brand-new Developer Centers yet? Tutorials,
-      blog posts, documentation, and more - all in one pl... https://t.co/LeQ32kBZRf"
-    url: https://twitter.com/SalesforceDevs/status/1034153607988486146
-    time_stamp: "2018-08-27 12:00:08"
-  - title: "Lightning service components are specialized, generic, and reusable components.
-      Learn how to use them in base compo... https://t.co/vhmvc1ZLGI"
-    url: https://twitter.com/SalesforceDevs/status/1034123397628944384
-    time_stamp: "2018-08-27 10:00:05"
-  - title: "Were LIVE\U0001F399with Salesforce MVP @julipool to talk about Lightning
-      Platform for new developers. Join us for our webin... https://t.co/1c9EVrdhE2"
-    url: https://twitter.com/SalesforceDevs/status/1033036228281675776
-    time_stamp: "2018-08-24 10:00:04"
-  - title: "Save the date and time! \U0001F5D3 \U0001F550 The #DF18 Developer Keynote
-      is set for Thursday, September 27th at 11AM. Check it out a... https://t.co/8a4y9eZ9sv"
-    url: https://twitter.com/SalesforceDevs/status/1033021191089516545
-    time_stamp: "2018-08-24 09:00:19"
-  - title: "In 2 hours, Salesforce MVP @julipool will be hosting our Lightning Platform
-      Orientation for new developers. Theres... https://t.co/ESDGYLfZlw"
-    url: https://twitter.com/SalesforceDevs/status/1033006040076492801
-    time_stamp: "2018-08-24 08:00:06"
   latest_github_activity:
   - title: studanshu pushed to salesforce/Argus
     url: ""
@@ -2478,6 +2478,46 @@ partners:
     url: http://feedproxy.google.com/""/ITkp7ombzWQ/sensors-environment-and-internet-of-things-iot
     time_stamp: "2016-12-08 11:59:54"
   latest_tweets:
+  - title: "RT @TalendCommunity: September @TalendCommunity User Groups\u2757\uFE0F\U0001F483
+      \U0001F57A Toronto- https://t.co/BLSclq8VQgSoCal- https://t.co/FkqjgP49tJBoston-..."
+    url: https://twitter.com/Talend/status/1037922854086488064
+    time_stamp: "2018-09-06 21:37:46"
+  - title: 'Why #businessschools need to think about offering #education in #BigData
+      - https://t.co/3K9iwCyqjc'
+    url: https://twitter.com/Talend/status/1037868812576677888
+    time_stamp: "2018-09-06 18:03:02"
+  - title: '[Blog] #DataMapping Essentials in the #GDPR Era - https://t.co/9idQZSxmkf
+      https://t.co/P0w2P0cE4o'
+    url: https://twitter.com/Talend/status/1037808432965931008
+    time_stamp: "2018-09-06 14:03:06"
+  - title: "RT @jmichel_franco: Ill be at #StrataData NY in September, presenting
+      the results of a Data Privacy benchmark on the Data Subject Access R..."
+    url: https://twitter.com/Talend/status/1037806892460912640
+    time_stamp: "2018-09-06 13:56:59"
+  - title: 'RT @SteveSSingh: Great add to @Talend team.  Look forward to working with
+      you @adamnmeister https://t.co/vseacJ9hIo'
+    url: https://twitter.com/Talend/status/1037806335117553664
+    time_stamp: "2018-09-06 13:54:46"
+  - title: "Learn how to reduce development time and innovate on #AWS. Watch our #webinar
+      to learn how to build a #datalake on... https://t.co/lr15VSNF7u"
+    url: https://twitter.com/Talend/status/1037771185461907456
+    time_stamp: "2018-09-06 11:35:06"
+  - title: "RT @jmichel_franco: Air-France KLM, Auchan Retail, BMW, BPCE, Euronext,
+      Orange, Petit Bateau, 3W Regie and more to come: see data-driven co..."
+    url: https://twitter.com/Talend/status/1037720545800806400
+    time_stamp: "2018-09-06 08:13:52"
+  - title: "Put your data to work. Join Talend in booth #1321 at #StrataData NY to
+      go through live #machinelearning demos and s... https://t.co/iDyjNrEKXN"
+    url: https://twitter.com/Talend/status/1037717830119157760
+    time_stamp: "2018-09-06 08:03:05"
+  - title: "RT @MTuchen: Thrilled to welcome @adamnmeister to @Talend ( $TLND ) as
+      #CFO. Adam was most recently at Goldman Sachs and will be key helpin..."
+    url: https://twitter.com/Talend/status/1037709782776311808
+    time_stamp: "2018-09-06 07:31:06"
+  - title: "Were thrilled to welcome @adamnmeister to @Talend ( $TLND ) as #CFO. Adam
+      was most recently at Goldman Sachs as Ma... https://t.co/4M99gbnY3R"
+    url: https://twitter.com/Talend/status/1037676393344237570
+    time_stamp: "2018-09-06 05:18:25"
   - title: 'Does Your #CMO Have The Necessary Tools To Perfect The Customer Experience?
       https://t.co/fK1390s374#CRM #AI https://t.co/gTWiZrFRlN'
     url: https://twitter.com/Talend/status/1037536631962693634
@@ -2537,46 +2577,6 @@ partners:
       - https://t.co/ORo1czBg1P'
     url: https://twitter.com/Talend/status/1036615553941741573
     time_stamp: "2018-09-03 07:03:02"
-  - title: 'Azure SQL Warehouse Gets New Data Link - https://t.co/nDZewmTk9M#DataWarehouse
-      #BigData #Cloud https://t.co/u8yNEYImhS'
-    url: https://twitter.com/Talend/status/1036406176509054976
-    time_stamp: "2018-09-02 17:11:02"
-  - title: "Learn How to Combine #Geodata from Different Sources with Domain-specific
-      Applications. Watch the #webinar here:... https://t.co/C6eaALZfNw"
-    url: https://twitter.com/Talend/status/1036365910355914757
-    time_stamp: "2018-09-02 14:31:02"
-  - title: "[Blog] Building Ingestion Pipelines for #IoT Data with Talend Data Streams
-      - https://t.co/yuBG1iMsOg... https://t.co/RNYEUckqVb"
-    url: https://twitter.com/Talend/status/1036331432417939459
-    time_stamp: "2018-09-02 12:14:02"
-  - title: "Learn how to stop bad data before it enters your system and how to create
-      systems and workflow to manage clean data... https://t.co/88LLuI5g8i"
-    url: https://twitter.com/Talend/status/1036291421320503298
-    time_stamp: "2018-09-02 09:35:02"
-  - title: 'RT @markmcardle: The Big Data Debate: Batch Versus Stream Processing https://t.co/m7IePtuSbS
-      @markbalk @Talend'
-    url: https://twitter.com/Talend/status/1036277742692651008
-    time_stamp: "2018-09-02 08:40:41"
-  - title: "Talend has been named a @Gartner_inc Leader in the 2018 Magic Quadrant
-      for #DataIntegration Tools for the 3rd strai... https://t.co/MenAOpQxmL"
-    url: https://twitter.com/Talend/status/1035983391454375937
-    time_stamp: "2018-09-01 13:11:02"
-  - title: "RT @Azure: Enable faster analytics on more data with the new bulk data
-      uploader for #AzureSQLDW from Talend. Read from @EnterpriseTek: http..."
-    url: https://twitter.com/Talend/status/1035941800077344768
-    time_stamp: "2018-09-01 10:25:46"
-  - title: "RT @BernardMarr: Whether you need to make the case for data quality to
-      your c-level or you are responsible for implementing it, the Definit..."
-    url: https://twitter.com/Talend/status/1035941336296370176
-    time_stamp: "2018-09-01 10:23:56"
-  - title: "AstraZeneca reveals the data engine behind their cloudy business transformation
-      ' a Talend use case -... https://t.co/SjE8zLCXzU"
-    url: https://twitter.com/Talend/status/1035939765932228608
-    time_stamp: "2018-09-01 10:17:41"
-  - title: "Why #DataScientists Love Python (And How to Use it with Talend) - https://t.co/VBixh7zJUE#DataScience
-      #BigData... https://t.co/DNsEY5SaBu"
-    url: https://twitter.com/Talend/status/1035929042707537920
-    time_stamp: "2018-09-01 09:35:05"
   latest_github_activity:
   - title: build-travis-ci pushed to Talend/ui
     url: ""
