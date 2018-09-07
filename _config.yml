@@ -1491,6 +1491,22 @@ partners:
     url: http://blog.getpostman.com/2018/04/11/looping-through-a-data-file-in-the-postman-collection-runner/
     time_stamp: "2018-04-10 13:42:03"
   latest_tweets:
+  - title: "RT @KukicAdo: Incoming! Auth0 Online Meetup #6 on September 17 at 12:00PST.
+      Come learn about APIs, @postmanclient, JSON Web Tokens, and Com..."
+    url: https://twitter.com/postmanclient/status/1038142988776435713
+    time_stamp: "2018-09-07 12:12:30"
+  - title: Get awesome Postman stickers, mugs, socks, and more in our swag store!
+      https://t.co/SbAo0AIvOT https://t.co/6eYker9NcT
+    url: https://twitter.com/postmanclient/status/1038131072599564289
+    time_stamp: "2018-09-07 11:25:09"
+  - title: "The practical guide for building REST APIs in @nodejs, @MongoDB, and Postman
+      from @hackernoon. Check it out here:... https://t.co/k089kqSHNw"
+    url: https://twitter.com/postmanclient/status/1038082031031386118
+    time_stamp: "2018-09-07 08:10:17"
+  - title: "We recently released Postman version 6.2 which includes Postman Teams
+      for free users, and session variables to enha... https://t.co/vtETCzvESa"
+    url: https://twitter.com/postmanclient/status/1037905873237168128
+    time_stamp: "2018-09-06 20:30:18"
   - title: "RT @APIWorld: Dont miss the world's largest API + Integration Tradeshow
       with 3,000 developers, executives, and entrepreneurs in attendance..."
     url: https://twitter.com/postmanclient/status/1037776753681285120
@@ -1570,22 +1586,6 @@ partners:
       - https://t.co/w6jZ4UIuPf#postmanworkshop #bengaluru #apiworkshop'
     url: https://twitter.com/postmanclient/status/1034712835895439360
     time_stamp: "2018-08-29 01:02:18"
-  - title: Postman Workspaces - what are they good for? Find out in this blog post!
-      https://t.co/OaYOXwC4Um https://t.co/pQzm7CV1M3
-    url: https://twitter.com/postmanclient/status/1034643064579608576
-    time_stamp: "2018-08-28 20:25:03"
-  - title: "RT @briandesousa1: The measure of a well designed tool is when you can
-      get up and running with the basics quickly and figure out how to do..."
-    url: https://twitter.com/postmanclient/status/1034531890718363648
-    time_stamp: "2018-08-28 13:03:18"
-  - title: "Our CEO and Co-founder, @a85 will share tips on making your API developer-friendly,
-      well-known, and well-used in hi... https://t.co/F36n7ESWW5"
-    url: https://twitter.com/postmanclient/status/1034507196640501760
-    time_stamp: "2018-08-28 11:25:10"
-  - title: "RT @DailyHostNews: Read Abhinav Asthana, Founder &amp; CEO of Postman's
-      exclusive interview with DHN about its journey &amp; how Postman helps #dev..."
-    url: https://twitter.com/postmanclient/status/1034478686240559104
-    time_stamp: "2018-08-28 09:31:53"
   latest_github_activity:
   - title: postmanlabs/newman being watched by EXPurity
     url: ""
