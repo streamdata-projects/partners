@@ -592,6 +592,18 @@ partners:
     url: https://www.axway.com/en/event/aws-summit-atlanta
     time_stamp: "2018-07-27 12:32:00"
   latest_tweets:
+  - title: 'RT @PCMag: Customer data stolen from British Airways website and app:
+      https://t.co/EOUaL8aOcf #cybersecurity https://t.co/7xqtzYdsyO'
+    url: https://twitter.com/Axway/status/1038103047027613696
+    time_stamp: "2018-09-07 09:33:48"
+  - title: "Digital Transformation is one of the biggest business #IT transitions
+      of  current times. In our latest post, we wal... https://t.co/cA24lGTOre"
+    url: https://twitter.com/Axway/status/1037797457315254272
+    time_stamp: "2018-09-06 13:19:29"
+  - title: "Axway's new corporate website &amp; blogs are better than ever. Thanks
+      to a new innovative feel and advanced #UX, youl... https://t.co/XuEeASq6lV"
+    url: https://twitter.com/Axway/status/1037770905198374917
+    time_stamp: "2018-09-06 11:33:59"
   - title: "How is traditional #APIsecurity failing the enterprise? Find out at Axway's
       API Talk ' How to detect &amp; block cyber... https://t.co/CiAlvw3cFG"
     url: https://twitter.com/Axway/status/1037742833610805249
@@ -678,18 +690,6 @@ partners:
       more: https://t.co/55YRVjwOCG https://t.co/hkXhKvgkmR'
     url: https://twitter.com/Axway/status/1034168963289235460
     time_stamp: "2018-08-27 13:01:09"
-  - title: "The #AWSSummit is a free event designed to bring together the #cloud computing
-      community to connect, collaborate, a... https://t.co/sObpWyfXvC"
-    url: https://twitter.com/Axway/status/1034138790997250048
-    time_stamp: "2018-08-27 11:01:15"
-  - title: "The @MercatorAdvisor Group shares how leading global financial institutions
-      are using #developer API Portals for co... https://t.co/urWX6tLeLO"
-    url: https://twitter.com/Axway/status/1033123422107131904
-    time_stamp: "2018-08-24 15:46:32"
-  - title: "Enterprises should only consider CCP solutions that are decoupled from
-      storage choice. Get the guide on selecting a... https://t.co/rFtbu4Vpt9"
-    url: https://twitter.com/Axway/status/1033103048124456960
-    time_stamp: "2018-08-24 14:25:35"
   latest_github_activity:
   - title: radokostadinov pushed to Axway/ats-framework
     url: ""
