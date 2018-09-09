@@ -17,7 +17,7 @@ closing: We are happy to talk about what your company, organization, institution
   partner list, and showcasing the value you deliver to our customers, and event-driven
   architecture ecosystem.
 partners:
-- organization_id: OrIfMeaJ0J72v1168IrrAv7DcEZpJ0FFIZ4VcJBlIuqyg117
+- organization_id: ""
   name: 42Crunch
   description: 42Crunch builds the enterprise grade API Security platform including
     an industry-first API firewall and support for OAuth, OpenID Connect and JWT.
@@ -155,7 +155,7 @@ partners:
   - SDIO Partner
   - SaaS
   - Enterprise
-- organization_id: 4V123YoOLFpV5LlFjcYPTnkrz89tC91fdO51z7y60uipU117
+- organization_id: ""
   name: Amazon Web Services
   description: Amazon Web Services (AWS) is a subsidiary of Amazon.com that provides
     on-demand cloud computing platforms to individuals, companies and governments,
@@ -327,7 +327,7 @@ partners:
   tags:
   - SDIO Partner
   - Cloud
-- organization_id: 123tOGeFE8BpIFLUbel4IIXo34ARfZDplccpk6mpObNxA117
+- organization_id: ""
   name: APImetrics
   description: API performance monitoring, Cloud Service, SLA monitoring and analysis
     that gives you answers, not excuses. Find out how today.
@@ -491,7 +491,7 @@ partners:
   - My API Stack
   - Monitoring
   - API Service Provider
-- organization_id: syXnG0Pv123fl7r123uGnTVtAH123fP6QUr116CQrtTs1165sqO6w117
+- organization_id: ""
   name: Axway
   description: Axway Software is a publicly-held information technology company that
     provides software tools for enterprise software, Enterprise Application Integration,
@@ -592,6 +592,18 @@ partners:
     url: https://www.axway.com/en/event/aws-summit-atlanta
     time_stamp: "2018-07-27 12:32:00"
   latest_tweets:
+  - title: "Learn how to optimize service levels, improve the #CustomerExperience
+      and grow new digital services with Axway Anal... https://t.co/518vvFK8mQ"
+    url: https://twitter.com/Axway/status/1038175483018366976
+    time_stamp: "2018-09-07 14:21:38"
+  - title: 'Why is #API management market growth so prevalent? Find out in our latest
+      blog post: https://t.co/ZgzkMqXujn'
+    url: https://twitter.com/Axway/status/1038132639780110336
+    time_stamp: "2018-09-07 11:31:23"
+  - title: "Want to attend @APIWorld in San Jose but dont have tickets? Axway is offering
+      FREE passes to #APIWorld18 for the f... https://t.co/rSZRPAavas"
+    url: https://twitter.com/Axway/status/1038106917845913602
+    time_stamp: "2018-09-07 09:49:10"
   - title: 'RT @PCMag: Customer data stolen from British Airways website and app:
       https://t.co/EOUaL8aOcf #cybersecurity https://t.co/7xqtzYdsyO'
     url: https://twitter.com/Axway/status/1038103047027613696
@@ -678,18 +690,6 @@ partners:
       with minimal disruption and maximum... https://t.co/2bfAN2qerm"
     url: https://twitter.com/Axway/status/1034501162588889088
     time_stamp: "2018-08-28 11:01:11"
-  - title: "Find out why @syncplicity by Axway is Feeling Super!  Gartner Magic Quadrant
-      for Content Collaboration Platforms!... https://t.co/7Af9bfyNqY"
-    url: https://twitter.com/Axway/status/1034471235097427968
-    time_stamp: "2018-08-28 09:02:16"
-  - title: "RT @APIdaysAU: #APIdaysAU is happy to have @Axway joining the 2018 event.
-      Visit their booth to hear about how their #APImanagement solution..."
-    url: https://twitter.com/Axway/status/1034450146442936320
-    time_stamp: "2018-08-28 07:38:28"
-  - title: '#Shadow IT is a magnet for #cyberattacks and regulatory violations. Learn
-      more: https://t.co/55YRVjwOCG https://t.co/hkXhKvgkmR'
-    url: https://twitter.com/Axway/status/1034168963289235460
-    time_stamp: "2018-08-27 13:01:09"
   latest_github_activity:
   - title: radokostadinov pushed to Axway/ats-framework
     url: ""
@@ -856,7 +856,7 @@ partners:
   - Enterprise
   - Deployments
   - API Service Provider
-- organization_id: i4o38X0juPpof123oPaF4Igexw614C123Hh2dv116LrU4HVIY117
+- organization_id: ""
   name: ChartIQ
   description: ChartIQ is a profitable fintech startup focused on delivering the smartest
     software solutions to institutional banks, brokerages, and financial technology
@@ -1014,7 +1014,7 @@ partners:
   - SDIO Partner
   - Financial
   - Dashboards
-- organization_id: JKmrKv75Z4ANwjyWl2TK6FZ5LLVA7etM4DmVRh38YQc117
+- organization_id: ""
   name: Google Cloud Platform
   description: Google Cloud Platform, offered by Google, is a suite of cloud computing
     services that runs on the same infrastructure that Google uses internally for
@@ -1141,7 +1141,7 @@ partners:
   tags:
   - SDIO Partner
   - Cloud
-- organization_id: KTRn7qlBVBc8XuYKUW51iynWTLSBdekHCpHzkwl9LQ0117
+- organization_id: ""
   name: IBM
   description: IBM is a global technology and innovation company headquartered in
     Armonk, NY. It is the largest technology and consulting employer in the world,
@@ -1268,7 +1268,7 @@ partners:
   - Profiles
   - Enterprise
   - Databases
-- organization_id: vunmTkT630ALGaccH3RsgDpfBL5iGa116ikxQe3YMKGdM117
+- organization_id: ""
   name: Kong
   description: Secure, Manage & Extend your APIs or Microservices with plugins for
     authentication, logging, rate-limiting, transformations and more.
@@ -1395,7 +1395,7 @@ partners:
   - Profiles
   - Management
   - API Service Provider
-- organization_id: cqA56nxcuP1tYqqRuHHCCeGLtvwp5r99eb4DkHNTjFQ117
+- organization_id: ""
   name: Postman
   description: Postman is the only complete API development environment, used by nearly
     five million developers and more than 100,000 companies worldwide. Postman is
@@ -1491,6 +1491,10 @@ partners:
     url: http://blog.getpostman.com/2018/04/11/looping-through-a-data-file-in-the-postman-collection-runner/
     time_stamp: "2018-04-10 13:42:03"
   latest_tweets:
+  - title: 'Read about how Postman brings order to chaos at @BetterCloud: https://t.co/iw5zPcKXuY
+      https://t.co/VsJnxNhTpB'
+    url: https://twitter.com/postmanclient/status/1038264437076094976
+    time_stamp: "2018-09-07 20:15:06"
   - title: "RT @KukicAdo: Incoming! Auth0 Online Meetup #6 on September 17 at 12:00PST.
       Come learn about APIs, @postmanclient, JSON Web Tokens, and Com..."
     url: https://twitter.com/postmanclient/status/1038142988776435713
@@ -1582,10 +1586,6 @@ partners:
       request form and well send you some Postman... https://t.co/2eYpPEWJf3"
     url: https://twitter.com/postmanclient/status/1034824297200664578
     time_stamp: "2018-08-29 08:25:13"
-  - title: 'Last few early bird tickets left for the Postman Workshop in Bengaluru
-      - https://t.co/w6jZ4UIuPf#postmanworkshop #bengaluru #apiworkshop'
-    url: https://twitter.com/postmanclient/status/1034712835895439360
-    time_stamp: "2018-08-29 01:02:18"
   latest_github_activity:
   - title: postmanlabs/newman being watched by EXPurity
     url: ""
@@ -1750,7 +1750,7 @@ partners:
   - Definitions
   - Clients
   - Chrome
-- organization_id: At1164116IDUYEPi603BUI4bZPboL0GxaoYTkqzq116XsrQL8117
+- organization_id: ""
   name: QuantHouse
   description: QuantHouse, provides end-to-end systematic trading solutions. This
     includes ultra-low latency market data technologies, algo-trading development
@@ -1780,7 +1780,7 @@ partners:
   - SaaS
   - Investment
   - Financial
-- organization_id: Wrt3edLAdVoMAV1rHhVO4Ovd2VUYL8WR82e9l6e0DBY117
+- organization_id: ""
   name: Salesforce
   description: Build more meaningful and lasting relationships and connect with your
     customers across sales, customer service, marketing, communities, apps, analytics,
@@ -1875,6 +1875,10 @@ partners:
     url: http://feedproxy.google.com/""r/SforceBlog/""3/OFq5s2Hmrn4/integrate-external-content-into-communities-using-cms-connect-json.html
     time_stamp: "2018-06-13 10:33:06"
   latest_tweets:
+  - title: "Chill out and learn whats new in the Winter 19 release! \u2744\uFE0F Well
+      share the release highlights in our Developer Pr... https://t.co/HrfytlIKaG"
+    url: https://twitter.com/SalesforceDevs/status/1038079470756945920
+    time_stamp: "2018-09-07 08:00:07"
   - title: "RT @SkipSauls: Are you a developer looking to leverage @SForceAnalytics?
       Check out the #Dreamforce session Intro to the Einstein Analytics..."
     url: https://twitter.com/SalesforceDevs/status/1037913802497449984
@@ -1970,10 +1974,6 @@ partners:
   - title: '@zazamataz @trailhead Hi Zarina, we have provided you an update via DM.'
     url: https://twitter.com/SalesforceDevs/status/1034232204979654656
     time_stamp: "2018-08-27 17:12:27"
-  - title: "RT @FabienTaillon: Dont miss on August 28 Mobile App Dev: Best Practices
-      with Salesforce MVPs: Cant wait to get all that real life know..."
-    url: https://twitter.com/SalesforceDevs/status/1034231396691136515
-    time_stamp: "2018-08-27 17:09:14"
   latest_github_activity:
   - title: studanshu pushed to salesforce/Argus
     url: ""
@@ -2097,7 +2097,7 @@ partners:
   - Customers
   - CRM
   - BaaS
-- organization_id: 8zVl3dSm3ENuDMsHOu1161123Wl3Pkijd4h5h2wXI9bCxL8117
+- organization_id: ""
   name: StopLight
   description: 'StopLight, providing engineering teams with the best way to document,
     test, and build web APIs.  '
@@ -2395,7 +2395,7 @@ partners:
   - Design
   - Clients
   - API LIfeyclessss
-- organization_id: tNKyZxQqXbtabRnTZRrjtWpFsLDGncIzT1eINslrnlc117
+- organization_id: ""
   name: Talend
   description: Talend open source integration software offers real-time solutions
     for all types of data integration. Learn more about the benefits of Hadoop and
@@ -2478,6 +2478,38 @@ partners:
     url: http://feedproxy.google.com/""/ITkp7ombzWQ/sensors-environment-and-internet-of-things-iot
     time_stamp: "2016-12-08 11:59:54"
   latest_tweets:
+  - title: 'How #bigdata help businesses run effectively? https://t.co/XmWuXMU6kq
+      https://t.co/Ep5Wn8P00S'
+    url: https://twitter.com/Talend/status/1038216107633586179
+    time_stamp: "2018-09-07 17:03:03"
+  - title: "[Webinar] Learn How to Modernize PL/SQL Code with Automated Conversion
+      to @Talend. Watch now -... https://t.co/k8j7Vod29Z"
+    url: https://twitter.com/Talend/status/1038143373746622464
+    time_stamp: "2018-09-07 12:14:02"
+  - title: "RT @cmswire: 9 Considerations for Marketers in the Age of Consumer Data
+      Privacy Lawshttps://t.co/E4msoTvYhV@acfrank @gartner   @lacoste..."
+    url: https://twitter.com/Talend/status/1038142068709707776
+    time_stamp: "2018-09-07 12:08:51"
+  - title: "[Step-by-Step] How to Load @Salesforce Data Into @SnowflakeDB in Minutes
+      - https://t.co/WjamHHQOhR#Cloud... https://t.co/WWPb7HVovX"
+    url: https://twitter.com/Talend/status/1038103376616140800
+    time_stamp: "2018-09-07 09:35:06"
+  - title: '.@astirrup shares how to build trust and be more #datadriven in marketing
+      with @DomNicastro via @cmswire: https://t.co/b9OkCLVrkD'
+    url: https://twitter.com/Talend/status/1038071498429280257
+    time_stamp: "2018-09-07 07:28:26"
+  - title: "Making Data a Team Sport: Muscle your #DataQuality by Challenging #IT
+      &amp; Business to Work Together -... https://t.co/quH6QbjrzM"
+    url: https://twitter.com/Talend/status/1038065118788116481
+    time_stamp: "2018-09-07 07:03:05"
+  - title: Talend will be in London for the Tech Retail Week on September 12-13. Join
+      us! https://t.co/vq8lzLSqoT https://t.co/uPYlr8rx35
+    url: https://twitter.com/Talend/status/1038027869656690689
+    time_stamp: "2018-09-07 04:35:04"
+  - title: "RT @TalendFR: Rejoignez les leaders de la transformation num\xE9rique
+      au #TalendConnect Paris ! Venez d\xE9couvrir les t\xE9moignages de @BMW, @AirF..."
+    url: https://twitter.com/Talend/status/1038003719596597248
+    time_stamp: "2018-09-07 02:59:06"
   - title: "RT @TalendCommunity: September @TalendCommunity User Groups\u2757\uFE0F\U0001F483
       \U0001F57A Toronto- https://t.co/BLSclq8VQgSoCal- https://t.co/FkqjgP49tJBoston-..."
     url: https://twitter.com/Talend/status/1037922854086488064
@@ -2546,37 +2578,6 @@ partners:
       Warehouse. https://t.co/pl6fSiT2qR'
     url: https://twitter.com/Talend/status/1037094814783823872
     time_stamp: "2018-09-04 14:47:26"
-  - title: '[Webinar] Address the challenges to #dataprivacy compliance in the #cloud
-      age:  https://t.co/vUm3zOCkT5 https://t.co/vOJrsmiUPO'
-    url: https://twitter.com/Talend/status/1037016196749697025
-    time_stamp: "2018-09-04 09:35:02"
-  - title: "Reduce the complexities of #machinelearning with a platform of user-friendly,
-      self-service tools that seamlessly in... https://t.co/WOOymXy8CC"
-    url: https://twitter.com/Talend/status/1036977951185752064
-    time_stamp: "2018-09-04 07:03:04"
-  - title: "RT @Bitwise_Updates: We're proud to be a sponsor of #TalendConnect
-      2018 London! Join us on October 15-16, 2018 in London to see how we conv..."
-    url: https://twitter.com/Talend/status/1036967323918323712
-    time_stamp: "2018-09-04 06:20:50"
-  - title: "Talend released software that does bulk data uploads to @Azure SQL #DataWarehouse.
-      The goal is to streamline... https://t.co/TD4A9Y9aq1"
-    url: https://twitter.com/Talend/status/1036783669854253056
-    time_stamp: "2018-09-03 18:11:04"
-  - title: 'How @Dominos Pizza is Mastering #Data, One Pizza at a Time - https://t.co/E4MggV0XZE#BigData
-      #DataIntegration https://t.co/aGNZXpN00Y'
-    url: https://twitter.com/Talend/status/1036716217418084352
-    time_stamp: "2018-09-03 13:43:02"
-  - title: 6 Key Steps in a Data Migration Strategy - https://t.co/5E8FWfvbzp https://t.co/lUg1NCuXZA
-    url: https://twitter.com/Talend/status/1036693829775228929
-    time_stamp: "2018-09-03 12:14:04"
-  - title: "Find out how to create a #datalake that doesn't become a data swamp!
-      Watch now: https://t.co/2YSpxsnUnK... https://t.co/BumH56Aqhs"
-    url: https://twitter.com/Talend/status/1036653810066907136
-    time_stamp: "2018-09-03 09:35:03"
-  - title: '#Cloud adoption has become table stakes for companies looking to compete
-      - https://t.co/ORo1czBg1P'
-    url: https://twitter.com/Talend/status/1036615553941741573
-    time_stamp: "2018-09-03 07:03:02"
   latest_github_activity:
   - title: build-travis-ci pushed to Talend/ui
     url: ""
@@ -2740,7 +2741,7 @@ partners:
   - Interoperability
   - Enterprise
   - Automation
-- organization_id: cNXz6prygunXMlfxvttqRrZTXpuhC3lKLR6qfflwGTw117
+- organization_id: ""
   name: TIBCO Software
   description: TIBCO Software is the leading independent provider of infrastructure
     software creating event-enabled enterprises to use on-premise or as part of cloud
@@ -3011,7 +3012,7 @@ partners:
   - Enterprise
   - Deployments
   - API Management Other
-- organization_id: HB09w8nwgyMITSkeb6fQkuEh26VqZnfcw0tXEXLKnNQ117
+- organization_id: ""
   name: Trading Central
   description: Markets never sleep&reg;, and with offices in Paris, London, Cyprus,
     New York, Ottawa, Sydney, Hong Kong and Shanghai, Trading Central is always there
@@ -3175,7 +3176,7 @@ partners:
   tags:
   - SDIO Partner
   - Financial
-- organization_id: lKq09MZ6ZyvkGbhYaOTekJ9hN4xwBdUwyavnoFI7lG0117
+- organization_id: ""
   name: Tyk
   description: Tyk - Open Source API Gateway, API Management Platform, Developer Portal
     and Analytics - Tyk
@@ -3511,7 +3512,7 @@ partners:
   - Management
   - Deployments
   - API Deployment Gateways
-- organization_id: oE5X11G9alExwnSA6Y1bNQU7dBflY1160djvN8aUj1k3Q117
+- organization_id: ""
   name: Xignite
   description: Financial market data on-demand. Xignite financial Web services help
     build smarter websites and applications in minutes with zero up-front investment.
@@ -3559,6 +3560,14 @@ partners:
     url: https://www.xignite.com/market-data/simple-charting-in-r/
     time_stamp: "2014-08-26 07:34:47"
   latest_tweets:
+  - title: "Looking for an alternative to the Bloomberg Terminal? Try @wwwmoneynet
+      Powered with @xignite real-time market data... https://t.co/kRjsdb9Bmw"
+    url: https://twitter.com/xignite/status/1038214418671136768
+    time_stamp: "2018-09-07 16:56:21"
+  - title: 'Congrats to @RobinhoodApp @Ellevest on making the  LinkedIn 25 top startup
+      list https://t.co/9DXoUO9vSE  #fintech #xignitefintechclients'
+    url: https://twitter.com/xignite/status/1038173896711622656
+    time_stamp: "2018-09-07 14:15:19"
   - title: "Congrats to @StockTwits on the launch of their newest product called Rooms.
       This is like Slack, but for traders and... https://t.co/UPu6SXQsEE"
     url: https://twitter.com/xignite/status/1025048003097255941
@@ -3648,14 +3657,6 @@ partners:
       ask themselves whether they are flexible and sensi... https://t.co/qMX6C8w3kH"
     url: https://twitter.com/xignite/status/972091206552387584
     time_stamp: "2018-03-09 04:46:18"
-  - title: "What's the Fuss? Amazon Already Offers Full Suite of Banking Services
-      - Amazon made headlines around the banking/fi... https://t.co/mljT2SWFc4"
-    url: https://twitter.com/xignite/status/971910670831767552
-    time_stamp: "2018-03-08 16:48:55"
-  - title: "Women in Fintech: What the Industry Can Do to Promote Gender Diversity
-      - As the number of women representing start-... https://t.co/n3dZF3pZ5u"
-    url: https://twitter.com/xignite/status/971819447731326976
-    time_stamp: "2018-03-08 10:46:26"
   latest_github_activity:
   - title: lcliu pushed to Xignite/DotNetSDK
     url: ""
