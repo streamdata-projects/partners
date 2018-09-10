@@ -510,6 +510,12 @@ partners:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21-axway.jpg
   image_width: "150"
   latest_blog:
+  - title: API Days 2018 Australia shines with Axway
+    url: https://blog.axway.com/others/api-days-2018-australia-axway
+    time_stamp: "2018-09-07 15:20:26"
+  - title: Axway.com is relaunched with a sleek new look
+    url: https://blog.axway.com/technologies/axway-com
+    time_stamp: "2018-09-06 01:49:52"
   - title: Axway Digital Marketing Team Rocks Seattle
     url: https://blog.axway.com/events/axway-digital-marketing-team-rocks-seattle
     time_stamp: "2018-09-05 02:12:21"
@@ -584,13 +590,6 @@ partners:
       who"
     url: https://blog.axway.com/amplify/fundamental-shift-in-b2b-integration
     time_stamp: "2018-07-30 15:01:12"
-  - title: 'Partner Webinar: Axway Embedded Analytics for API Management Solution
-      Update'
-    url: https://www.axway.com/en/webinar/partner-webinar-axway-embedded-analytics-api-management-solution-update
-    time_stamp: "2018-07-30 03:11:08"
-  - title: "AWS Summit ' Atlanta"
-    url: https://www.axway.com/en/event/aws-summit-atlanta
-    time_stamp: "2018-07-27 12:32:00"
   latest_tweets:
   - title: "Learn how to optimize service levels, improve the #CustomerExperience
       and grow new digital services with Axway Anal... https://t.co/518vvFK8mQ"
