@@ -1490,6 +1490,13 @@ partners:
     url: http://blog.getpostman.com/2018/04/11/looping-through-a-data-file-in-the-postman-collection-runner/
     time_stamp: "2018-04-10 13:42:03"
   latest_tweets:
+  - title: "RT @APIWorld: Want to make great #APIs? Join the keynote by @a85 @postmanclient
+      at #APIWorld18 on Sept 11. Book your ticket now. https://t...."
+    url: https://twitter.com/postmanclient/status/1039211675210014720
+    time_stamp: "2018-09-10 10:59:05"
+  - title: How you can use Postman Monitors to water your plants! https://t.co/8BTF6C2gih
+    url: https://twitter.com/postmanclient/status/1039168676824600577
+    time_stamp: "2018-09-10 08:08:14"
   - title: 'Read about how Postman brings order to chaos at @BetterCloud: https://t.co/iw5zPcKXuY
       https://t.co/VsJnxNhTpB'
     url: https://twitter.com/postmanclient/status/1038264437076094976
@@ -1577,14 +1584,6 @@ partners:
       sharing tips for improving your documentatio... https://t.co/Ft7fyuNULV"
     url: https://twitter.com/postmanclient/status/1035001686350340097
     time_stamp: "2018-08-29 20:10:06"
-  - title: Find out how to build a serverless librarian @SlackHQ app using Postman
-      and @airtable https://t.co/KfT0GYDIXb https://t.co/reXJQmxLf6
-    url: https://twitter.com/postmanclient/status/1034869585420402688
-    time_stamp: "2018-08-29 11:25:10"
-  - title: "Are you demoing Postman at a meetup or other event? Fill out our swag
-      request form and well send you some Postman... https://t.co/2eYpPEWJf3"
-    url: https://twitter.com/postmanclient/status/1034824297200664578
-    time_stamp: "2018-08-29 08:25:13"
   latest_github_activity:
   - title: postmanlabs/newman being watched by EXPurity
     url: ""
