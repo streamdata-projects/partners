@@ -2479,6 +2479,26 @@ partners:
     url: http://feedproxy.google.com/""/ITkp7ombzWQ/sensors-environment-and-internet-of-things-iot
     time_stamp: "2016-12-08 11:59:54"
   latest_tweets:
+  - title: "Join us in #Sydney for an evening of expert insights, networking, and
+      beer tasting. We'll show you how to deliver t... https://t.co/EG5z75niWQ"
+    url: https://twitter.com/Talend/status/1038957995286298624
+    time_stamp: "2018-09-09 18:11:03"
+  - title: "#StrataData: Dont miss @jmichel_franco session on how to tackle #GDPR
+      with data stewardship, lineage and governanc... https://t.co/D2rDVcjlTh"
+    url: https://twitter.com/Talend/status/1038882233229209608
+    time_stamp: "2018-09-09 13:10:00"
+  - title: 'On @HarvardBiz: What, exactly, is it that data scientists do? https://t.co/EhkIPMdaVr#analytics
+      #datascience #machinelearning'
+    url: https://twitter.com/Talend/status/1038868143765184512
+    time_stamp: "2018-09-09 12:14:01"
+  - title: "New Sources, New Data, New Tools: Large Health Insurance Group Confronts
+      the Future of Financial #DataManagement in... https://t.co/Jjgh5lXIpI"
+    url: https://twitter.com/Talend/status/1038828137440784384
+    time_stamp: "2018-09-09 09:35:03"
+  - title: "Learn to work super fast and super smart by attending Training Day at
+      #TalendConnect London! Save 20% with the prom... https://t.co/VxHZ5qphmK"
+    url: https://twitter.com/Talend/status/1038789883345682432
+    time_stamp: "2018-09-09 07:03:02"
   - title: 'Its No Longer If, but When and How to Move to #Cloud - https://t.co/ZNDJuDu8zM#CloudComputing
       https://t.co/iuRS0mIgKq'
     url: https://twitter.com/Talend/status/1038595606980292608
@@ -2559,26 +2579,6 @@ partners:
       - https://t.co/3K9iwCyqjc'
     url: https://twitter.com/Talend/status/1037868812576677888
     time_stamp: "2018-09-06 18:03:02"
-  - title: '[Blog] #DataMapping Essentials in the #GDPR Era - https://t.co/9idQZSxmkf
-      https://t.co/P0w2P0cE4o'
-    url: https://twitter.com/Talend/status/1037808432965931008
-    time_stamp: "2018-09-06 14:03:06"
-  - title: "RT @jmichel_franco: Ill be at #StrataData NY in September, presenting
-      the results of a Data Privacy benchmark on the Data Subject Access R..."
-    url: https://twitter.com/Talend/status/1037806892460912640
-    time_stamp: "2018-09-06 13:56:59"
-  - title: 'RT @SteveSSingh: Great add to @Talend team.  Look forward to working with
-      you @adamnmeister https://t.co/vseacJ9hIo'
-    url: https://twitter.com/Talend/status/1037806335117553664
-    time_stamp: "2018-09-06 13:54:46"
-  - title: "Learn how to reduce development time and innovate on #AWS. Watch our #webinar
-      to learn how to build a #datalake on... https://t.co/lr15VSNF7u"
-    url: https://twitter.com/Talend/status/1037771185461907456
-    time_stamp: "2018-09-06 11:35:06"
-  - title: "RT @jmichel_franco: Air-France KLM, Auchan Retail, BMW, BPCE, Euronext,
-      Orange, Petit Bateau, 3W Regie and more to come: see data-driven co..."
-    url: https://twitter.com/Talend/status/1037720545800806400
-    time_stamp: "2018-09-06 08:13:52"
   latest_github_activity:
   - title: build-travis-ci pushed to Talend/ui
     url: ""
