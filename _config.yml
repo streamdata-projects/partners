@@ -174,6 +174,29 @@ partners:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-logo.png
   image_width: "150"
   latest_blog:
+  - title: "Learn about AWS Services and Solutions ' September AWS Online Tech
+      Talks"
+    url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/nbqdq04LMTY/
+    time_stamp: "2018-09-10 11:38:58"
+  - title: "Amazon AppStream 2.0 ' New Application Settings Persistence and a
+      Quick Launch Recap"
+    url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/wiQUDLWmd58/
+    time_stamp: "2018-09-10 10:11:19"
+  - title: AWS XRay Now Supports Amazon API Gateway and New Sampling Rules API
+    url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/5GkRz6AcGEI/
+    time_stamp: "2018-09-06 12:13:09"
+  - title: Extending AWS CloudFormation with AWS Lambda Powered Macros
+    url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/yPSa-b3HdsY/
+    time_stamp: "2018-09-06 11:47:25"
+  - title: Chat with the Alexa Prize Finalists Today
+    url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/nKc1LiPcgN0/
+    time_stamp: "2018-09-04 11:24:33"
+  - title: "In the Works ' Amazon RDS on VMware"
+    url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/DtRsFpr0WMs/
+    time_stamp: "2018-08-29 10:52:15"
+  - title: "New ' OvertheAir (OTA) Updates for Amazon FreeRTOS"
+    url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/goPwm2wB7yE/
+    time_stamp: "2018-08-28 08:08:56"
   - title: "Amazon DynamoDB ' Features to Power Your Enterprise"
     url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/x2b-44rnPtM/
     time_stamp: "2018-08-27 05:57:02"
