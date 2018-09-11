@@ -1513,6 +1513,45 @@ partners:
     url: http://blog.getpostman.com/2018/04/11/looping-through-a-data-file-in-the-postman-collection-runner/
     time_stamp: "2018-04-10 13:42:03"
   latest_tweets:
+  - title: "Dont miss our CEO &amp; Co-founder, @a85s #APIWorld18 keynote. Abhinav
+      will share his tips for building great APIs to... https://t.co/xeD2xtEDdU"
+    url: https://twitter.com/postmanclient/status/1039634832626802689
+    time_stamp: "2018-09-11 15:00:34"
+  - title: 'The documentation *is* a part of the API. @PetuniaGray #APIWORLD18 https://t.co/NhveN3kb1c'
+    url: https://twitter.com/postmanclient/status/1039584127790407680
+    time_stamp: "2018-09-11 11:39:05"
+  - title: "RT @meetdemio: We had a super great chat with Kasey Byrne \U0001F64C  from
+      @postmanclient speaking about creating a tool to solve your own pain poin..."
+    url: https://twitter.com/postmanclient/status/1039580627849306112
+    time_stamp: "2018-09-11 11:25:10"
+  - title: 'RT @MariyaGil: #APIWORLD18 Implement your consumer driven contracts with
+      #postman @postmanclient @APIWorld https://t.co/d2UPADa9Y4'
+    url: https://twitter.com/postmanclient/status/1039578325117628416
+    time_stamp: "2018-09-11 11:16:01"
+  - title: 'Word of mouth matters in #apidocumentation Developers are super judge-y
+      @PetuniaGray #APIWORLD18 https://t.co/LBTGT1BE1K'
+    url: https://twitter.com/postmanclient/status/1039578020195926016
+    time_stamp: "2018-09-11 11:14:49"
+  - title: 'Just getting started with our Dev Advocate @PetuniaGray at #apiworld18,
+      on API documentation! https://t.co/sYFNlN8ykB'
+    url: https://twitter.com/postmanclient/status/1039575464996532224
+    time_stamp: "2018-09-11 11:04:39"
+  - title: '#APIWORLD18 Proud to receive the 2018 API Award for API Infrastructure!
+      https://t.co/x3NfCt8MZ4'
+    url: https://twitter.com/postmanclient/status/1039574948249972736
+    time_stamp: "2018-09-11 11:02:36"
+  - title: "Dont miss our Developer Advocate, @PetuniaGrays #APIWorld18 talk, If You
+      Document It, They Will Come. Joyce wil... https://t.co/m7bWL69x1M"
+    url: https://twitter.com/postmanclient/status/1039559456449806337
+    time_stamp: "2018-09-11 10:01:03"
+  - title: "We're looking forward to seeing everyone at @APIWorld - come hang
+      out with the Postman team at our booth!... https://t.co/BDzkknQBC2"
+    url: https://twitter.com/postmanclient/status/1039529138292514819
+    time_stamp: "2018-09-11 08:00:34"
+  - title: "RT @DannyDainton: Ive wrote a new post that has slightly modified the
+      great work done by @bcnzer, who wrote a script that automatically ge..."
+    url: https://twitter.com/postmanclient/status/1039354008517763073
+    time_stamp: "2018-09-10 20:24:40"
   - title: "RT @APIWorld: Want to make great #APIs? Join the keynote by @a85 @postmanclient
       at #APIWorld18 on Sept 11. Book your ticket now. https://t...."
     url: https://twitter.com/postmanclient/status/1039211675210014720
@@ -1569,44 +1608,6 @@ partners:
       https://t.co/mzwDIyjY6L"
     url: https://twitter.com/postmanclient/status/1037049188973010944
     time_stamp: "2018-09-04 11:46:08"
-  - title: 'Postmans API Monitoring is available in fun size block. Learn more: https://t.co/q0OKv5Uf65
-      https://t.co/VAbS3CfyMx'
-    url: https://twitter.com/postmanclient/status/1036677766014545925
-    time_stamp: "2018-09-03 11:10:14"
-  - title: 'How to make money by chaining requests in Postman: https://t.co/Paa2WPHbYe
-      https://t.co/DTiuwF8W5O'
-    url: https://twitter.com/postmanclient/status/1036636236079943680
-    time_stamp: "2018-09-03 08:25:13"
-  - title: 'Find out how to set and view SSL certificates with Postman: https://t.co/aDvNP4PUCg
-      https://t.co/QusmKukj8p'
-    url: https://twitter.com/postmanclient/status/1035732747371855872
-    time_stamp: "2018-08-31 20:35:04"
-  - title: Treat yourself to some sweet Postman swag from our store! https://t.co/jXnHWbQ1UO
-      https://t.co/aSP1Kj0YYN
-    url: https://twitter.com/postmanclient/status/1035596888140066816
-    time_stamp: "2018-08-31 11:35:13"
-  - title: 'Comprehensive #API Testing Tools You Need to Know in 2018! https://t.co/PZBUyUWi4o'
-    url: https://twitter.com/postmanclient/status/1035545340869533696
-    time_stamp: "2018-08-31 08:10:23"
-  - title: Level up your Postman game to help you land your dream job! https://t.co/nBLQD8G4B2
-    url: https://twitter.com/postmanclient/status/1035369140826132481
-    time_stamp: "2018-08-30 20:30:14"
-  - title: "RT @tistre: I can't imagine testing and developing APIs without @postmanclient
-      anymore. It simply has every feature I can think of."
-    url: https://twitter.com/postmanclient/status/1035252265823531008
-    time_stamp: "2018-08-30 12:45:48"
-  - title: "Learn how to keep your API development DRY (dont repeat yourself) with
-      collection and folder elements:... https://t.co/gl5lYb4Sl8"
-    url: https://twitter.com/postmanclient/status/1035230720174776330
-    time_stamp: "2018-08-30 11:20:12"
-  - title: "Check out this blog post by our Dev Evangelist @Scottishkilt - How to
-      dissolve communication barriers in your #API... https://t.co/HnSjlnU4u1"
-    url: https://twitter.com/postmanclient/status/1035184206073221120
-    time_stamp: "2018-08-30 08:15:22"
-  - title: "Our Developer Advocate, @PetuniaGray will be speaking at @APIWorld and
-      sharing tips for improving your documentatio... https://t.co/Ft7fyuNULV"
-    url: https://twitter.com/postmanclient/status/1035001686350340097
-    time_stamp: "2018-08-29 20:10:06"
   latest_github_activity:
   - title: postmanlabs/newman being watched by EXPurity
     url: ""
