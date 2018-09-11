@@ -614,6 +614,22 @@ partners:
     url: https://blog.axway.com/amplify/fundamental-shift-in-b2b-integration
     time_stamp: "2018-07-30 15:01:12"
   latest_tweets:
+  - title: "RT @I_LOVE_NY: Today, we remember and honor those who lost their lives
+      in the tragic events of #September11th, 2001, as well as those who r..."
+    url: https://twitter.com/Axway/status/1039550907954810880
+    time_stamp: "2018-09-11 09:27:05"
+  - title: "API #analytics empower API program owners to customize reports with precise
+      data and conclusions that allow you to... https://t.co/J8HOXIz6Jr"
+    url: https://twitter.com/Axway/status/1039275737075699712
+    time_stamp: "2018-09-10 15:13:39"
+  - title: "Digitalized Managed File Transfer offers new technical capabilities like
+      operational API and integration with... https://t.co/sAfNLLRbvh"
+    url: https://twitter.com/Axway/status/1039235809356931073
+    time_stamp: "2018-09-10 12:34:59"
+  - title: "#AWSsummit is just a days away! Will you be there?We would love to meet
+      with you. Click here for details.... https://t.co/xCemVL01wR"
+    url: https://twitter.com/Axway/status/1039215263973928960
+    time_stamp: "2018-09-10 11:13:21"
   - title: "Learn how to optimize service levels, improve the #CustomerExperience
       and grow new digital services with Axway Anal... https://t.co/518vvFK8mQ"
     url: https://twitter.com/Axway/status/1038175483018366976
@@ -696,22 +712,6 @@ partners:
   - title: "RT @lfamancio: AXWAY at ANDICOM 2018 - Cartagena - Col\xF4mbia https://t.co/3TrRDfMbDA"
     url: https://twitter.com/Axway/status/1035219858739187712
     time_stamp: "2018-08-30 10:37:02"
-  - title: '10 easy-to-implement best practices for adopting an #API first program.
-      Get the white paper: https://t.co/O3MuGIw3kT https://t.co/JQoEZC3r8w'
-    url: https://twitter.com/Axway/status/1034833511444824065
-    time_stamp: "2018-08-29 09:01:50"
-  - title: "RT @DellEMCANZ: The right content collaboration platforms can transform
-      how your team works. Our #DellTechForum sponsor @Syncplicity by @Ax..."
-    url: https://twitter.com/Axway/status/1034780706017239041
-    time_stamp: "2018-08-29 05:32:00"
-  - title: "RT @Colombeia1: \xA1Ya estamos listos! @axway @Colombeia1 @ANDICOM - Congreso
-      Internacional de TIC @Ministerio_TIC #Andicom2018 https://t.co/f..."
-    url: https://twitter.com/Axway/status/1034779994088587264
-    time_stamp: "2018-08-29 05:29:10"
-  - title: "Reduce time-to-market from months to weeks for new applications and services,
-      with minimal disruption and maximum... https://t.co/2bfAN2qerm"
-    url: https://twitter.com/Axway/status/1034501162588889088
-    time_stamp: "2018-08-28 11:01:11"
   latest_github_activity:
   - title: radokostadinov pushed to Axway/ats-framework
     url: ""
