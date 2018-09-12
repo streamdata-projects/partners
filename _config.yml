@@ -1897,6 +1897,10 @@ partners:
     url: http://feedproxy.google.com/""r/SforceBlog/""3/OFq5s2Hmrn4/integrate-external-content-into-communities-using-cms-connect-json.html
     time_stamp: "2018-06-13 10:33:06"
   latest_tweets:
+  - title: "Weve got a lot in store for you in Winter 19! \u26F7 Get ready for the
+      upcoming release and join @crc @rohitforce... https://t.co/pRV6PbJ6CO"
+    url: https://twitter.com/SalesforceDevs/status/1039529019845292032
+    time_stamp: "2018-09-11 08:00:06"
   - title: "Get to know the panelists for the Developer Preview Live happening this
       Friday! \U0001F4BB See what else theyre up to and w... https://t.co/LY7347mN69"
     url: https://twitter.com/SalesforceDevs/status/1039204461795786754
@@ -1993,10 +1997,6 @@ partners:
       the #DF18 Free Expo+ Pass! Find out more here... https://t.co/H80oELS7yA"
     url: https://twitter.com/SalesforceDevs/status/1035210583849820162
     time_stamp: "2018-08-30 10:00:11"
-  - title: "Data management can be painful, but Big Objects and Async SOQL are here
-      to help! \U0001F680 Learn how to use them efficientl... https://t.co/xB6n65O40l"
-    url: https://twitter.com/SalesforceDevs/status/1035180383917236224
-    time_stamp: "2018-08-30 08:00:10"
   latest_github_activity:
   - title: studanshu pushed to salesforce/Argus
     url: ""
@@ -2501,6 +2501,38 @@ partners:
     url: http://feedproxy.google.com/""/ITkp7ombzWQ/sensors-environment-and-internet-of-things-iot
     time_stamp: "2016-12-08 11:59:54"
   latest_tweets:
+  - title: "RT @Talend: #MetadataManagement 101: What, Why and How - https://t.co/XLAtrcpEeh#BigData
+      #Cloud #ETL #DataManagement https://t.co/ybNbPEe..."
+    url: https://twitter.com/Talend/status/1039745711833796608
+    time_stamp: "2018-09-11 22:21:09"
+  - title: "RT @jmichel_franco: Cant wait to share our data privacy benchmark tomorrow.
+      Why are most companies strugling with the data subjects rights..."
+    url: https://twitter.com/Talend/status/1039745620985212928
+    time_stamp: "2018-09-11 22:20:48"
+  - title: "RT @MccloudFluffy: I'm back from holiday! It's time to send
+      out my invitations to #TalendConnect - https://t.co/8YRCecFdmp#BigData #DataI..."
+    url: https://twitter.com/Talend/status/1039745534947467265
+    time_stamp: "2018-09-11 22:20:27"
+  - title: "Talend released software that does bulk data uploads to @Azure SQL #DataWarehouse.
+      The goal is to streamline... https://t.co/QqvWgQ2uck"
+    url: https://twitter.com/Talend/status/1039653314646999041
+    time_stamp: "2018-09-11 16:14:00"
+  - title: "#StrataData: Dont miss @jmichel_franco session on how to tackle #GDPR
+      with data stewardship, lineage and governanc... https://t.co/Tqz7rHtI85"
+    url: https://twitter.com/Talend/status/1039607265236606977
+    time_stamp: "2018-09-11 13:11:01"
+  - title: "Take a deep dive on @TDBank_US #datalake.  Join @JoeDosSantos to learn
+      how they modernized their data infrastructur... https://t.co/JI2zYM5D6Z"
+    url: https://twitter.com/Talend/status/1039556949224906753
+    time_stamp: "2018-09-11 09:51:05"
+  - title: "[Step-by-Step] How to Load @Salesforce Data Into @SnowflakeDB in Minutes
+      - https://t.co/WjamHHQOhR #Cloud... https://t.co/I1d8S2kFOW"
+    url: https://twitter.com/Talend/status/1039537826436706304
+    time_stamp: "2018-09-11 08:35:06"
+  - title: "NEWS: Introducing the #BigData and #MachineLearning Sandbox, a fast and
+      easy way to build high-performance smart da... https://t.co/tRw5zZ8BJj"
+    url: https://twitter.com/Talend/status/1039486203890941952
+    time_stamp: "2018-09-11 05:09:58"
   - title: "RT @TalendCommunity: For all Architecture, Best Practices, and How-Tos.
       Check out https://t.co/mDVAcfFCif#bestpractices #TipsandTricks #C..."
     url: https://twitter.com/Talend/status/1039371316711706624
@@ -2569,38 +2601,6 @@ partners:
       - https://t.co/zmKc9j3URO https://t.co/ryx0y1GGDM'
     url: https://twitter.com/Talend/status/1038532015161671680
     time_stamp: "2018-09-08 13:58:22"
-  - title: "#DataLake or #DataWarehouse? #RealTimeSportAnalytics or #PrecisionFarming?
-      #FrenchCheese or #AmericanCoffee? Check... https://t.co/aaggtQEaOP"
-    url: https://twitter.com/Talend/status/1038525884574195713
-    time_stamp: "2018-09-08 13:34:00"
-  - title: "Put your data to work. Join Talend in booth #1321 at #StrataData NY to
-      go through live #machinelearning demos and s... https://t.co/pt7XbhQI3B"
-    url: https://twitter.com/Talend/status/1038524390420299776
-    time_stamp: "2018-09-08 13:28:04"
-  - title: '[Blog] Going #Serverless with @Talend through CI/CD and #Containers -
-      https://t.co/zmKc9j3URO https://t.co/ryx0y1GGDM'
-    url: https://twitter.com/Talend/status/1038465754570653696
-    time_stamp: "2018-09-08 09:35:04"
-  - title: 'Why are more CIOs putting on-demand computing at the top of their to-do
-      list? https://t.co/nhZn0NYyD8#Cloud #CloudComputing #CIO'
-    url: https://twitter.com/Talend/status/1038427487573864448
-    time_stamp: "2018-09-08 07:03:00"
-  - title: "How does #BigData and #IoT make the #football industry better? We introduce
-      you to the possibilities of @Talend wit... https://t.co/YiAifa5Heu"
-    url: https://twitter.com/Talend/status/1038405348279894016
-    time_stamp: "2018-09-08 05:35:02"
-  - title: 'How #bigdata help businesses run effectively? https://t.co/XmWuXMU6kq
-      https://t.co/Ep5Wn8P00S'
-    url: https://twitter.com/Talend/status/1038216107633586179
-    time_stamp: "2018-09-07 17:03:03"
-  - title: "[Webinar] Learn How to Modernize PL/SQL Code with Automated Conversion
-      to @Talend. Watch now -... https://t.co/k8j7Vod29Z"
-    url: https://twitter.com/Talend/status/1038143373746622464
-    time_stamp: "2018-09-07 12:14:02"
-  - title: "RT @cmswire: 9 Considerations for Marketers in the Age of Consumer Data
-      Privacy Lawshttps://t.co/E4msoTvYhV@acfrank @gartner   @lacoste..."
-    url: https://twitter.com/Talend/status/1038142068709707776
-    time_stamp: "2018-09-07 12:08:51"
   latest_github_activity:
   - title: build-travis-ci pushed to Talend/ui
     url: ""
