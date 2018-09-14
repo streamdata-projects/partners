@@ -1903,6 +1903,18 @@ partners:
     url: http://feedproxy.google.com/""r/SforceBlog/""3/OFq5s2Hmrn4/integrate-external-content-into-communities-using-cms-connect-json.html
     time_stamp: "2018-06-13 10:33:06"
   latest_tweets:
+  - title: "RT @rohitforce: Now introducing Dev Hub in DE orgs for exploring #SalesforceDX
+      - https://t.co/SLuwls2CL6Are you excited for Winter 19 ye..."
+    url: https://twitter.com/SalesforceDevs/status/1040466979730026496
+    time_stamp: "2018-09-13 22:07:13"
+  - title: "Coded a few Lightning Platform apps and curious to see what's new
+      at #DF18?  We've picked out some sessions and are... https://t.co/YeMVmqR8r9"
+    url: https://twitter.com/SalesforceDevs/status/1040284293677965312
+    time_stamp: "2018-09-13 10:01:17"
+  - title: "Winter is coming - the Winter 19 release, that is! \u26C4\uFE0F Brace
+      yourself for the latest features in our Developer Prev... https://t.co/KddZe4pVfy"
+    url: https://twitter.com/SalesforceDevs/status/1040253791042523137
+    time_stamp: "2018-09-13 08:00:05"
   - title: "Anyone can use @mulesoft Anypoint Platform! Learn to leverage out-of-the-box
       connectors to build your first integra... https://t.co/GJr9FHTFKO"
     url: https://twitter.com/SalesforceDevs/status/1039891408394625025
@@ -1991,18 +2003,6 @@ partners:
       and @SalesforceAdmns in the #TrailblazerCommunity in India.  What an..."
     url: https://twitter.com/SalesforceDevs/status/1036064645876838400
     time_stamp: "2018-09-01 18:33:55"
-  - title: "RT @andyinthecloud: Very pleased to share this! Winter'19 : Streamline
-      API Calls to Your Org from Apex Code https://t.co/JeAgrEIXbD @Salesf..."
-    url: https://twitter.com/SalesforceDevs/status/1036064574678556673
-    time_stamp: "2018-09-01 18:33:38"
-  - title: 'RT @MichelleCRuns: So this just happened. @SalesforceDevs @ArchLadies
-      #ArchitectJourney #LadiesBeArchitects https://t.co/5OClVM4H9i'
-    url: https://twitter.com/SalesforceDevs/status/1036064389617471488
-    time_stamp: "2018-09-01 18:32:54"
-  - title: "Agenda Builder for #DF18 will be here soon, but while you wait, why not
-      bookmark your favorite sessions? Discover w... https://t.co/uTDHEGB4c4"
-    url: https://twitter.com/SalesforceDevs/status/1035580512256045059
-    time_stamp: "2018-08-31 10:30:08"
   latest_github_activity:
   - title: studanshu pushed to salesforce/Argus
     url: ""
@@ -2507,6 +2507,30 @@ partners:
     url: http://feedproxy.google.com/""/ITkp7ombzWQ/sensors-environment-and-internet-of-things-iot
     time_stamp: "2016-12-08 11:59:54"
   latest_tweets:
+  - title: 'Revenue for #bigdata and business #analytics solutions to hit $27 billion
+      mark in the next four years - https://t.co/UvYvUdrU7P'
+    url: https://twitter.com/Talend/status/1040405522288136192
+    time_stamp: "2018-09-13 18:03:00"
+  - title: 'RT @datanami: Survey finds uneven #compliance with #GDPR #Talend #privacy
+      https://t.co/ddNSmWH1w3'
+    url: https://twitter.com/Talend/status/1040403590710407168
+    time_stamp: "2018-09-13 17:55:20"
+  - title: "[Blog] Creating Real-Time Anomaly Detection Pipelines with @awscloud and
+      @Talend Data Streams -... https://t.co/FgcBGY2z3H"
+    url: https://twitter.com/Talend/status/1040335315922313217
+    time_stamp: "2018-09-13 13:24:02"
+  - title: "[Webinar] Learn How to Combine #Geodata from Different Sources with Domain-specific
+      Applications. Watch now!... https://t.co/JKy3MaQDSs"
+    url: https://twitter.com/Talend/status/1040299838372552704
+    time_stamp: "2018-09-13 11:03:03"
+  - title: 'Five Things to Consider as #StrataData Kicks Off - https://t.co/84IJ1adWDF#Hadoop
+      #Cloud #AI #GDPR'
+    url: https://twitter.com/Talend/status/1040254548202405889
+    time_stamp: "2018-09-13 08:03:05"
+  - title: "NEWS: The Majority of Businesses are Failing to Comply with #GDPR, According
+      to New @Talend Research. Learn more:... https://t.co/h3EuYIwxrM"
+    url: https://twitter.com/Talend/status/1040217065888653312
+    time_stamp: "2018-09-13 05:34:09"
   - title: "Ten enterprise trends that reflect the current state of #IoT Platform
       as a Service - https://t.co/jLkG8TH2mO... https://t.co/qT7uG4CxQM"
     url: https://twitter.com/Talend/status/1040043144224681984
@@ -2583,30 +2607,6 @@ partners:
       data into better customer service with... https://t.co/FQtMEWf0IE"
     url: https://twitter.com/Talend/status/1039314198831001601
     time_stamp: "2018-09-10 17:46:29"
-  - title: "Join us in #Melbourne for an evening of expert insights, networking, and
-      beer tasting. We'll show you how to delive... https://t.co/jcCdtjEDOI"
-    url: https://twitter.com/Talend/status/1039290179419365377
-    time_stamp: "2018-09-10 16:11:02"
-  - title: 9 Considerations for Marketers in the Age of Consumer Data Privacy Laws
-      - https://t.co/1fx2BdD8RE https://t.co/MjzJXHd0Er
-    url: https://twitter.com/Talend/status/1039244885751152641
-    time_stamp: "2018-09-10 13:11:03"
-  - title: 'How can CTOs and CIOs recruit and build the best teams? https://t.co/tRlD37Mpch#CTO
-      #CIO #Recruitment #HR #Tech https://t.co/JgQLLRD87i'
-    url: https://twitter.com/Talend/status/1039227770042298369
-    time_stamp: "2018-09-10 12:03:02"
-  - title: "Hello New York! We are ready for #StrataData - join us in booth #1321
-      at #StrataData NY to dive deep into #cloud in... https://t.co/s8YufEM2eb"
-    url: https://twitter.com/Talend/status/1039190537251835906
-    time_stamp: "2018-09-10 09:35:05"
-  - title: '#MetadataManagement 101: What, Why and How - https://t.co/XLAtrcpEeh#BigData
-      #Cloud #ETL #DataManagement https://t.co/ybNbPEeEcm'
-    url: https://twitter.com/Talend/status/1039152286776406017
-    time_stamp: "2018-09-10 07:03:06"
-  - title: "Join us in #Sydney for an evening of expert insights, networking, and
-      beer tasting. We'll show you how to deliver t... https://t.co/EG5z75niWQ"
-    url: https://twitter.com/Talend/status/1038957995286298624
-    time_stamp: "2018-09-09 18:11:03"
   latest_github_activity:
   - title: build-travis-ci pushed to Talend/ui
     url: ""
