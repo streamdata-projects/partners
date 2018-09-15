@@ -161,7 +161,7 @@ partners:
     on-demand cloud computing platforms to individuals, companies and governments,
     on a paid subscription basis. The technology allows subscribers to have at their
     disposal a virtual cluster of computers, available all the time, through the Internet.&nbsp;
-  url: https://aws.amazon.com/
+  url: ""
   email: ""
   blog_url: https://aws.amazon.com/blogs/
   blog_rss_url: http://feeds.feedburner.com/AmazonWebServicesBlog
@@ -342,7 +342,151 @@ partners:
       TensorFlow on Amazon SageMaker? Join the... https://t.co/qPF7zMQwMJ"
     url: https://twitter.com/awscloud/status/1029737984982228993
     time_stamp: "2018-08-15 07:34:01"
-  latest_github_activity: []
+  latest_github_activity:
+  - title: zodgevaibhav made a pull request on aws/aws-sdk-cpp
+    url: https://github.com/aws/aws-sdk-cpp/pull/969
+    time_stamp: "2018-09-15"
+    type: PullRequestEvent
+    user_name: zodgevaibhav
+    repo: aws/aws-sdk-cpp
+  - title: aws/aws-sdk-go being watched by giacomoguiulfo
+    url: ""
+    time_stamp: "2018-09-15"
+    type: WatchEvent
+    user_name: giacomoguiulfo
+    repo: aws/aws-sdk-go
+  - title: kolstae commented on an issue for aws/aws-sdk-java
+    url: https://api.github.com/repos/aws/aws-sdk-java/issues/comments/421540476
+    time_stamp: "2018-09-15"
+    type: IssueCommentEvent
+    user_name: kolstae
+    repo: aws/aws-sdk-java
+  - title: aws/aws-health-tools being watched by mseest
+    url: ""
+    time_stamp: "2018-09-15"
+    type: WatchEvent
+    user_name: mseest
+    repo: aws/aws-health-tools
+  - title: cm-iwata made a pull request on aws/aws-iot-device-sdk-python
+    url: https://github.com/aws/aws-iot-device-sdk-python/pull/160
+    time_stamp: "2018-09-15"
+    type: PullRequestEvent
+    user_name: cm-iwata
+    repo: aws/aws-iot-device-sdk-python
+  - title: fyn-dev commented on an issue for aws/aws-sdk-js
+    url: https://api.github.com/repos/aws/aws-sdk-js/issues/comments/421536983
+    time_stamp: "2018-09-15"
+    type: IssueCommentEvent
+    user_name: fyn-dev
+    repo: aws/aws-sdk-js
+  - title: aws/aws-iot-device-sdk-python was forked by aws-iot-device-sdk-python
+    url: ""
+    time_stamp: "2018-09-14"
+    type: ForkEvent
+    user_name: aws-iot-device-sdk-python
+    repo: aws/aws-iot-device-sdk-python
+  - title: cm-iwata submitted an issue on aws/aws-iot-device-sdk-python
+    url: https://api.github.com/repos/aws/aws-iot-device-sdk-python/issues/159
+    time_stamp: "2018-09-14"
+    type: IssuesEvent
+    user_name: cm-iwata
+    repo: aws/aws-iot-device-sdk-python
+  - title: mwfpope made a pull request on aws/aws-swf-flow-library
+    url: https://github.com/aws/aws-swf-flow-library/pull/22
+    time_stamp: "2018-09-14"
+    type: PullRequestEvent
+    user_name: mwfpope
+    repo: aws/aws-swf-flow-library
+  - title: aws/aws-swf-flow-library was forked by aws-swf-flow-library
+    url: ""
+    time_stamp: "2018-09-14"
+    type: ForkEvent
+    user_name: aws-swf-flow-library
+    repo: aws/aws-swf-flow-library
+  - title: aws/aws-sdk-go being watched by jochen42
+    url: ""
+    time_stamp: "2018-09-14"
+    type: WatchEvent
+    user_name: jochen42
+    repo: aws/aws-sdk-go
+  - title: aws/aws-sdk-ruby being watched by ivandelas
+    url: ""
+    time_stamp: "2018-09-14"
+    type: WatchEvent
+    user_name: ivandelas
+    repo: aws/aws-sdk-ruby
+  - title: aws/aws-sdk-ruby being watched by eknok
+    url: ""
+    time_stamp: "2018-09-14"
+    type: WatchEvent
+    user_name: eknok
+    repo: aws/aws-sdk-ruby
+  - title: aws/aws-extensions-for-dotnet-cli being watched by zentby
+    url: ""
+    time_stamp: "2018-09-14"
+    type: WatchEvent
+    user_name: zentby
+    repo: aws/aws-extensions-for-dotnet-cli
+  - title: FilenkovMaxim commented on an issue for aws/aws-sdk-android
+    url: https://api.github.com/repos/aws/aws-sdk-android/issues/comments/421529331
+    time_stamp: "2018-09-14"
+    type: IssueCommentEvent
+    user_name: FilenkovMaxim
+    repo: aws/aws-sdk-android
+  - title: aws/aws-xray-sdk-node being watched by matieux
+    url: ""
+    time_stamp: "2018-09-14"
+    type: WatchEvent
+    user_name: matieux
+    repo: aws/aws-xray-sdk-node
+  - title: aws/aws-iot-device-sdk-arduino-yun was forked by aws-iot-device-sdk-arduino-yun
+    url: ""
+    time_stamp: "2018-09-14"
+    type: ForkEvent
+    user_name: aws-iot-device-sdk-arduino-yun
+    repo: aws/aws-iot-device-sdk-arduino-yun
+  - title: aws/aws-sdk-go being watched by antimathequaledmath
+    url: ""
+    time_stamp: "2018-09-14"
+    type: WatchEvent
+    user_name: antimathequaledmath
+    repo: aws/aws-sdk-go
+  - title: yebonkim commented on an issue for aws/aws-sdk-android
+    url: https://api.github.com/repos/aws/aws-sdk-android/issues/comments/421521358
+    time_stamp: "2018-09-14"
+    type: IssueCommentEvent
+    user_name: yebonkim
+    repo: aws/aws-sdk-android
+  - title: ravichandhraRean commented on an issue for aws/aws-iot-device-sdk-embedded-C
+    url: https://api.github.com/repos/aws/aws-iot-device-sdk-embedded-C/issues/comments/421521172
+    time_stamp: "2018-09-14"
+    type: IssueCommentEvent
+    user_name: ravichandhraRean
+    repo: aws/aws-iot-device-sdk-embedded-C
+  - title: holtc commented on an issue for aws/aws-cli
+    url: https://api.github.com/repos/aws/aws-cli/issues/comments/421520515
+    time_stamp: "2018-09-14"
+    type: IssueCommentEvent
+    user_name: holtc
+    repo: aws/aws-cli
+  - title: ravichandhraRean commented on an issue for aws/aws-iot-device-sdk-embedded-C
+    url: https://api.github.com/repos/aws/aws-iot-device-sdk-embedded-C/issues/comments/421520414
+    time_stamp: "2018-09-14"
+    type: IssueCommentEvent
+    user_name: ravichandhraRean
+    repo: aws/aws-iot-device-sdk-embedded-C
+  - title: holtc submitted an issue on aws/aws-cli
+    url: https://api.github.com/repos/aws/aws-cli/issues/3567
+    time_stamp: "2018-09-14"
+    type: IssuesEvent
+    user_name: holtc
+    repo: aws/aws-cli
+  - title: aws/aws-sdk-php being watched by 2er7
+    url: ""
+    time_stamp: "2018-09-14"
+    type: WatchEvent
+    user_name: 2er7
+    repo: aws/aws-sdk-php
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
