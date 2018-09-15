@@ -1749,6 +1749,10 @@ partners:
     url: http://blog.getpostman.com/2018/04/11/looping-through-a-data-file-in-the-postman-collection-runner/
     time_stamp: "2018-04-10 13:42:03"
   latest_tweets:
+  - title: "RT @ButterCMS: Congratulations to @postmanclient for being named Best
+      in API Infrastructure by @APIWorld at the #APIWorld18. Heres how w..."
+    url: https://twitter.com/postmanclient/status/1040755329665908737
+    time_stamp: "2018-09-14 17:13:01"
   - title: 'RT @growthkarl: Guess who made #20 on the #SaaS1000 list? Congrats @postmanclient!
       Youre doing a great job!https://t.co/f5qUCkMvyN'
     url: https://twitter.com/postmanclient/status/1040643895711817728
@@ -1844,10 +1848,6 @@ partners:
       https://t.co/VsJnxNhTpB'
     url: https://twitter.com/postmanclient/status/1038264437076094976
     time_stamp: "2018-09-07 20:15:06"
-  - title: "RT @KukicAdo: Incoming! Auth0 Online Meetup #6 on September 17 at 12:00PST.
-      Come learn about APIs, @postmanclient, JSON Web Tokens, and Com..."
-    url: https://twitter.com/postmanclient/status/1038142988776435713
-    time_stamp: "2018-09-07 12:12:30"
   latest_github_activity:
   - title: postmanlabs/newman being watched by EXPurity
     url: ""
