@@ -1440,7 +1440,7 @@ partners:
   name: Kong
   description: Secure, Manage & Extend your APIs or Microservices with plugins for
     authentication, logging, rate-limiting, transformations and more.
-  url: https://getkong.org/
+  url: ""
   email: ""
   blog_url: https://konghq.com/blog/
   blog_rss_url: https://konghq.com/feed/
@@ -1550,7 +1550,97 @@ partners:
       me for a special ticket to the #KongSummit!'
     url: https://twitter.com/thekonginc/status/1025474027882602501
     time_stamp: "2018-08-03 13:10:35"
-  latest_github_activity: []
+  latest_github_activity:
+  - title: kikito commented on an issue for Kong/kong
+    url: https://api.github.com/repos/Kong/kong/issues/comments/421544974
+    time_stamp: "2018-09-15"
+    type: IssueCommentEvent
+    user_name: kikito
+    repo: Kong/kong
+  - title: Kong/kong being watched by guowengen
+    url: ""
+    time_stamp: "2018-09-15"
+    type: WatchEvent
+    user_name: guowengen
+    repo: Kong/kong
+  - title: thibaultcha made a pull request on Kong/kong
+    url: https://github.com/Kong/kong/pull/3773
+    time_stamp: "2018-09-15"
+    type: PullRequestEvent
+    user_name: thibaultcha
+    repo: Kong/kong
+  - title: Kong/kong being watched by yywangyi
+    url: ""
+    time_stamp: "2018-09-15"
+    type: WatchEvent
+    user_name: yywangyi
+    repo: Kong/kong
+  - title: nervouscat commented on an issue for Kong/kong
+    url: https://api.github.com/repos/Kong/kong/issues/comments/421537664
+    time_stamp: "2018-09-15"
+    type: IssueCommentEvent
+    user_name: nervouscat
+    repo: Kong/kong
+  - title: Kong/kong being watched by xufengtian14
+    url: ""
+    time_stamp: "2018-09-14"
+    type: WatchEvent
+    user_name: xufengtian14
+    repo: Kong/kong
+  - title: Kong/httpsnippet being watched by saleehk
+    url: ""
+    time_stamp: "2018-09-14"
+    type: WatchEvent
+    user_name: saleehk
+    repo: Kong/httpsnippet
+  - title: seamons commented on an issue for Kong/kong
+    url: https://api.github.com/repos/Kong/kong/issues/comments/421525560
+    time_stamp: "2018-09-14"
+    type: IssueCommentEvent
+    user_name: seamons
+    repo: Kong/kong
+  - title: bungle made a pull request on Kong/kong
+    url: https://github.com/Kong/kong/pull/3710
+    time_stamp: "2018-09-14"
+    type: PullRequestEvent
+    user_name: bungle
+    repo: Kong/kong
+  - title: bungle commented on an issue for Kong/kong
+    url: https://api.github.com/repos/Kong/kong/issues/comments/421522866
+    time_stamp: "2018-09-14"
+    type: IssueCommentEvent
+    user_name: bungle
+    repo: Kong/kong
+  - title: bungle made a pull request on Kong/kong
+    url: https://github.com/Kong/kong/pull/3772
+    time_stamp: "2018-09-14"
+    type: PullRequestEvent
+    user_name: bungle
+    repo: Kong/kong
+  - title: Kong/kong being watched by cheekybastard
+    url: ""
+    time_stamp: "2018-09-14"
+    type: WatchEvent
+    user_name: cheekybastard
+    repo: Kong/kong
+  - title: bungle pushed to Kong/kong
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: bungle
+    repo: Kong/kong
+  - title: bungle made a pull request on Kong/kong
+    url: https://github.com/Kong/kong/pull/3760
+    time_stamp: "2018-09-14"
+    type: PullRequestEvent
+    user_name: bungle
+    repo: Kong/kong
+  - title: bungle pushed to Kong/kong
+    url: ""
+    time_stamp: "2018-09-14"
+    type: PushEvent
+    user_name: bungle
+    repo: Kong/kong
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
