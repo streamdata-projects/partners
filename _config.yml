@@ -2741,6 +2741,26 @@ partners:
     url: http://feedproxy.google.com/""/ITkp7ombzWQ/sensors-environment-and-internet-of-things-iot
     time_stamp: "2016-12-08 11:59:54"
   latest_tweets:
+  - title: "Join @Talend in #Singapore for @BigDataWorld_ Asia! Come meet our experts
+      at booth R40. Register here:... https://t.co/KGS9sEqSeU"
+    url: https://twitter.com/Talend/status/1041117218828902400
+    time_stamp: "2018-09-15 17:11:02"
+  - title: 'RT @MediaPost: Most firms observe GDPR data request rule in the breach:
+      @Talend study https://t.co/1DZCk3wV4t'
+    url: https://twitter.com/Talend/status/1041116303564529664
+    time_stamp: "2018-09-15 17:07:24"
+  - title: 'Who is responsible for #cybersecurity in the enterprise? https://t.co/6Aij1APaSJ#CTO
+      #CIO #GDPR'
+    url: https://twitter.com/Talend/status/1041042473445928960
+    time_stamp: "2018-09-15 12:14:01"
+  - title: "[Blog] Key Considerations for Converting Legacy #ETL to Modern ETL - https://t.co/JTghPKkwt7
+      #DataIntegration... https://t.co/lv4V0tvTTD"
+    url: https://twitter.com/Talend/status/1041002462541479937
+    time_stamp: "2018-09-15 09:35:02"
+  - title: 'How you store and manage your companys data determines #datasecurity,
+      work efficiency and access - https://t.co/4zUZEhnCKU#BigData'
+    url: https://twitter.com/Talend/status/1040964217195712517
+    time_stamp: "2018-09-15 07:03:04"
   - title: "Revenues from 2018 Australian #publiccloud spend are pinned as AU$4.6
       billion, expected to tip AU$7 billion come 20... https://t.co/aZsuYt0WKo"
     url: https://twitter.com/Talend/status/1040769921263788033
@@ -2821,26 +2841,6 @@ partners:
       to manage #metadata? The basic answer is, #trust.\_ https://t.co/46..."
     url: https://twitter.com/Talend/status/1039919989233315840
     time_stamp: "2018-09-12 09:53:40"
-  - title: "Are you at #StrataData today? Head over to booth #1321 for #bigdata, #cloud,
-      and #serverless demos (psst, there are... https://t.co/TmHhZO81Rm"
-    url: https://twitter.com/Talend/status/1039907656196997121
-    time_stamp: "2018-09-12 09:04:40"
-  - title: '[Blog] Key Considerations for Converting Legacy ETL to Modern ETL - https://t.co/JTghPKkwt7
-      https://t.co/6jfMtu5Sn7'
-    url: https://twitter.com/Talend/status/1039892151713374208
-    time_stamp: "2018-09-12 08:03:03"
-  - title: 'How #Netflix scaled to provide video streaming to 130 million subscribers
-      - https://t.co/BWUPXCO6og#AWS #CloudMigration #Cloud'
-    url: https://twitter.com/Talend/status/1039861947481681920
-    time_stamp: "2018-09-12 06:03:02"
-  - title: "RT @Talend: #MetadataManagement 101: What, Why and How - https://t.co/XLAtrcpEeh#BigData
-      #Cloud #ETL #DataManagement https://t.co/ybNbPEe..."
-    url: https://twitter.com/Talend/status/1039745711833796608
-    time_stamp: "2018-09-11 22:21:09"
-  - title: "RT @jmichel_franco: Cant wait to share our data privacy benchmark tomorrow.
-      Why are most companies strugling with the data subjects rights..."
-    url: https://twitter.com/Talend/status/1039745620985212928
-    time_stamp: "2018-09-11 22:20:48"
   latest_github_activity:
   - title: build-travis-ci pushed to Talend/ui
     url: ""
