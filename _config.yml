@@ -677,8 +677,18 @@ partners:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21-axway.jpg
   image_width: "150"
   latest_blog:
+  - title: "Tr\xE8s Chic! Axway brings fantastique team collaboration to Ch\xE2teau
+      de Nointel"
+    url: https://blog.axway.com/events/tres-chic-axway-brings-fantastique-team-collaboration-to-chateau-de-nointel
+    time_stamp: "2018-09-14 01:30:31"
+  - title: Knock Down Barriers to Content Collaboration in Healthcare
+    url: https://blog.axway.com/amplify/collaboration/content-collaboration-in-healthcare
+    time_stamp: "2018-09-13 15:58:55"
   - title: API Days 2018 Australia shines with Axway
     url: https://blog.axway.com/others/api-days-2018-australia-axway
+    time_stamp: "2018-09-07 15:20:26"
+  - title: API Days 2018 Australia shines with Axway
+    url: https://blog.axway.com/events/api-days-2018-australia-axway
     time_stamp: "2018-09-07 15:20:26"
   - title: Axway.com is relaunched with a sleek new look
     url: https://blog.axway.com/technologies/axway-com
@@ -743,20 +753,10 @@ partners:
       your company forward?
     url: https://blog.axway.com/amplify/what-is-a-hybrid-integration-platform-and-how-can-it-work-for-you-to-propel-your-company-forward
     time_stamp: "2018-08-10 00:52:47"
-  - title: 'API Talk: How to protect your API Infrastructure against CyberAttacks
-      with AI'
-    url: https://www.axway.com/en/event/api-talk-top-3-best-practices-protect-your-api-infrastructure-against-cyber-attacks-ai
-    time_stamp: "2018-08-09 09:23:00"
-  - title: Make It Real  Dell Technologies Forum Sydney 2018
-    url: https://www.axway.com/en/event/make-it-real-dell-technologies-forum-sydney-2018
-    time_stamp: "2018-07-31 07:36:08"
-  - title: Make It Real  Dell Technologies Forum Singapore 2018
-    url: https://www.axway.com/en/event/make-it-real-dell-technologies-forum-singapore-2018
-    time_stamp: "2018-07-31 07:26:51"
-  - title: "The fundamental shift in B2B integration is not the how... It is the
-      who"
-    url: https://blog.axway.com/amplify/fundamental-shift-in-b2b-integration
-    time_stamp: "2018-07-30 15:01:12"
+  - title: What is a Hybrid Integration Platform and how can it work for you to propel
+      your company forward?
+    url: https://blog.axway.com/integration/hybrid-integration/hybrid-integration-platform-definition
+    time_stamp: "2018-08-10 00:52:47"
   latest_tweets:
   - title: "#APIDaysAU is the country's largest conference for tech &amp; business
       \ professionals to converge about all things... https://t.co/GWD4fJZ1FY"
