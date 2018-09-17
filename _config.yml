@@ -1756,6 +1756,24 @@ partners:
     url: http://blog.getpostman.com/2018/04/11/looping-through-a-data-file-in-the-postman-collection-runner/
     time_stamp: "2018-04-10 13:42:03"
   latest_tweets:
+  - title: "RT @kenessajr: .@auth0 Online Meetup \U0001F6F0\U0001F3A4 @PetuniaGray
+      explaining how @postmanclient can help us work with APIs.\U0001F3A4 @IAmJerdog
+      showing us wh..."
+    url: https://twitter.com/postmanclient/status/1041770160711884800
+    time_stamp: "2018-09-17 12:25:36"
+  - title: "RT @kamalaknn: Weve been working on improving the implementation of our
+      tabs and authoring environment on @postmanclient\U0001F389 Excited to see..."
+    url: https://twitter.com/postmanclient/status/1041760709049081856
+    time_stamp: "2018-09-17 11:48:02"
+  - title: "RT @auth0: Join us today for a new Auth0 Online Meetup \U0001F6F0\U0001F3A4
+      @PetuniaGray will explain how @postmanclient can help us work with APIs.\U0001F3A4
+      @IAm..."
+    url: https://twitter.com/postmanclient/status/1041739781640609792
+    time_stamp: "2018-09-17 10:24:53"
+  - title: "Listen to our VP of Marketing, @kaseybyrne discuss how Postman generates
+      revenue by educating our six million users... https://t.co/orfmzSkO6b"
+    url: https://twitter.com/postmanclient/status/1041737058862215170
+    time_stamp: "2018-09-17 10:14:04"
   - title: "RT @ButterCMS: Congratulations to @postmanclient for being named Best
       in API Infrastructure by @APIWorld at the #APIWorld18. Heres how w..."
     url: https://twitter.com/postmanclient/status/1040755329665908737
@@ -1840,21 +1858,6 @@ partners:
       out with the Postman team at our booth!... https://t.co/BDzkknQBC2"
     url: https://twitter.com/postmanclient/status/1039529138292514819
     time_stamp: "2018-09-11 08:00:34"
-  - title: "RT @DannyDainton: Ive wrote a new post that has slightly modified the
-      great work done by @bcnzer, who wrote a script that automatically ge..."
-    url: https://twitter.com/postmanclient/status/1039354008517763073
-    time_stamp: "2018-09-10 20:24:40"
-  - title: "RT @APIWorld: Want to make great #APIs? Join the keynote by @a85 @postmanclient
-      at #APIWorld18 on Sept 11. Book your ticket now. https://t...."
-    url: https://twitter.com/postmanclient/status/1039211675210014720
-    time_stamp: "2018-09-10 10:59:05"
-  - title: How you can use Postman Monitors to water your plants! https://t.co/8BTF6C2gih
-    url: https://twitter.com/postmanclient/status/1039168676824600577
-    time_stamp: "2018-09-10 08:08:14"
-  - title: 'Read about how Postman brings order to chaos at @BetterCloud: https://t.co/iw5zPcKXuY
-      https://t.co/VsJnxNhTpB'
-    url: https://twitter.com/postmanclient/status/1038264437076094976
-    time_stamp: "2018-09-07 20:15:06"
   latest_github_activity:
   - title: postmanlabs/newman being watched by EXPurity
     url: ""
@@ -2406,6 +2409,14 @@ partners:
     url: https://blog.stoplight.io/stoplight-windows-and-linux-97fe9bdbb5e7?source=rss----9be7d78deaf4---4
     time_stamp: "2016-07-25 10:28:55"
   latest_tweets:
+  - title: "@AaronWanzagiro @BradvanL @railsbank @FidorSolutions We dont block based
+      on location, but there are other related... https://t.co/tr524M2Bgv"
+    url: https://twitter.com/stoplightio/status/1041748409059880960
+    time_stamp: "2018-09-17 10:59:10"
+  - title: "@AaronWanzagiro @BradvanL @railsbank @FidorSolutions Hey Aaron! Sorry
+      to hear this. Both docs appear to be live on... https://t.co/nZfXeRoSon"
+    url: https://twitter.com/stoplightio/status/1041727176322818050
+    time_stamp: "2018-09-17 09:34:47"
   - title: "@BrOrlandi Were really sorry about yesterday! Weve made changes to prevent
       it happening again in Stoplight Classi... https://t.co/3GPSwLFLX0"
     url: https://twitter.com/stoplightio/status/1038073170832502791
@@ -2498,14 +2509,6 @@ partners:
       Part Two of Writing Documentation When You Aren't A Technical... https://t.co/ToYPcAzD4L"
     url: https://twitter.com/stoplightio/status/1032688433234419712
     time_stamp: "2018-08-23 10:58:03"
-  - title: "If an API team has done their homework, actually put other 3rd party APIs
-      to work, they would know that PDF docume... https://t.co/obBErKkSLF"
-    url: https://twitter.com/stoplightio/status/1032621044669005824
-    time_stamp: "2018-08-23 06:30:16"
-  - title: "Hurry! Make sure you dont miss out on the second edition of our new newsletter,
-      the API Intersection, coming out s... https://t.co/iCIcijyzOg"
-    url: https://twitter.com/stoplightio/status/1032326059868467200
-    time_stamp: "2018-08-22 10:58:07"
   latest_github_activity:
   - title: lottamus pushed to stoplightio/js-coding-challenge
     url: ""
