@@ -2741,6 +2741,26 @@ partners:
     url: http://feedproxy.google.com/""/ITkp7ombzWQ/sensors-environment-and-internet-of-things-iot
     time_stamp: "2016-12-08 11:59:54"
   latest_tweets:
+  - title: 'What to do with the data? The evolution of data platforms in a post #bigdata
+      world - https://t.co/WN41s8WAjv'
+    url: https://twitter.com/Talend/status/1041465254591516672
+    time_stamp: "2018-09-16 16:14:00"
+  - title: '#MetadataManagement 101: What, Why and How - https://t.co/XLAtrcpEeh #BigData
+      #Cloud #ETL #DataManagement https://t.co/yZyApL35Sm'
+    url: https://twitter.com/Talend/status/1041428772740845568
+    time_stamp: "2018-09-16 13:49:02"
+  - title: "New episode of #ThinkFastTalkTech is out! We discuss #NetNeutrality, #Cloud,
+      #GDPR and more with @Talend CIO Eric J... https://t.co/Gw1njX88nh"
+    url: https://twitter.com/Talend/status/1041388496685092864
+    time_stamp: "2018-09-16 11:09:00"
+  - title: "Learn how to stop bad data before it enters your system and how to create
+      systems and workflow to manage clean data... https://t.co/ofeuThu01G"
+    url: https://twitter.com/Talend/status/1041364850008576001
+    time_stamp: "2018-09-16 09:35:02"
+  - title: "#TalendConnect London is your chance to hear from industry leaders like
+      @Astrazeneca, @Greenpeace, @ElsevierConnect... https://t.co/y4e3wx0SCT"
+    url: https://twitter.com/Talend/status/1041314267318898689
+    time_stamp: "2018-09-16 06:14:02"
   - title: "Join @Talend in #Singapore for @BigDataWorld_ Asia! Come meet our experts
       at booth R40. Register here:... https://t.co/KGS9sEqSeU"
     url: https://twitter.com/Talend/status/1041117218828902400
@@ -2821,26 +2841,6 @@ partners:
       as a Service - https://t.co/jLkG8TH2mO... https://t.co/qT7uG4CxQM"
     url: https://twitter.com/Talend/status/1040043144224681984
     time_stamp: "2018-09-12 18:03:03"
-  - title: "Find out how to create a #datalake that doesn't become a data swamp!
-      Watch now: https://t.co/2YSpxsnUnK... https://t.co/JCRQiW0mGL"
-    url: https://twitter.com/Talend/status/1039982743847886848
-    time_stamp: "2018-09-12 14:03:02"
-  - title: "RT @prussom: All kinds of IT systems are going cloud, including those
-      for #DataIntegration. Join me and folks from @Talend in a #TDWI webin..."
-    url: https://twitter.com/Talend/status/1039976212137881600
-    time_stamp: "2018-09-12 13:37:05"
-  - title: '.@LaurentBride shares how Talend chose its #opensource enterprise architecture
-      tools, via @TechTarget: https://t.co/leNZENcwXF'
-    url: https://twitter.com/Talend/status/1039941661516677120
-    time_stamp: "2018-09-12 11:19:47"
-  - title: "#StrataData: Dont miss @TDBank_US on how they modernized their data infrastructure
-      and built a true #datalake.  Jo... https://t.co/JceEEjJuwd"
-    url: https://twitter.com/Talend/status/1039925744661454848
-    time_stamp: "2018-09-12 10:16:33"
-  - title: "RT @MarkBalk: Metadata Management 101: What, Why and How. Why do we need
-      to manage #metadata? The basic answer is, #trust.\_ https://t.co/46..."
-    url: https://twitter.com/Talend/status/1039919989233315840
-    time_stamp: "2018-09-12 09:53:40"
   latest_github_activity:
   - title: build-travis-ci pushed to Talend/ui
     url: ""
