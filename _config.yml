@@ -765,6 +765,10 @@ partners:
     url: https://blog.axway.com/integration/hybrid-integration/hybrid-integration-platform-definition
     time_stamp: "2018-08-10 00:52:47"
   latest_tweets:
+  - title: "Come see us today at the #MidSizeSummit in San Diego hosted by  @TheChannelCo.
+      Visit booth #114 to learn how... https://t.co/e1BqJNLwx5"
+    url: https://twitter.com/Axway/status/1041688506274336769
+    time_stamp: "2018-09-17 07:01:08"
   - title: "#APIDaysAU is the country's largest conference for tech &amp; business
       \ professionals to converge about all things... https://t.co/GWD4fJZ1FY"
     url: https://twitter.com/Axway/status/1040994066908045312
@@ -861,10 +865,6 @@ partners:
       operational API and integration with... https://t.co/sAfNLLRbvh"
     url: https://twitter.com/Axway/status/1039235809356931073
     time_stamp: "2018-09-10 12:34:59"
-  - title: "#AWSsummit is just a days away! Will you be there?We would love to meet
-      with you. Click here for details.... https://t.co/xCemVL01wR"
-    url: https://twitter.com/Axway/status/1039215263973928960
-    time_stamp: "2018-09-10 11:13:21"
   latest_github_activity:
   - title: radokostadinov pushed to Axway/ats-framework
     url: ""
