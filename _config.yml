@@ -3300,6 +3300,18 @@ partners:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trading-central.jpeg
   image_width: "150"
   latest_blog:
+  - title: The Psychology Within Patterns
+    url: http://blog.tradingcentral.com/blog/the-psychology-within-patterns
+    time_stamp: "2018-09-14 15:00:00"
+  - title: Stock screen targets U.S. tech titans set for further growth
+    url: http://blog.tradingcentral.com/blog/stock-screen-targets-u.s.-tech-titans-set-for-further-growth
+    time_stamp: "2018-09-14 12:30:00"
+  - title: Uncovering hidden gems among U.S. momentum stocks
+    url: http://blog.tradingcentral.com/blog/uncovering-hidden-gems-among-u.s.-momentum-stocks
+    time_stamp: "2018-09-12 13:03:35"
+  - title: Guide to Elliott Wave Analysis
+    url: http://blog.tradingcentral.com/blog/guide-to-elliott-wave-analysis
+    time_stamp: "2018-09-12 12:00:00"
   - title: 'Riding The Wave: Making Elliott Wave Simple'
     url: http://blog.tradingcentral.com/blog/riding-the-wave-making-elliott-wave-simple
     time_stamp: "2018-08-24 10:56:46"
