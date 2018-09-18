@@ -765,6 +765,18 @@ partners:
     url: https://blog.axway.com/integration/hybrid-integration/hybrid-integration-platform-definition
     time_stamp: "2018-08-10 00:52:47"
   latest_tweets:
+  - title: "Meet Axway at #AWSTransformationDay in Munich Tuesday. Our experts are
+      on hand to discuss how to modernize &amp; thrive... https://t.co/UFBcluB9mr"
+    url: https://twitter.com/Axway/status/1041793974544031744
+    time_stamp: "2018-09-17 14:00:13"
+  - title: "How is traditional #APIsecurity failing the enterprise? Find out this
+      week at Axway's #APITalk ' How to detect &amp; b... https://t.co/lpcPDCahpP"
+    url: https://twitter.com/Axway/status/1041778277533179904
+    time_stamp: "2018-09-17 12:57:51"
+  - title: 'We had a blast @APIWorld this year in San Jose. Watch this video recap
+      of #apiworld18:  https://t.co/2ho0mKhlDu'
+    url: https://twitter.com/Axway/status/1041736909691617280
+    time_stamp: "2018-09-17 10:13:28"
   - title: "Come see us today at the #MidSizeSummit in San Diego hosted by  @TheChannelCo.
       Visit booth #114 to learn how... https://t.co/e1BqJNLwx5"
     url: https://twitter.com/Axway/status/1041688506274336769
@@ -853,18 +865,6 @@ partners:
       Learn how @Syncplicity by Axway can hel... https://t.co/QpQW6co1mk"
     url: https://twitter.com/Axway/status/1039560941778612225
     time_stamp: "2018-09-11 10:06:57"
-  - title: "RT @I_LOVE_NY: Today, we remember and honor those who lost their lives
-      in the tragic events of #September11th, 2001, as well as those who r..."
-    url: https://twitter.com/Axway/status/1039550907954810880
-    time_stamp: "2018-09-11 09:27:05"
-  - title: "API #analytics empower API program owners to customize reports with precise
-      data and conclusions that allow you to... https://t.co/J8HOXIz6Jr"
-    url: https://twitter.com/Axway/status/1039275737075699712
-    time_stamp: "2018-09-10 15:13:39"
-  - title: "Digitalized Managed File Transfer offers new technical capabilities like
-      operational API and integration with... https://t.co/sAfNLLRbvh"
-    url: https://twitter.com/Axway/status/1039235809356931073
-    time_stamp: "2018-09-10 12:34:59"
   latest_github_activity:
   - title: radokostadinov pushed to Axway/ats-framework
     url: ""
