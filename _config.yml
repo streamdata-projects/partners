@@ -2147,6 +2147,22 @@ partners:
     url: http://feedproxy.google.com/""r/SforceBlog/""3/OFq5s2Hmrn4/integrate-external-content-into-communities-using-cms-connect-json.html
     time_stamp: "2018-06-13 10:33:06"
   latest_tweets:
+  - title: "RT @WadeWegner: A fantastic new post from @emily_in_co with tips for keeping
+      your @salesforce org in good shape and best practices for depl..."
+    url: https://twitter.com/SalesforceDevs/status/1041849133613469696
+    time_stamp: "2018-09-17 17:39:24"
+  - title: "@Sweety_abhi @salesforce @SalesforceAdmns @trailhead @RADWomenCode @ArchLadies
+      @WITDEVS @SFDC_India_WIT @dazeworks... https://t.co/w2bJeWb9Yz"
+    url: https://twitter.com/SalesforceDevs/status/1041848961982529542
+    time_stamp: "2018-09-17 17:38:43"
+  - title: "Looking to make the leap from clicks to code? If youre attending #DF18,
+      these sessions will empower you to be a de... https://t.co/369AMm3wLO"
+    url: https://twitter.com/SalesforceDevs/status/1041782609351716864
+    time_stamp: "2018-09-17 13:15:04"
+  - title: "Did you know you can use the Salesforce CLI outside of Salesforce DX?
+      If youre coming to #DF18, find out just a fe... https://t.co/8yaBffRSf1"
+    url: https://twitter.com/SalesforceDevs/status/1041733564004491264
+    time_stamp: "2018-09-17 10:00:10"
   - title: "Thanks for joining us for Developer Preview Live! Check out our trailmix
       to learn more about the Winter 19 topics... https://t.co/5WVUpS0COx"
     url: https://twitter.com/SalesforceDevs/status/1040661481942130688
@@ -2231,22 +2247,6 @@ partners:
       for #DF18... any ideas on what kind of app you would like to see us..."
     url: https://twitter.com/SalesforceDevs/status/1037537633830764545
     time_stamp: "2018-09-05 20:07:03"
-  - title: "RT @JessBurkeSFDC: Winter 19 is almost here!  Join us for Release Readiness
-      Live from Sep14-20 and find out what features were most excit..."
-    url: https://twitter.com/SalesforceDevs/status/1037536680775888896
-    time_stamp: "2018-09-05 20:03:15"
-  - title: "In the Package Development Readiness Trailhead module, get ready to break
-      up your orgs metadata and adopt package... https://t.co/9OWmx2s4gQ"
-    url: https://twitter.com/SalesforceDevs/status/1037474959436607488
-    time_stamp: "2018-09-05 15:58:00"
-  - title: "We have even more new Trailhead modules for developers! Learn how to use
-      Violet to build voice skills for the Alexa... https://t.co/LqTifvMuCp"
-    url: https://twitter.com/SalesforceDevs/status/1037472523229650944
-    time_stamp: "2018-09-05 15:48:19"
-  - title: "Weve got a brand new Trailhead module for developers to learn the basics
-      of JavaScript! Module author @pchittum ta... https://t.co/reivaQFHjY"
-    url: https://twitter.com/SalesforceDevs/status/1037468026436812805
-    time_stamp: "2018-09-05 15:30:27"
   latest_github_activity:
   - title: studanshu pushed to salesforce/Argus
     url: ""
@@ -2751,6 +2751,50 @@ partners:
     url: http://feedproxy.google.com/""/ITkp7ombzWQ/sensors-environment-and-internet-of-things-iot
     time_stamp: "2016-12-08 11:59:54"
   latest_tweets:
+  - title: "RT @DailyDashboard: A study conducted by Talend found the majority of
+      businesses did not adhere to the data subject access request rule in..."
+    url: https://twitter.com/Talend/status/1041937266015268864
+    time_stamp: "2018-09-17 23:29:37"
+  - title: 'RT @jmichel_franco: Companies still struggling with some parts of GDPR
+      https://t.co/NbGZqKfvPE'
+    url: https://twitter.com/Talend/status/1041937183949516801
+    time_stamp: "2018-09-17 23:29:17"
+  - title: "RT @Talend: New episode of #ThinkFastTalkTech is out! We discuss #NetNeutrality,
+      #Cloud, #GDPR and more with @Talend CIO Eric Johnson. Wa..."
+    url: https://twitter.com/Talend/status/1041937092861878273
+    time_stamp: "2018-09-17 23:28:55"
+  - title: "RT @TalendCommunity: [Blog] #Howto Spot a DevOps Faker: 5 Questions, 5
+      Answers. @Nick_Piette \U0001F4CC https://t.co/FMam54Azmn https://t.co/8xUR5..."
+    url: https://twitter.com/Talend/status/1041903446037626880
+    time_stamp: "2018-09-17 21:15:13"
+  - title: '6 Benefits of Master Data Management  - https://t.co/EpCdssZtja     #MDM
+      #Cloud #DataGovernance https://t.co/a1hRmcCpTQ'
+    url: https://twitter.com/Talend/status/1041859859690471424
+    time_stamp: "2018-09-17 18:22:02"
+  - title: "Talend helps #healthcare analytics company gain insights from real-world
+      data in the #cloud -... https://t.co/HxnXo1kKcL"
+    url: https://twitter.com/Talend/status/1041826895850033153
+    time_stamp: "2018-09-17 16:11:02"
+  - title: "@raviprai_live Hi Ravi - we can put you in touch with the right person.
+      Would you DM us? We can collect some contac... https://t.co/YbR0d43JN6"
+    url: https://twitter.com/Talend/status/1041790193097789440
+    time_stamp: "2018-09-17 13:45:12"
+  - title: "The #Serverless approach makes data-driven strategies more sustainable
+      from a financial point of view. Learn more:... https://t.co/yaxPeRVBPZ"
+    url: https://twitter.com/Talend/status/1041767258853462016
+    time_stamp: "2018-09-17 12:14:04"
+  - title: 'RT @AMWitt: Companies Struggling to Comply with #GDPR #DSARs, According
+      to Latest Study by Talend https://t.co/jzHjnDdXBr via @dbtrends'
+    url: https://twitter.com/Talend/status/1041750934949310464
+    time_stamp: "2018-09-17 11:09:12"
+  - title: "The state of #GDPRCompliance is just dreadful, @Talend survey finds -
+      https://t.co/6Xz4IwCbYK#GDPR... https://t.co/2oTSKtuhOp"
+    url: https://twitter.com/Talend/status/1041727240504004608
+    time_stamp: "2018-09-17 09:35:03"
+  - title: "Join #dataintegration expert Darren Brunt for a unique perspective on
+      the benefits and implementation of... https://t.co/JqfttDdt1b"
+    url: https://twitter.com/Talend/status/1041689004104708097
+    time_stamp: "2018-09-17 07:03:06"
   - title: 'What to do with the data? The evolution of data platforms in a post #bigdata
       world - https://t.co/WN41s8WAjv'
     url: https://twitter.com/Talend/status/1041465254591516672
@@ -2807,50 +2851,6 @@ partners:
       in the #DevOps process. Heres how @talend did it. @LaurentBride #..."
     url: https://twitter.com/Talend/status/1040657799531786240
     time_stamp: "2018-09-14 10:45:28"
-  - title: 'How to Spot a #DevOps Faker: 5 Questions, 5 Answers - https://t.co/BWPLTgLW8K#API
-      #cloud https://t.co/3LlKWshOzo'
-    url: https://twitter.com/Talend/status/1040640093206327298
-    time_stamp: "2018-09-14 09:35:07"
-  - title: "9 Considerations for Marketers in the Age of Consumer #DataPrivacy Laws
-      - https://t.co/1fx2BdD8RE #GDPR... https://t.co/0SyurbfmCF"
-    url: https://twitter.com/Talend/status/1040601844010164224
-    time_stamp: "2018-09-14 07:03:07"
-  - title: 'Join The Data Platform as a Service #Webinar from @Datalytyx Combining
-      Technology from @Talend and @SnowflakeDB! https://t.co/Snc9GRCIRy'
-    url: https://twitter.com/Talend/status/1040580565123117056
-    time_stamp: "2018-09-14 05:38:34"
-  - title: "RT @TalendFR: NEWS: Une majorit\xE9 d'entreprises \xE9chouent \xE0
-      se conformer au #RGPD, selon une \xE9tude de @Talend - https://t.co/x81q9H1092#GDP..."
-    url: https://twitter.com/Talend/status/1040517152145645569
-    time_stamp: "2018-09-14 01:26:35"
-  - title: 'Revenue for #bigdata and business #analytics solutions to hit $27 billion
-      mark in the next four years - https://t.co/UvYvUdrU7P'
-    url: https://twitter.com/Talend/status/1040405522288136192
-    time_stamp: "2018-09-13 18:03:00"
-  - title: 'RT @datanami: Survey finds uneven #compliance with #GDPR #Talend #privacy
-      https://t.co/ddNSmWH1w3'
-    url: https://twitter.com/Talend/status/1040403590710407168
-    time_stamp: "2018-09-13 17:55:20"
-  - title: "[Blog] Creating Real-Time Anomaly Detection Pipelines with @awscloud and
-      @Talend Data Streams -... https://t.co/FgcBGY2z3H"
-    url: https://twitter.com/Talend/status/1040335315922313217
-    time_stamp: "2018-09-13 13:24:02"
-  - title: "[Webinar] Learn How to Combine #Geodata from Different Sources with Domain-specific
-      Applications. Watch now!... https://t.co/JKy3MaQDSs"
-    url: https://twitter.com/Talend/status/1040299838372552704
-    time_stamp: "2018-09-13 11:03:03"
-  - title: 'Five Things to Consider as #StrataData Kicks Off - https://t.co/84IJ1adWDF#Hadoop
-      #Cloud #AI #GDPR'
-    url: https://twitter.com/Talend/status/1040254548202405889
-    time_stamp: "2018-09-13 08:03:05"
-  - title: "NEWS: The Majority of Businesses are Failing to Comply with #GDPR, According
-      to New @Talend Research. Learn more:... https://t.co/h3EuYIwxrM"
-    url: https://twitter.com/Talend/status/1040217065888653312
-    time_stamp: "2018-09-13 05:34:09"
-  - title: "Ten enterprise trends that reflect the current state of #IoT Platform
-      as a Service - https://t.co/jLkG8TH2mO... https://t.co/qT7uG4CxQM"
-    url: https://twitter.com/Talend/status/1040043144224681984
-    time_stamp: "2018-09-12 18:03:03"
   latest_github_activity:
   - title: build-travis-ci pushed to Talend/ui
     url: ""
