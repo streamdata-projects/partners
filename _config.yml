@@ -2145,6 +2145,18 @@ partners:
     url: http://feedproxy.google.com/""r/SforceBlog/""3/OFq5s2Hmrn4/integrate-external-content-into-communities-using-cms-connect-json.html
     time_stamp: "2018-06-13 10:33:06"
   latest_tweets:
+  - title: "RT @danappleman: Hi @SalesforceDevs - Im pleased to announce the 4th edition
+      of Advanced Apex Programming just in time for #Dreamforce. Se..."
+    url: https://twitter.com/SalesforceDevs/status/1042268373009149952
+    time_stamp: "2018-09-18 21:25:19"
+  - title: "We're less than a week away from #DF18! Watch the Developer Keynote
+      from anywhere in the world. \U0001F30F Keep your calenda... https://t.co/8tJlnWIHY0"
+    url: https://twitter.com/SalesforceDevs/status/1042141451646328832
+    time_stamp: "2018-09-18 13:00:58"
+  - title: "@DipikaRajput94 @eternussolution @SalesforceU @trailhead @SFDC_Pune This
+      is wonderful! \U0001F64C"
+    url: https://twitter.com/SalesforceDevs/status/1042109432052600832
+    time_stamp: "2018-09-18 10:53:44"
   - title: "RT @WadeWegner: A fantastic new post from @emily_in_co with tips for keeping
       your @salesforce org in good shape and best practices for depl..."
     url: https://twitter.com/SalesforceDevs/status/1041849133613469696
@@ -2233,18 +2245,6 @@ partners:
       on how to best use Big Objects and Async... https://t.co/CcD2MCSMjl"
     url: https://twitter.com/SalesforceDevs/status/1037747287726931968
     time_stamp: "2018-09-06 10:00:08"
-  - title: "Empower everyone to build apps AND keep your app delivery \U0001F4AA !
-      Learn best practices for architectures &amp; governance f... https://t.co/rNXcVqkieg"
-    url: https://twitter.com/SalesforceDevs/status/1037732173435076608
-    time_stamp: "2018-09-06 09:00:04"
-  - title: "In 2 hours, well be going live with @salomaa @rschellack @_MichaelSalem
-      and @darabella to talk about creating Big... https://t.co/yrblhZqeBH"
-    url: https://twitter.com/SalesforceDevs/status/1037717084074070019
-    time_stamp: "2018-09-06 08:00:07"
-  - title: "RT @andyinthecloud: @WadeWegner and I are working on a mega demo session
-      for #DF18... any ideas on what kind of app you would like to see us..."
-    url: https://twitter.com/SalesforceDevs/status/1037537633830764545
-    time_stamp: "2018-09-05 20:07:03"
   latest_github_activity:
   - title: studanshu pushed to salesforce/Argus
     url: ""
@@ -2749,6 +2749,34 @@ partners:
     url: http://feedproxy.google.com/""/ITkp7ombzWQ/sensors-environment-and-internet-of-things-iot
     time_stamp: "2016-12-08 11:59:54"
   latest_tweets:
+  - title: 'How you store and manage your companys data determines #datasecurity,
+      work efficiency and access - https://t.co/4zUZEhnCKU#BigData #Cloud'
+    url: https://twitter.com/Talend/status/1042219474970202112
+    time_stamp: "2018-09-18 18:11:00"
+  - title: "How does #BigData and #IoT make the #football industry better? We introduce
+      you to the possibilities of @Talend wit... https://t.co/IJ9OIDCqWi"
+    url: https://twitter.com/Talend/status/1042143983974195200
+    time_stamp: "2018-09-18 13:11:02"
+  - title: 'Talend Speeds #ApacheSpark and #MachineLearning Implementations without
+      #Coding - https://t.co/QiE82ixhhu'
+    url: https://twitter.com/Talend/status/1042129632340914176
+    time_stamp: "2018-09-18 12:14:00"
+  - title: "[Blog] Creating Real-Time Anomaly Detection Pipelines with @awscloud and
+      @Talend Data Streams -... https://t.co/efameoqlbW"
+    url: https://twitter.com/Talend/status/1042089631146299392
+    time_stamp: "2018-09-18 09:35:03"
+  - title: 'RT @KentGraziano: #techTip Nice guide to loading #SaaS data into @SnowflakeDB
+      #BuiltForTheCloud #YourDataNoLimits https://t.co/RUSwUa0d0l'
+    url: https://twitter.com/Talend/status/1042083989786247168
+    time_stamp: "2018-09-18 09:12:38"
+  - title: "RT @TDWI: Using multiple cloud-based applications and online #DataSources?
+      Unify your #HybridData environments. Dont miss this #webinar wi..."
+    url: https://twitter.com/Talend/status/1042040224941924353
+    time_stamp: "2018-09-18 06:18:44"
+  - title: "NEWS: @Talend supports @LaMut_Generale for the implementation of a @awscloud
+      data lake to improve customer relation... https://t.co/eC8N1LlqCa"
+    url: https://twitter.com/Talend/status/1042024100284321792
+    time_stamp: "2018-09-18 05:14:40"
   - title: "RT @DailyDashboard: A study conducted by Talend found the majority of
       businesses did not adhere to the data subject access request rule in..."
     url: https://twitter.com/Talend/status/1041937266015268864
@@ -2821,34 +2849,6 @@ partners:
       @Talend study https://t.co/1DZCk3wV4t'
     url: https://twitter.com/Talend/status/1041116303564529664
     time_stamp: "2018-09-15 17:07:24"
-  - title: 'Who is responsible for #cybersecurity in the enterprise? https://t.co/6Aij1APaSJ#CTO
-      #CIO #GDPR'
-    url: https://twitter.com/Talend/status/1041042473445928960
-    time_stamp: "2018-09-15 12:14:01"
-  - title: "[Blog] Key Considerations for Converting Legacy #ETL to Modern ETL - https://t.co/JTghPKkwt7
-      #DataIntegration... https://t.co/lv4V0tvTTD"
-    url: https://twitter.com/Talend/status/1041002462541479937
-    time_stamp: "2018-09-15 09:35:02"
-  - title: 'How you store and manage your companys data determines #datasecurity,
-      work efficiency and access - https://t.co/4zUZEhnCKU#BigData'
-    url: https://twitter.com/Talend/status/1040964217195712517
-    time_stamp: "2018-09-15 07:03:04"
-  - title: "Revenues from 2018 Australian #publiccloud spend are pinned as AU$4.6
-      billion, expected to tip AU$7 billion come 20... https://t.co/aZsuYt0WKo"
-    url: https://twitter.com/Talend/status/1040769921263788033
-    time_stamp: "2018-09-14 18:11:00"
-  - title: "Modernize your architecture with Talend and @awscloud so you can integrate,
-      validate and process #bigdata at scale... https://t.co/QKkolWwSlx"
-    url: https://twitter.com/Talend/status/1040707521185542144
-    time_stamp: "2018-09-14 14:03:03"
-  - title: '#MapReduce 101: What It Is &amp; How to Get Started - https://t.co/iBzLGKQxJb
-      https://t.co/uex4buNS8f'
-    url: https://twitter.com/Talend/status/1040680087077744643
-    time_stamp: "2018-09-14 12:14:02"
-  - title: "RT @DevOpsAgenda: How do you assess open source options? Its a key step
-      in the #DevOps process. Heres how @talend did it. @LaurentBride #..."
-    url: https://twitter.com/Talend/status/1040657799531786240
-    time_stamp: "2018-09-14 10:45:28"
   latest_github_activity:
   - title: build-travis-ci pushed to Talend/ui
     url: ""
