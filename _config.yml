@@ -1756,6 +1756,17 @@ partners:
     url: http://blog.getpostman.com/2018/04/11/looping-through-a-data-file-in-the-postman-collection-runner/
     time_stamp: "2018-04-10 13:42:03"
   latest_tweets:
+  - title: "Postman ' a beacon of hope in a world of API darkness. https://t.co/zQbUPKHeVU"
+    url: https://twitter.com/postmanclient/status/1042840868288430081
+    time_stamp: "2018-09-20 11:20:12"
+  - title: "Check out this article by @a85 about how the GDPR regulations have impacted
+      APIs and how things may pan out in the... https://t.co/KQjDxSAtiY"
+    url: https://twitter.com/postmanclient/status/1042793068842442752
+    time_stamp: "2018-09-20 08:10:16"
+  - title: Treat yourself to Postman stickers, water bottles, socks, and more from
+      our swag store! https://t.co/Yzx3bsXJgx https://t.co/tq19Gu06RK
+    url: https://twitter.com/postmanclient/status/1042610570627829762
+    time_stamp: "2018-09-19 20:05:05"
   - title: "These are the first 5 things to try if you're new to Postman! https://t.co/27JMLnDBSd"
     url: https://twitter.com/postmanclient/status/1042508673199812608
     time_stamp: "2018-09-19 13:20:11"
@@ -1843,17 +1854,6 @@ partners:
       will share his tips for building great APIs to... https://t.co/xeD2xtEDdU"
     url: https://twitter.com/postmanclient/status/1039634832626802689
     time_stamp: "2018-09-11 15:00:34"
-  - title: 'The documentation *is* a part of the API. @PetuniaGray #APIWORLD18 https://t.co/NhveN3kb1c'
-    url: https://twitter.com/postmanclient/status/1039584127790407680
-    time_stamp: "2018-09-11 11:39:05"
-  - title: "RT @meetdemio: We had a super great chat with Kasey Byrne \U0001F64C  from
-      @postmanclient speaking about creating a tool to solve your own pain poin..."
-    url: https://twitter.com/postmanclient/status/1039580627849306112
-    time_stamp: "2018-09-11 11:25:10"
-  - title: 'RT @MariyaGil: #APIWORLD18 Implement your consumer driven contracts with
-      #postman @postmanclient @APIWorld https://t.co/d2UPADa9Y4'
-    url: https://twitter.com/postmanclient/status/1039578325117628416
-    time_stamp: "2018-09-11 11:16:01"
   latest_github_activity:
   - title: postmanlabs/newman being watched by EXPurity
     url: ""
