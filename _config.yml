@@ -1756,6 +1756,26 @@ partners:
     url: http://blog.getpostman.com/2018/04/11/looping-through-a-data-file-in-the-postman-collection-runner/
     time_stamp: "2018-04-10 13:42:03"
   latest_tweets:
+  - title: 'Join the Postman and @zillow team on Wednesday, October 10th at Zillows
+      San Francisco office! Register here: https://t.co/qHkCGJyACo'
+    url: https://twitter.com/postmanclient/status/1043233435408625666
+    time_stamp: "2018-09-21 13:20:07"
+  - title: "RT @datreeio: #postman is amazing! Who else like @postmanclient? Today
+      our co-founders met with @a85 #apisdonthavetosuck #gitops https://t...."
+    url: https://twitter.com/postmanclient/status/1043202777264975872
+    time_stamp: "2018-09-21 11:18:18"
+  - title: "RT @vk_aegis: Use @postmanclient and been craving a way to version and
+      manage changes to your work? Weve just released a public RFC:http..."
+    url: https://twitter.com/postmanclient/status/1043189318125113344
+    time_stamp: "2018-09-21 10:24:49"
+  - title: "Check out @kinlanes article about why you should have an @OpenApiSpec
+      and Postman Collection if you truly want to... https://t.co/QbCELHpWax"
+    url: https://twitter.com/postmanclient/status/1043157970639626242
+    time_stamp: "2018-09-21 08:20:15"
+  - title: "Tests ensure that your #API is working as intended. You can write and
+      run tests in Postman for each request. Learn... https://t.co/0YAD4Bn8RQ"
+    url: https://twitter.com/postmanclient/status/1042976741336211457
+    time_stamp: "2018-09-20 20:20:07"
   - title: "Postman ' a beacon of hope in a world of API darkness. https://t.co/zQbUPKHeVU"
     url: https://twitter.com/postmanclient/status/1042840868288430081
     time_stamp: "2018-09-20 11:20:12"
@@ -1834,26 +1854,6 @@ partners:
       of Customer Success @ssisodiya having a blast at... https://t.co/9o3h0ZPyPp"
     url: https://twitter.com/postmanclient/status/1039991155876945922
     time_stamp: "2018-09-12 14:36:28"
-  - title: "RT @ladellerby: \u2066\u2066@postmanclient\u2069 we have liftoff! \u2066@APIWorld\u2069
-      #APIWorld18 \u2066@mindbodypowered\u2069 \u2066@a85\u2069 https://t.co/26CIsnP4YU"
-    url: https://twitter.com/postmanclient/status/1039961609047703552
-    time_stamp: "2018-09-12 12:39:03"
-  - title: 'RT @kaseybyrne: Having fun in front of the @postmanclient photobooth at
-      #APIWORLD18 https://t.co/gACHLYN53y'
-    url: https://twitter.com/postmanclient/status/1039946254300602368
-    time_stamp: "2018-09-12 11:38:02"
-  - title: "Today's the final day of #APIWorld18 - don't forget to stop
-      by our booth and grab swag, chat APIs with our team, or... https://t.co/LXbUDVUFVw"
-    url: https://twitter.com/postmanclient/status/1039902782814400513
-    time_stamp: "2018-09-12 08:45:18"
-  - title: 'Excited to be named Best in API Infrastructure for the 2018 API Awards
-      at #APIWorld18! Thanks @APIWorld! https://t.co/S6wDXyEeeU'
-    url: https://twitter.com/postmanclient/status/1039895218005463042
-    time_stamp: "2018-09-12 08:15:14"
-  - title: "Dont miss our CEO &amp; Co-founder, @a85s #APIWorld18 keynote. Abhinav
-      will share his tips for building great APIs to... https://t.co/xeD2xtEDdU"
-    url: https://twitter.com/postmanclient/status/1039634832626802689
-    time_stamp: "2018-09-11 15:00:34"
   latest_github_activity:
   - title: postmanlabs/newman being watched by EXPurity
     url: ""
@@ -2668,7 +2668,7 @@ partners:
   description: Talend open source integration software offers real-time solutions
     for all types of data integration. Learn more about the benefits of Hadoop and
     Spark.
-  url: ""
+  url: https://api.github.com/repos/Talend/ui/issues/comments/423565445
   email: info@talend.com
   blog_url: http://www.talend.com/blog
   blog_rss_url: http://feeds.feedburner.com/Talend
@@ -2847,154 +2847,76 @@ partners:
     url: https://twitter.com/Talend/status/1041937092861878273
     time_stamp: "2018-09-17 23:28:55"
   latest_github_activity:
-  - title: build-travis-ci pushed to Talend/ui
+  - title: mtuhai pushed to Talend/tbd-studio-se
     url: ""
-    time_stamp: "2018-08-15"
+    time_stamp: "2018-09-21"
     type: PushEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: build-travis-ci commented on an issue for Talend/ui
-    url: https://api.github.com/repos/Talend/ui/issues/comments/413420569
-    time_stamp: "2018-08-15"
-    type: IssueCommentEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: build-travis-ci pushed to Talend/ui
+    user_name: mtuhai
+    repo: Talend/tbd-studio-se
+  - title: hmdebenque pushed to Talend/data-prep
     url: ""
-    time_stamp: "2018-08-15"
+    time_stamp: "2018-09-21"
     type: PushEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: build-travis-ci commented on an issue for Talend/ui
-    url: https://api.github.com/repos/Talend/ui/issues/comments/413418924
-    time_stamp: "2018-08-15"
-    type: IssueCommentEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: build-travis-ci pushed to Talend/ui
+    user_name: hmdebenque
+    repo: Talend/data-prep
+  - title: pbailly pushed to Talend/connectors-se
     url: ""
-    time_stamp: "2018-08-15"
+    time_stamp: "2018-09-21"
     type: PushEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: build-travis-ci commented on an issue for Talend/ui
-    url: https://api.github.com/repos/Talend/ui/issues/comments/413418251
-    time_stamp: "2018-08-15"
-    type: IssueCommentEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: build-travis-ci pushed to Talend/ui
+    user_name: pbailly
+    repo: Talend/connectors-se
+  - title: akhabali pushed to Talend/tdi-studio-se
     url: ""
-    time_stamp: "2018-08-15"
+    time_stamp: "2018-09-21"
     type: PushEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: build-travis-ci commented on an issue for Talend/ui
-    url: https://api.github.com/repos/Talend/ui/issues/comments/413416589
-    time_stamp: "2018-08-15"
-    type: IssueCommentEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: build-travis-ci pushed to Talend/ui
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PushEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: xldai pushed to Talend/tesb-rt-se
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PushEvent
-    user_name: xldai
-    repo: Talend/tesb-rt-se
-  - title: build-travis-ci commented on an issue for Talend/ui
-    url: https://api.github.com/repos/Talend/ui/issues/comments/413416001
-    time_stamp: "2018-08-15"
-    type: IssueCommentEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: build-travis-ci pushed to Talend/ui
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PushEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: build-travis-ci commented on an issue for Talend/ui
-    url: https://api.github.com/repos/Talend/ui/issues/comments/413413944
-    time_stamp: "2018-08-15"
-    type: IssueCommentEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: build-travis-ci pushed to Talend/ui
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PushEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: build-travis-ci commented on an issue for Talend/ui
-    url: https://api.github.com/repos/Talend/ui/issues/comments/413412982
-    time_stamp: "2018-08-15"
-    type: IssueCommentEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: build-travis-ci pushed to Talend/ui
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PushEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: cmeng-talend pushed to Talend/tcommon-studio-se
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PushEvent
-    user_name: cmeng-talend
-    repo: Talend/tcommon-studio-se
-  - title: cmeng-talend made a pull request on Talend/tcommon-studio-se
-    url: https://github.com/Talend/tcommon-studio-se/pull/1814
-    time_stamp: "2018-08-15"
+    user_name: akhabali
+    repo: Talend/tdi-studio-se
+  - title: akhabali made a pull request on Talend/tdi-studio-se
+    url: https://github.com/Talend/tdi-studio-se/pull/2709
+    time_stamp: "2018-09-21"
     type: PullRequestEvent
-    user_name: cmeng-talend
-    repo: Talend/tcommon-studio-se
-  - title: build-travis-ci commented on an issue for Talend/ui
-    url: https://api.github.com/repos/Talend/ui/issues/comments/413411530
-    time_stamp: "2018-08-15"
-    type: IssueCommentEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: zfkang-talend made a pull request on Talend/tmdm-server-se
-    url: https://github.com/Talend/tmdm-server-se/pull/603
-    time_stamp: "2018-08-15"
+    user_name: akhabali
+    repo: Talend/tdi-studio-se
+  - title: tacokit pushed to Talend/component-runtime
+    url: ""
+    time_stamp: "2018-09-21"
+    type: PushEvent
+    user_name: tacokit
+    repo: Talend/component-runtime
+  - title: yacarof pushed to Talend/data-prep
+    url: ""
+    time_stamp: "2018-09-21"
+    type: PushEvent
+    user_name: yacarof
+    repo: Talend/data-prep
+  - title: tacokit pushed to Talend/component-runtime
+    url: ""
+    time_stamp: "2018-09-21"
+    type: PushEvent
+    user_name: tacokit
+    repo: Talend/component-runtime
+  - title: yu-talend made a pull request on Talend/tbd-studio-se
+    url: https://github.com/Talend/tbd-studio-se/pull/868
+    time_stamp: "2018-09-21"
     type: PullRequestEvent
-    user_name: zfkang-talend
-    repo: Talend/tmdm-server-se
-  - title: build-travis-ci pushed to Talend/ui
+    user_name: yu-talend
+    repo: Talend/tbd-studio-se
+  - title: sizhaoliu pushed to Talend/data-quality
     url: ""
-    time_stamp: "2018-08-15"
+    time_stamp: "2018-09-21"
     type: PushEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
+    user_name: sizhaoliu
+    repo: Talend/data-quality
+  - title: rmannibucau pushed to Talend/component-runtime
+    url: ""
+    time_stamp: "2018-09-21"
+    type: PushEvent
+    user_name: rmannibucau
+    repo: Talend/component-runtime
   - title: build-travis-ci commented on an issue for Talend/ui
-    url: https://api.github.com/repos/Talend/ui/issues/comments/413409923
-    time_stamp: "2018-08-15"
+    url: https://api.github.com/repos/Talend/ui/issues/comments/423565445
+    time_stamp: "2018-09-21"
     type: IssueCommentEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: build-travis-ci pushed to Talend/ui
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PushEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: build-travis-ci commented on an issue for Talend/ui
-    url: https://api.github.com/repos/Talend/ui/issues/comments/413408513
-    time_stamp: "2018-08-15"
-    type: IssueCommentEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: build-travis-ci pushed to Talend/ui
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PushEvent
     user_name: build-travis-ci
     repo: Talend/ui
   latest_reddit_searches: []
