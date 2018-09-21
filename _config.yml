@@ -2405,6 +2405,10 @@ partners:
     url: https://blog.stoplight.io/stoplight-windows-and-linux-97fe9bdbb5e7?source=rss----9be7d78deaf4---4
     time_stamp: "2016-07-25 10:28:55"
   latest_tweets:
+  - title: "RT @OpenApiSpec: Wanted to share sneak-peak pic of the fun well be having
+      next week at #apistrat. Register today and join the chorus of..."
+    url: https://twitter.com/stoplightio/status/1043258989902028800
+    time_stamp: "2018-09-21 15:01:40"
   - title: "We are really excited to share the evolution of Documentation at Stoplight
       as well as some of the performance impro... https://t.co/muJoRjZOMs"
     url: https://twitter.com/stoplightio/status/1042115939595112450
@@ -2500,11 +2504,6 @@ partners:
       via @stoplightio https://t.co/ZrLloXMAji"
     url: https://twitter.com/stoplightio/status/1033064606833553408
     time_stamp: "2018-08-24 11:52:50"
-  - title: "RT @stoplightio: Turn \U0001F630 into \U0001F600 with your documentation.
-      Read more in Part Two of Writing Documentation When You Aren't A Technical
-      Writer..."
-    url: https://twitter.com/stoplightio/status/1032689838766649344
-    time_stamp: "2018-08-23 11:03:38"
   latest_github_activity:
   - title: lottamus pushed to stoplightio/js-coding-challenge
     url: ""
