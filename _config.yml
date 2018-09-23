@@ -2847,24 +2847,48 @@ partners:
     url: https://twitter.com/Talend/status/1042821470907457537
     time_stamp: "2018-09-20 10:03:08"
   latest_github_activity:
-  - title: mtuhai pushed to Talend/tbd-studio-se
+  - title: fhuaulme pushed to Talend/data-prep
     url: ""
-    time_stamp: "2018-09-22"
+    time_stamp: "2018-09-23"
     type: PushEvent
-    user_name: mtuhai
-    repo: Talend/tbd-studio-se
-  - title: Talend/components being watched by firemound
+    user_name: fhuaulme
+    repo: Talend/data-prep
+  - title: fhuaulme pushed to Talend/data-prep
     url: ""
-    time_stamp: "2018-09-22"
-    type: WatchEvent
-    user_name: firemound
-    repo: Talend/components
-  - title: Talend/component-runtime was forked by component-runtime
+    time_stamp: "2018-09-23"
+    type: PushEvent
+    user_name: fhuaulme
+    repo: Talend/data-prep
+  - title: Voievidko pushed to Talend/tdi-studio-se
     url: ""
-    time_stamp: "2018-09-22"
-    type: ForkEvent
-    user_name: component-runtime
-    repo: Talend/component-runtime
+    time_stamp: "2018-09-23"
+    type: PushEvent
+    user_name: Voievidko
+    repo: Talend/tdi-studio-se
+  - title: Voievidko pushed to Talend/tdi-studio-se
+    url: ""
+    time_stamp: "2018-09-23"
+    type: PushEvent
+    user_name: Voievidko
+    repo: Talend/tdi-studio-se
+  - title: Voievidko pushed to Talend/tdi-studio-se
+    url: ""
+    time_stamp: "2018-09-23"
+    type: PushEvent
+    user_name: Voievidko
+    repo: Talend/tdi-studio-se
+  - title: ilazebny pushed to Talend/tesb-rt-se
+    url: ""
+    time_stamp: "2018-09-23"
+    type: PushEvent
+    user_name: ilazebny
+    repo: Talend/tesb-rt-se
+  - title: xldai pushed to Talend/tesb-rt-se
+    url: ""
+    time_stamp: "2018-09-23"
+    type: PushEvent
+    user_name: xldai
+    repo: Talend/tesb-rt-se
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
