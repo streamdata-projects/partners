@@ -765,6 +765,10 @@ partners:
     url: https://blog.axway.com/integration/hybrid-integration/hybrid-integration-platform-definition
     time_stamp: "2018-08-10 00:52:47"
   latest_tweets:
+  - title: "Come see us at the @IDC #DigitalTransformation Summit 2018 in Singapore.
+      Stop by our booth or schedule a meeting he... https://t.co/PRVwfjU3uY"
+    url: https://twitter.com/Axway/status/1044261297792008192
+    time_stamp: "2018-09-24 09:24:29"
   - title: "With the proper API governance in place, you are on the right path for
       a secure #API. Learn more in our latest blog... https://t.co/dfjcOKpyvn"
     url: https://twitter.com/Axway/status/1043232689472528385
@@ -861,10 +865,6 @@ partners:
       \ firms race to protect computer systems and n... https://t.co/L1x6Ce4Djf"
     url: https://twitter.com/Axway/status/1040340796388462592
     time_stamp: "2018-09-13 13:45:49"
-  - title: 'RT @Forbes: The top #Cloud100 companies:1. Stripe2. Slack3. Zoomhttps://t.co/s79CfnT5u2
-      https://t.co/h9Q8r8XfZw'
-    url: https://twitter.com/Axway/status/1040322529020149760
-    time_stamp: "2018-09-13 12:33:13"
   latest_github_activity:
   - title: radokostadinov pushed to Axway/ats-framework
     url: ""
