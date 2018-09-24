@@ -2851,48 +2851,54 @@ partners:
     url: https://twitter.com/Talend/status/1042943613716422656
     time_stamp: "2018-09-20 18:08:29"
   latest_github_activity:
+  - title: Voievidko pushed to Talend/tdi-studio-se
+    url: ""
+    time_stamp: "2018-09-24"
+    type: PushEvent
+    user_name: Voievidko
+    repo: Talend/tdi-studio-se
+  - title: Voievidko pushed to Talend/tdi-studio-se
+    url: ""
+    time_stamp: "2018-09-24"
+    type: PushEvent
+    user_name: Voievidko
+    repo: Talend/tdi-studio-se
+  - title: tacokit pushed to Talend/component-runtime
+    url: ""
+    time_stamp: "2018-09-24"
+    type: PushEvent
+    user_name: tacokit
+    repo: Talend/component-runtime
+  - title: build-talend-common commented on an issue for Talend/daikon
+    url: https://api.github.com/repos/Talend/daikon/issues/comments/424063508
+    time_stamp: "2018-09-24"
+    type: IssueCommentEvent
+    user_name: build-talend-common
+    repo: Talend/daikon
+  - title: rmannibucau pushed to Talend/component-runtime
+    url: ""
+    time_stamp: "2018-09-24"
+    type: PushEvent
+    user_name: rmannibucau
+    repo: Talend/component-runtime
+  - title: gmzoughi made a pull request on Talend/daikon
+    url: https://github.com/Talend/daikon/pull/403
+    time_stamp: "2018-09-24"
+    type: PullRequestEvent
+    user_name: gmzoughi
+    repo: Talend/daikon
   - title: fhuaulme pushed to Talend/data-prep
     url: ""
-    time_stamp: "2018-09-23"
+    time_stamp: "2018-09-24"
     type: PushEvent
     user_name: fhuaulme
     repo: Talend/data-prep
-  - title: fhuaulme pushed to Talend/data-prep
+  - title: dmytro-sylaiev pushed to Talend/connectors-se
     url: ""
-    time_stamp: "2018-09-23"
+    time_stamp: "2018-09-24"
     type: PushEvent
-    user_name: fhuaulme
-    repo: Talend/data-prep
-  - title: Voievidko pushed to Talend/tdi-studio-se
-    url: ""
-    time_stamp: "2018-09-23"
-    type: PushEvent
-    user_name: Voievidko
-    repo: Talend/tdi-studio-se
-  - title: Voievidko pushed to Talend/tdi-studio-se
-    url: ""
-    time_stamp: "2018-09-23"
-    type: PushEvent
-    user_name: Voievidko
-    repo: Talend/tdi-studio-se
-  - title: Voievidko pushed to Talend/tdi-studio-se
-    url: ""
-    time_stamp: "2018-09-23"
-    type: PushEvent
-    user_name: Voievidko
-    repo: Talend/tdi-studio-se
-  - title: ilazebny pushed to Talend/tesb-rt-se
-    url: ""
-    time_stamp: "2018-09-23"
-    type: PushEvent
-    user_name: ilazebny
-    repo: Talend/tesb-rt-se
-  - title: xldai pushed to Talend/tesb-rt-se
-    url: ""
-    time_stamp: "2018-09-23"
-    type: PushEvent
-    user_name: xldai
-    repo: Talend/tesb-rt-se
+    user_name: dmytro-sylaiev
+    repo: Talend/connectors-se
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
