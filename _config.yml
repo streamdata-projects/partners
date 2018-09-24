@@ -1762,6 +1762,10 @@ partners:
     url: http://blog.getpostman.com/2018/04/11/looping-through-a-data-file-in-the-postman-collection-runner/
     time_stamp: "2018-04-10 13:42:03"
   latest_tweets:
+  - title: "Dont miss our Developer Advocate, @PetuniaGrays talk, If an API Falls
+      in a Forest and No One is Around to Use it... https://t.co/Bg3fTkliOA"
+    url: https://twitter.com/postmanclient/status/1044257331524112384
+    time_stamp: "2018-09-24 09:08:43"
   - title: Read about how @lucid_hq relies on Postman throughout the entire sales
       cycle. https://t.co/ERbhe9MAEP
     url: https://twitter.com/postmanclient/status/1043342886983684096
@@ -1855,11 +1859,6 @@ partners:
       at @APIWorld!Sporting my @postmanclient hat!From Left to..."
     url: https://twitter.com/postmanclient/status/1040044472871018496
     time_stamp: "2018-09-12 18:08:20"
-  - title: "RT @XBOSoft: Our CEO \u2066@philiplew\u2069 getting too serious discussing
-      #APITesting with our orange brothers at \u2066@postmanclient\u2069 Postman.
-      APITesti..."
-    url: https://twitter.com/postmanclient/status/1039995699507544064
-    time_stamp: "2018-09-12 14:54:31"
   latest_github_activity:
   - title: postmanlabs/newman being watched by EXPurity
     url: ""
@@ -2411,6 +2410,13 @@ partners:
     url: https://blog.stoplight.io/stoplight-windows-and-linux-97fe9bdbb5e7?source=rss----9be7d78deaf4---4
     time_stamp: "2016-07-25 10:28:55"
   latest_tweets:
+  - title: '@NScottClayton Yes - but support@stoplight.io is an even better place!'
+    url: https://twitter.com/stoplightio/status/1044333916088340480
+    time_stamp: "2018-09-24 14:13:03"
+  - title: "RT @LukasRosenstock: Nice @thenewstack podcast \U0001F3A7 episode (\u25B6\uFE0F
+      18 min) with @taylor_atx of @stoplightio talking about design-driven #API deve..."
+    url: https://twitter.com/stoplightio/status/1044333791035228161
+    time_stamp: "2018-09-24 14:12:33"
   - title: "RT @OpenApiSpec: Wanted to share sneak-peak pic of the fun well be having
       next week at #apistrat. Register today and join the chorus of..."
     url: https://twitter.com/stoplightio/status/1043258989902028800
@@ -2502,14 +2508,6 @@ partners:
       an absolute necessity, and how to craft them well.
     url: https://twitter.com/stoplightio/status/1034137972185214978
     time_stamp: "2018-08-27 10:58:00"
-  - title: "The Arrival of REST by @HeyChelseaTroy https://t.co/DUCDHT4RFuREST is
-      based on the idea that you should send dat... https://t.co/qwczQp8ar3"
-    url: https://twitter.com/stoplightio/status/1034118854111318016
-    time_stamp: "2018-08-27 09:42:02"
-  - title: "RT @cra: Writing Documentation When You Aren't A Technical Writer\u200A
-      via @stoplightio https://t.co/ZrLloXMAji"
-    url: https://twitter.com/stoplightio/status/1033064606833553408
-    time_stamp: "2018-08-24 11:52:50"
   latest_github_activity:
   - title: lottamus pushed to stoplightio/js-coding-challenge
     url: ""
