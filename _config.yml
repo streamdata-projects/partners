@@ -174,6 +174,18 @@ partners:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-logo.png
   image_width: "150"
   latest_blog:
+  - title: Meet the Newest AWS Heroes (September 2018 Edition)
+    url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/4arGSwqdnKQ/
+    time_stamp: "2018-09-21 08:05:02"
+  - title: "New ' Parallel Query for Amazon Aurora"
+    url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/G8jHzCmgma0/
+    time_stamp: "2018-09-20 14:54:13"
+  - title: "AWS Data Transfer Price Reductions ' Up to 34% (Japan) and 28% (Australia)"
+    url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/ZxGw2sSCVTs/
+    time_stamp: "2018-09-19 08:31:46"
+  - title: "New ' AWS Storage Gateway Hardware Appliance"
+    url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/OepuGFtxj6c/
+    time_stamp: "2018-09-18 12:46:23"
   - title: "New ' AWS Systems Manager Session Manager for Shell Access to EC2
       Instances"
     url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/sBOoDnFbR_M/
@@ -243,12 +255,6 @@ partners:
   - title: "Amazon Polly Update ' TimeDriven Prosody and Asynchronous Synthesis"
     url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/GnnxvEdn-o8/
     time_stamp: "2018-07-17 11:56:45"
-  - title: "Amazon EC2 Instance Update ' Faster Processors and More Memory"
-    url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/uGr9Ozu5zVE/
-    time_stamp: "2018-07-17 08:13:36"
-  - title: "New ' EC2 Compute Instances for AWS Snowball Edge"
-    url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/9b3U_AdLkdI/
-    time_stamp: "2018-07-17 07:43:28"
   latest_tweets:
   - title: "TFG Co: Supporting gamers all around the world using cluster of Kubernetes
       &amp; several AWS regions.... https://t.co/xjBLE8PIba"
