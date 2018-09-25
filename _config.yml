@@ -3200,6 +3200,15 @@ partners:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trading-central.jpeg
   image_width: "150"
   latest_blog:
+  - title: U.S. Markets Week in Review
+    url: http://blog.tradingcentral.com/blog/u.s.-markets-week-in-review-sept-24-2018
+    time_stamp: "2018-09-24 08:01:05"
+  - title: The Needs Of Consumers In A World Of Volatile Markets
+    url: http://blog.tradingcentral.com/blog/the-needs-of-consumers-in-a-world-of-volatile-markets
+    time_stamp: "2018-09-22 14:00:00"
+  - title: Seeking stocks that offer strong dividends and downside protection
+    url: http://blog.tradingcentral.com/blog/seeking-stocks-that-offer-strong-dividends-and-downside-protection
+    time_stamp: "2018-09-20 09:30:00"
   - title: The Psychology Within Patterns
     url: http://blog.tradingcentral.com/blog/the-psychology-within-patterns
     time_stamp: "2018-09-14 15:00:00"
