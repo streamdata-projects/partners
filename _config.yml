@@ -2851,54 +2851,90 @@ partners:
     url: https://twitter.com/Talend/status/1042943613716422656
     time_stamp: "2018-09-20 18:08:29"
   latest_github_activity:
-  - title: Voievidko pushed to Talend/tdi-studio-se
-    url: ""
-    time_stamp: "2018-09-24"
-    type: PushEvent
-    user_name: Voievidko
-    repo: Talend/tdi-studio-se
-  - title: Voievidko pushed to Talend/tdi-studio-se
-    url: ""
-    time_stamp: "2018-09-24"
-    type: PushEvent
-    user_name: Voievidko
-    repo: Talend/tdi-studio-se
-  - title: tacokit pushed to Talend/component-runtime
-    url: ""
-    time_stamp: "2018-09-24"
-    type: PushEvent
-    user_name: tacokit
-    repo: Talend/component-runtime
-  - title: build-talend-common commented on an issue for Talend/daikon
-    url: https://api.github.com/repos/Talend/daikon/issues/comments/424063508
-    time_stamp: "2018-09-24"
+  - title: build-travis-ci commented on an issue for Talend/ui
+    url: https://api.github.com/repos/Talend/ui/issues/comments/424503938
+    time_stamp: "2018-09-25"
     type: IssueCommentEvent
-    user_name: build-talend-common
-    repo: Talend/daikon
-  - title: rmannibucau pushed to Talend/component-runtime
+    user_name: build-travis-ci
+    repo: Talend/ui
+  - title: build-travis-ci commented on an issue for Talend/ui
+    url: https://api.github.com/repos/Talend/ui/issues/comments/424501334
+    time_stamp: "2018-09-25"
+    type: IssueCommentEvent
+    user_name: build-travis-ci
+    repo: Talend/ui
+  - title: build-travis-ci pushed to Talend/ui
     url: ""
-    time_stamp: "2018-09-24"
+    time_stamp: "2018-09-25"
     type: PushEvent
+    user_name: build-travis-ci
+    repo: Talend/ui
+  - title: rmannibucau made a pull request on Talend/ui
+    url: https://github.com/Talend/ui/pull/1714
+    time_stamp: "2018-09-25"
+    type: PullRequestEvent
     user_name: rmannibucau
-    repo: Talend/component-runtime
-  - title: gmzoughi made a pull request on Talend/daikon
-    url: https://github.com/Talend/daikon/pull/403
-    time_stamp: "2018-09-24"
+    repo: Talend/ui
+  - title: arunjadhavt made a pull request on Talend/talend-cloud-installer
+    url: https://github.com/Talend/talend-cloud-installer/pull/199
+    time_stamp: "2018-09-25"
+    type: PullRequestEvent
+    user_name: arunjadhavt
+    repo: Talend/talend-cloud-installer
+  - title: arunjadhavt made a pull request on Talend/talend-cloud-installer
+    url: https://github.com/Talend/talend-cloud-installer/pull/202
+    time_stamp: "2018-09-25"
+    type: PullRequestEvent
+    user_name: arunjadhavt
+    repo: Talend/talend-cloud-installer
+  - title: slushatel pushed to Talend/connectors-se
+    url: ""
+    time_stamp: "2018-09-25"
+    type: PushEvent
+    user_name: slushatel
+    repo: Talend/connectors-se
+  - title: mtuhai pushed to Talend/tbd-studio-se
+    url: ""
+    time_stamp: "2018-09-25"
+    type: PushEvent
+    user_name: mtuhai
+    repo: Talend/tbd-studio-se
+  - title: gmzoughi made a pull request on Talend/data-quality
+    url: https://github.com/Talend/data-quality/pull/455
+    time_stamp: "2018-09-25"
     type: PullRequestEvent
     user_name: gmzoughi
-    repo: Talend/daikon
-  - title: fhuaulme pushed to Talend/data-prep
+    repo: Talend/data-quality
+  - title: tlnd-jbrun pushed to Talend/data-prep
     url: ""
-    time_stamp: "2018-09-24"
+    time_stamp: "2018-09-25"
     type: PushEvent
-    user_name: fhuaulme
+    user_name: tlnd-jbrun
     repo: Talend/data-prep
-  - title: dmytro-sylaiev pushed to Talend/connectors-se
+  - title: tlnd-jbrun pushed to Talend/data-prep
     url: ""
-    time_stamp: "2018-09-24"
+    time_stamp: "2018-09-25"
     type: PushEvent
-    user_name: dmytro-sylaiev
-    repo: Talend/connectors-se
+    user_name: tlnd-jbrun
+    repo: Talend/data-prep
+  - title: gmzoughi pushed to Talend/daikon
+    url: ""
+    time_stamp: "2018-09-25"
+    type: PushEvent
+    user_name: gmzoughi
+    repo: Talend/daikon
+  - title: build-travis-ci pushed to Talend/ui
+    url: ""
+    time_stamp: "2018-09-25"
+    type: PushEvent
+    user_name: build-travis-ci
+    repo: Talend/ui
+  - title: tduperron pushed to Talend/data-quality
+    url: ""
+    time_stamp: "2018-09-25"
+    type: PushEvent
+    user_name: tduperron
+    repo: Talend/data-quality
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
