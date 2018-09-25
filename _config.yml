@@ -1762,6 +1762,18 @@ partners:
     url: http://blog.getpostman.com/2018/04/11/looping-through-a-data-file-in-the-postman-collection-runner/
     time_stamp: "2018-04-10 13:42:03"
   latest_tweets:
+  - title: 'Postman is a proud sponsor of #APIStrat - stop by our booth and say hi!
+      @apistrat https://t.co/RFAaAza4Ty'
+    url: https://twitter.com/postmanclient/status/1044606298304782336
+    time_stamp: "2018-09-25 08:15:24"
+  - title: "RT @EqRevolutions: Once written down, a culture code that leadership ignores
+      is worse than having no written code at all. If the managemen..."
+    url: https://twitter.com/postmanclient/status/1044374839170158592
+    time_stamp: "2018-09-24 16:55:39"
+  - title: "RT @ssisodiya: Postman User Group (SF) is going on the road! Two blocks
+      around the corner from @postmanclient HQ in SF to our October hosts..."
+    url: https://twitter.com/postmanclient/status/1044366806834716672
+    time_stamp: "2018-09-24 16:23:44"
   - title: "Dont miss our Developer Advocate, @PetuniaGrays talk, If an API Falls
       in a Forest and No One is Around to Use it... https://t.co/Bg3fTkliOA"
     url: https://twitter.com/postmanclient/status/1044257331524112384
@@ -1847,18 +1859,6 @@ partners:
       for AWS Community Day Bengaluru 2018. Grab your tickets for Commun..."
     url: https://twitter.com/postmanclient/status/1040319588649467904
     time_stamp: "2018-09-13 12:21:32"
-  - title: "If youre demoing Postman at a meet-up or other event, fill out our swag
-      request form and bring some Postman swag w... https://t.co/hyyhh32uAg"
-    url: https://twitter.com/postmanclient/status/1040298849674452992
-    time_stamp: "2018-09-13 10:59:08"
-  - title: "RT @PetuniaGray: Making great APIs @a85 from @postmanclient talks about
-      development loops as a framework for managing people, processes, an..."
-    url: https://twitter.com/postmanclient/status/1040044787041099776
-    time_stamp: "2018-09-12 18:09:34"
-  - title: "RT @TessaMero: Hanging out with my pals that are also judges for the hackathon
-      at @APIWorld!Sporting my @postmanclient hat!From Left to..."
-    url: https://twitter.com/postmanclient/status/1040044472871018496
-    time_stamp: "2018-09-12 18:08:20"
   latest_github_activity:
   - title: postmanlabs/newman being watched by EXPurity
     url: ""
@@ -2410,6 +2410,10 @@ partners:
     url: https://blog.stoplight.io/stoplight-windows-and-linux-97fe9bdbb5e7?source=rss----9be7d78deaf4---4
     time_stamp: "2016-07-25 10:28:55"
   latest_tweets:
+  - title: "If you are at #APIStrat this week, make sure to stop by the Stoplight
+      booth to say hi to the team, get some swag, a... https://t.co/NlJzz281ef"
+    url: https://twitter.com/stoplightio/status/1044592637179817984
+    time_stamp: "2018-09-25 07:21:06"
   - title: '@NScottClayton Yes - but support@stoplight.io is an even better place!'
     url: https://twitter.com/stoplightio/status/1044333916088340480
     time_stamp: "2018-09-24 14:13:03"
@@ -2504,10 +2508,6 @@ partners:
       @taylor_atx. It lets you focus on the API experience. https://t.co/7..."
     url: https://twitter.com/stoplightio/status/1034159463559835649
     time_stamp: "2018-08-27 12:23:24"
-  - title: Art of README https://t.co/RfL0B153py About what they do, why they are
-      an absolute necessity, and how to craft them well.
-    url: https://twitter.com/stoplightio/status/1034137972185214978
-    time_stamp: "2018-08-27 10:58:00"
   latest_github_activity:
   - title: lottamus pushed to stoplightio/js-coding-challenge
     url: ""
