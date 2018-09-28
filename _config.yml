@@ -2853,58 +2853,40 @@ partners:
   latest_github_activity:
   - title: slushatel pushed to Talend/connectors-se
     url: ""
-    time_stamp: "2018-09-27"
+    time_stamp: "2018-09-28"
     type: PushEvent
     user_name: slushatel
     repo: Talend/connectors-se
-  - title: wanix pushed to Talend/talend-cloud-installer
+  - title: slushatel pushed to Talend/connectors-se
     url: ""
-    time_stamp: "2018-09-27"
+    time_stamp: "2018-09-28"
     type: PushEvent
-    user_name: wanix
-    repo: Talend/talend-cloud-installer
-  - title: wanix made a pull request on Talend/talend-cloud-installer
-    url: https://github.com/Talend/talend-cloud-installer/pull/205
-    time_stamp: "2018-09-27"
-    type: PullRequestEvent
-    user_name: wanix
-    repo: Talend/talend-cloud-installer
-  - title: build-talend-studio-ci commented on an issue for Talend/tbd-studio-se
-    url: https://api.github.com/repos/Talend/tbd-studio-se/issues/comments/425144431
-    time_stamp: "2018-09-27"
-    type: IssueCommentEvent
-    user_name: build-talend-studio-ci
-    repo: Talend/tbd-studio-se
-  - title: yu-talend pushed to Talend/tbd-studio-se
-    url: ""
-    time_stamp: "2018-09-27"
-    type: PushEvent
-    user_name: yu-talend
-    repo: Talend/tbd-studio-se
-  - title: rdubois pushed to Talend/connectors-se
-    url: ""
-    time_stamp: "2018-09-27"
-    type: PushEvent
-    user_name: rdubois
+    user_name: slushatel
     repo: Talend/connectors-se
-  - title: build-travis-ci commented on an issue for Talend/ui
-    url: https://api.github.com/repos/Talend/ui/issues/comments/425136943
-    time_stamp: "2018-09-27"
+  - title: build-talend-common commented on an issue for Talend/components
+    url: https://api.github.com/repos/Talend/components/issues/comments/425532337
+    time_stamp: "2018-09-28"
     type: IssueCommentEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: florentlb made a pull request on Talend/component-runtime
-    url: https://github.com/Talend/component-runtime/pull/324
-    time_stamp: "2018-09-27"
+    user_name: build-talend-common
+    repo: Talend/components
+  - title: arunjadhavt made a pull request on Talend/talend-cloud-installer
+    url: https://github.com/Talend/talend-cloud-installer/pull/206
+    time_stamp: "2018-09-28"
     type: PullRequestEvent
-    user_name: florentlb
-    repo: Talend/component-runtime
-  - title: tacokit pushed to Talend/component-runtime
+    user_name: arunjadhavt
+    repo: Talend/talend-cloud-installer
+  - title: arunjadhavt made a pull request on Talend/talend-cloud-installer
+    url: https://github.com/Talend/talend-cloud-installer/pull/204
+    time_stamp: "2018-09-28"
+    type: PullRequestEvent
+    user_name: arunjadhavt
+    repo: Talend/talend-cloud-installer
+  - title: mbasiuk-talend pushed to Talend/components
     url: ""
-    time_stamp: "2018-09-27"
+    time_stamp: "2018-09-28"
     type: PushEvent
-    user_name: tacokit
-    repo: Talend/component-runtime
+    user_name: mbasiuk-talend
+    repo: Talend/components
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
