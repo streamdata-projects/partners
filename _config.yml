@@ -2672,7 +2672,7 @@ partners:
   description: Talend open source integration software offers real-time solutions
     for all types of data integration. Learn more about the benefits of Hadoop and
     Spark.
-  url: ""
+  url: https://github.com/Talend/tcommon-studio-se/pull/1870
   email: info@talend.com
   blog_url: http://www.talend.com/blog
   blog_rss_url: http://feeds.feedburner.com/Talend
@@ -2851,42 +2851,78 @@ partners:
     url: https://twitter.com/Talend/status/1042943613716422656
     time_stamp: "2018-09-20 18:08:29"
   latest_github_activity:
-  - title: slushatel pushed to Talend/connectors-se
+  - title: zwxue pushed to Talend/tcommon-studio-se
     url: ""
-    time_stamp: "2018-09-28"
+    time_stamp: "2018-09-29"
     type: PushEvent
-    user_name: slushatel
-    repo: Talend/connectors-se
-  - title: slushatel pushed to Talend/connectors-se
+    user_name: zwxue
+    repo: Talend/tcommon-studio-se
+  - title: zshen-talend pushed to Talend/tdq-studio-se
     url: ""
-    time_stamp: "2018-09-28"
+    time_stamp: "2018-09-29"
     type: PushEvent
-    user_name: slushatel
-    repo: Talend/connectors-se
-  - title: build-talend-common commented on an issue for Talend/components
-    url: https://api.github.com/repos/Talend/components/issues/comments/425532337
-    time_stamp: "2018-09-28"
-    type: IssueCommentEvent
-    user_name: build-talend-common
-    repo: Talend/components
-  - title: arunjadhavt made a pull request on Talend/talend-cloud-installer
-    url: https://github.com/Talend/talend-cloud-installer/pull/206
-    time_stamp: "2018-09-28"
+    user_name: zshen-talend
+    repo: Talend/tdq-studio-se
+  - title: hw-zhu pushed to Talend/tmdm-common
+    url: ""
+    time_stamp: "2018-09-29"
+    type: PushEvent
+    user_name: hw-zhu
+    repo: Talend/tmdm-common
+  - title: cmeng-talend pushed to Talend/tcommon-studio-se
+    url: ""
+    time_stamp: "2018-09-29"
+    type: PushEvent
+    user_name: cmeng-talend
+    repo: Talend/tcommon-studio-se
+  - title: cmeng-talend pushed to Talend/tdi-studio-se
+    url: ""
+    time_stamp: "2018-09-29"
+    type: PushEvent
+    user_name: cmeng-talend
+    repo: Talend/tdi-studio-se
+  - title: jiezhang-tlnd pushed to Talend/tcommon-studio-se
+    url: ""
+    time_stamp: "2018-09-29"
+    type: PushEvent
+    user_name: jiezhang-tlnd
+    repo: Talend/tcommon-studio-se
+  - title: jiezhang-tlnd pushed to Talend/tdi-studio-se
+    url: ""
+    time_stamp: "2018-09-29"
+    type: PushEvent
+    user_name: jiezhang-tlnd
+    repo: Talend/tdi-studio-se
+  - title: zshen-talend pushed to Talend/tdq-studio-se
+    url: ""
+    time_stamp: "2018-09-29"
+    type: PushEvent
+    user_name: zshen-talend
+    repo: Talend/tdq-studio-se
+  - title: msjian pushed to Talend/tdq-studio-se
+    url: ""
+    time_stamp: "2018-09-29"
+    type: PushEvent
+    user_name: msjian
+    repo: Talend/tdq-studio-se
+  - title: hw-zhu pushed to Talend/tmdm-server-se
+    url: ""
+    time_stamp: "2018-09-29"
+    type: PushEvent
+    user_name: hw-zhu
+    repo: Talend/tmdm-server-se
+  - title: hw-zhu pushed to Talend/tmdm-common
+    url: ""
+    time_stamp: "2018-09-29"
+    type: PushEvent
+    user_name: hw-zhu
+    repo: Talend/tmdm-common
+  - title: jding-tlnd made a pull request on Talend/tcommon-studio-se
+    url: https://github.com/Talend/tcommon-studio-se/pull/1870
+    time_stamp: "2018-09-29"
     type: PullRequestEvent
-    user_name: arunjadhavt
-    repo: Talend/talend-cloud-installer
-  - title: arunjadhavt made a pull request on Talend/talend-cloud-installer
-    url: https://github.com/Talend/talend-cloud-installer/pull/204
-    time_stamp: "2018-09-28"
-    type: PullRequestEvent
-    user_name: arunjadhavt
-    repo: Talend/talend-cloud-installer
-  - title: mbasiuk-talend pushed to Talend/components
-    url: ""
-    time_stamp: "2018-09-28"
-    type: PushEvent
-    user_name: mbasiuk-talend
-    repo: Talend/components
+    user_name: jding-tlnd
+    repo: Talend/tcommon-studio-se
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
