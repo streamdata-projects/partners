@@ -2672,7 +2672,7 @@ partners:
   description: Talend open source integration software offers real-time solutions
     for all types of data integration. Learn more about the benefits of Hadoop and
     Spark.
-  url: https://github.com/Talend/tcommon-studio-se/pull/1870
+  url: ""
   email: info@talend.com
   blog_url: http://www.talend.com/blog
   blog_rss_url: http://feeds.feedburner.com/Talend
@@ -2851,78 +2851,126 @@ partners:
     url: https://twitter.com/Talend/status/1042943613716422656
     time_stamp: "2018-09-20 18:08:29"
   latest_github_activity:
-  - title: zwxue pushed to Talend/tcommon-studio-se
+  - title: tacokit pushed to Talend/component-runtime
     url: ""
-    time_stamp: "2018-09-29"
+    time_stamp: "2018-09-30"
     type: PushEvent
-    user_name: zwxue
-    repo: Talend/tcommon-studio-se
-  - title: zshen-talend pushed to Talend/tdq-studio-se
+    user_name: tacokit
+    repo: Talend/component-runtime
+  - title: rmannibucau pushed to Talend/component-runtime
     url: ""
-    time_stamp: "2018-09-29"
+    time_stamp: "2018-09-30"
     type: PushEvent
-    user_name: zshen-talend
-    repo: Talend/tdq-studio-se
-  - title: hw-zhu pushed to Talend/tmdm-common
+    user_name: rmannibucau
+    repo: Talend/component-runtime
+  - title: tacokit pushed to Talend/component-runtime
     url: ""
-    time_stamp: "2018-09-29"
+    time_stamp: "2018-09-30"
     type: PushEvent
-    user_name: hw-zhu
-    repo: Talend/tmdm-common
-  - title: cmeng-talend pushed to Talend/tcommon-studio-se
+    user_name: tacokit
+    repo: Talend/component-runtime
+  - title: rmannibucau pushed to Talend/component-runtime
     url: ""
-    time_stamp: "2018-09-29"
+    time_stamp: "2018-09-30"
     type: PushEvent
-    user_name: cmeng-talend
-    repo: Talend/tcommon-studio-se
-  - title: cmeng-talend pushed to Talend/tdi-studio-se
+    user_name: rmannibucau
+    repo: Talend/component-runtime
+  - title: tacokit pushed to Talend/component-runtime
     url: ""
-    time_stamp: "2018-09-29"
+    time_stamp: "2018-09-30"
     type: PushEvent
-    user_name: cmeng-talend
-    repo: Talend/tdi-studio-se
-  - title: jiezhang-tlnd pushed to Talend/tcommon-studio-se
+    user_name: tacokit
+    repo: Talend/component-runtime
+  - title: rmannibucau pushed to Talend/component-runtime
     url: ""
-    time_stamp: "2018-09-29"
+    time_stamp: "2018-09-30"
     type: PushEvent
-    user_name: jiezhang-tlnd
-    repo: Talend/tcommon-studio-se
-  - title: jiezhang-tlnd pushed to Talend/tdi-studio-se
+    user_name: rmannibucau
+    repo: Talend/component-runtime
+  - title: rmannibucau pushed to Talend/component-runtime
     url: ""
-    time_stamp: "2018-09-29"
+    time_stamp: "2018-09-30"
     type: PushEvent
-    user_name: jiezhang-tlnd
-    repo: Talend/tdi-studio-se
-  - title: zshen-talend pushed to Talend/tdq-studio-se
-    url: ""
-    time_stamp: "2018-09-29"
-    type: PushEvent
-    user_name: zshen-talend
-    repo: Talend/tdq-studio-se
-  - title: msjian pushed to Talend/tdq-studio-se
-    url: ""
-    time_stamp: "2018-09-29"
-    type: PushEvent
-    user_name: msjian
-    repo: Talend/tdq-studio-se
+    user_name: rmannibucau
+    repo: Talend/component-runtime
   - title: hw-zhu pushed to Talend/tmdm-server-se
     url: ""
-    time_stamp: "2018-09-29"
+    time_stamp: "2018-09-30"
     type: PushEvent
     user_name: hw-zhu
     repo: Talend/tmdm-server-se
   - title: hw-zhu pushed to Talend/tmdm-common
     url: ""
-    time_stamp: "2018-09-29"
+    time_stamp: "2018-09-30"
     type: PushEvent
     user_name: hw-zhu
     repo: Talend/tmdm-common
-  - title: jding-tlnd made a pull request on Talend/tcommon-studio-se
-    url: https://github.com/Talend/tcommon-studio-se/pull/1870
-    time_stamp: "2018-09-29"
-    type: PullRequestEvent
-    user_name: jding-tlnd
+  - title: build-talend-studio-ci commented on an issue for Talend/tcommon-studio-se
+    url: https://api.github.com/repos/Talend/tcommon-studio-se/issues/comments/425715706
+    time_stamp: "2018-09-30"
+    type: IssueCommentEvent
+    user_name: build-talend-studio-ci
     repo: Talend/tcommon-studio-se
+  - title: cmeng-talend pushed to Talend/tdi-studio-se
+    url: ""
+    time_stamp: "2018-09-30"
+    type: PushEvent
+    user_name: cmeng-talend
+    repo: Talend/tdi-studio-se
+  - title: cmeng-talend pushed to Talend/tcommon-studio-se
+    url: ""
+    time_stamp: "2018-09-30"
+    type: PushEvent
+    user_name: cmeng-talend
+    repo: Talend/tcommon-studio-se
+  - title: jiezhang-tlnd pushed to Talend/tcommon-studio-se
+    url: ""
+    time_stamp: "2018-09-30"
+    type: PushEvent
+    user_name: jiezhang-tlnd
+    repo: Talend/tcommon-studio-se
+  - title: jiezhang-tlnd pushed to Talend/tdi-studio-se
+    url: ""
+    time_stamp: "2018-09-30"
+    type: PushEvent
+    user_name: jiezhang-tlnd
+    repo: Talend/tdi-studio-se
+  - title: talend-dprot pushed to Talend/tuj
+    url: ""
+    time_stamp: "2018-09-30"
+    type: PushEvent
+    user_name: talend-dprot
+    repo: Talend/tuj
+  - title: talend-dprot made a pull request on Talend/tuj
+    url: https://github.com/Talend/tuj/pull/317
+    time_stamp: "2018-09-30"
+    type: PullRequestEvent
+    user_name: talend-dprot
+    repo: Talend/tuj
+  - title: talend-vlesquere pushed to Talend/data-quality
+    url: ""
+    time_stamp: "2018-09-30"
+    type: PushEvent
+    user_name: talend-vlesquere
+    repo: Talend/data-quality
+  - title: talend-vlesquere made a pull request on Talend/data-quality
+    url: https://github.com/Talend/data-quality/pull/454
+    time_stamp: "2018-09-30"
+    type: PullRequestEvent
+    user_name: talend-vlesquere
+    repo: Talend/data-quality
+  - title: hbhong made a pull request on Talend/tmdm-studio-se
+    url: https://github.com/Talend/tmdm-studio-se/pull/203
+    time_stamp: "2018-09-30"
+    type: PullRequestEvent
+    user_name: hbhong
+    repo: Talend/tmdm-studio-se
+  - title: hbhong made a pull request on Talend/tmdm-studio-se
+    url: https://github.com/Talend/tmdm-studio-se/pull/202
+    time_stamp: "2018-09-30"
+    type: PullRequestEvent
+    user_name: hbhong
+    repo: Talend/tmdm-studio-se
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
