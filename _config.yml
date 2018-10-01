@@ -3272,6 +3272,9 @@ partners:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trading-central.jpeg
   image_width: "150"
   latest_blog:
+  - title: Guide to Options Strategies
+    url: http://blog.tradingcentral.com/blog/guide-to-options-strategies
+    time_stamp: "2018-09-27 14:30:00"
   - title: U.S. Markets Week in Review
     url: http://blog.tradingcentral.com/blog/u.s.-markets-week-in-review-sept-24-2018
     time_stamp: "2018-09-24 08:01:05"
