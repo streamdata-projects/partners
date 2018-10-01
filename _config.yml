@@ -174,6 +174,13 @@ partners:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-logo.png
   image_width: "150"
   latest_blog:
+  - title: Saving Koalas Using Genomics Research and Cloud Computing
+    url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/XlIcpoaxKWk/
+    time_stamp: "2018-09-28 00:02:57"
+  - title: "Now Available ' Amazon EC2 High Memory Instances with 6, 9, and 12
+      TB of Memory, Perfect for SAP HANA"
+    url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/Sv0PPWGs-ZE/
+    time_stamp: "2018-09-27 14:19:21"
   - title: Meet the Newest AWS Heroes (September 2018 Edition)
     url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/4arGSwqdnKQ/
     time_stamp: "2018-09-21 08:05:02"
@@ -248,13 +255,6 @@ partners:
   - title: 'Now Available: R5, R5d, and z1d Instances'
     url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/qQ4SeecBYko/
     time_stamp: "2018-07-25 15:20:58"
-  - title: Amazon SageMaker Adds Batch Transform Feature and Pipe Input Mode for TensorFlow
-      Containers
-    url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/wu3xyJvgVEY/
-    time_stamp: "2018-07-20 16:15:58"
-  - title: "Amazon Polly Update ' TimeDriven Prosody and Asynchronous Synthesis"
-    url: http://feedproxy.google.com/""r/AmazonWebServicesBlog/""3/GnnxvEdn-o8/
-    time_stamp: "2018-07-17 11:56:45"
   latest_tweets:
   - title: "TFG Co: Supporting gamers all around the world using cluster of Kubernetes
       &amp; several AWS regions.... https://t.co/xjBLE8PIba"
