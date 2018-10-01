@@ -2861,126 +2861,78 @@ partners:
     url: https://twitter.com/Talend/status/1042943613716422656
     time_stamp: "2018-09-20 18:08:29"
   latest_github_activity:
-  - title: tacokit pushed to Talend/component-runtime
+  - title: slushatel pushed to Talend/connectors-se
     url: ""
-    time_stamp: "2018-09-30"
+    time_stamp: "2018-10-01"
     type: PushEvent
-    user_name: tacokit
-    repo: Talend/component-runtime
+    user_name: slushatel
+    repo: Talend/connectors-se
   - title: rmannibucau pushed to Talend/component-runtime
     url: ""
-    time_stamp: "2018-09-30"
+    time_stamp: "2018-10-01"
     type: PushEvent
     user_name: rmannibucau
     repo: Talend/component-runtime
-  - title: tacokit pushed to Talend/component-runtime
-    url: ""
-    time_stamp: "2018-09-30"
-    type: PushEvent
-    user_name: tacokit
-    repo: Talend/component-runtime
-  - title: rmannibucau pushed to Talend/component-runtime
-    url: ""
-    time_stamp: "2018-09-30"
-    type: PushEvent
-    user_name: rmannibucau
-    repo: Talend/component-runtime
-  - title: tacokit pushed to Talend/component-runtime
-    url: ""
-    time_stamp: "2018-09-30"
-    type: PushEvent
-    user_name: tacokit
-    repo: Talend/component-runtime
-  - title: rmannibucau pushed to Talend/component-runtime
-    url: ""
-    time_stamp: "2018-09-30"
-    type: PushEvent
-    user_name: rmannibucau
-    repo: Talend/component-runtime
-  - title: rmannibucau pushed to Talend/component-runtime
-    url: ""
-    time_stamp: "2018-09-30"
-    type: PushEvent
-    user_name: rmannibucau
-    repo: Talend/component-runtime
-  - title: hw-zhu pushed to Talend/tmdm-server-se
-    url: ""
-    time_stamp: "2018-09-30"
-    type: PushEvent
-    user_name: hw-zhu
-    repo: Talend/tmdm-server-se
-  - title: hw-zhu pushed to Talend/tmdm-common
-    url: ""
-    time_stamp: "2018-09-30"
-    type: PushEvent
-    user_name: hw-zhu
-    repo: Talend/tmdm-common
-  - title: build-talend-studio-ci commented on an issue for Talend/tcommon-studio-se
-    url: https://api.github.com/repos/Talend/tcommon-studio-se/issues/comments/425715706
-    time_stamp: "2018-09-30"
+  - title: build-travis-ci commented on an issue for Talend/ui
+    url: https://api.github.com/repos/Talend/ui/issues/comments/425971347
+    time_stamp: "2018-10-01"
     type: IssueCommentEvent
-    user_name: build-talend-studio-ci
-    repo: Talend/tcommon-studio-se
-  - title: cmeng-talend pushed to Talend/tdi-studio-se
-    url: ""
-    time_stamp: "2018-09-30"
-    type: PushEvent
-    user_name: cmeng-talend
+    user_name: build-travis-ci
+    repo: Talend/ui
+  - title: 195858 made a pull request on Talend/tdi-studio-se
+    url: https://github.com/Talend/tdi-studio-se/pull/2737
+    time_stamp: "2018-10-01"
+    type: PullRequestEvent
+    user_name: "195858"
     repo: Talend/tdi-studio-se
-  - title: cmeng-talend pushed to Talend/tcommon-studio-se
-    url: ""
-    time_stamp: "2018-09-30"
-    type: PushEvent
-    user_name: cmeng-talend
-    repo: Talend/tcommon-studio-se
-  - title: jiezhang-tlnd pushed to Talend/tcommon-studio-se
-    url: ""
-    time_stamp: "2018-09-30"
-    type: PushEvent
-    user_name: jiezhang-tlnd
-    repo: Talend/tcommon-studio-se
-  - title: jiezhang-tlnd pushed to Talend/tdi-studio-se
-    url: ""
-    time_stamp: "2018-09-30"
-    type: PushEvent
-    user_name: jiezhang-tlnd
+  - title: build-travis-ci commented on an issue for Talend/ui
+    url: https://api.github.com/repos/Talend/ui/issues/comments/425968302
+    time_stamp: "2018-10-01"
+    type: IssueCommentEvent
+    user_name: build-travis-ci
+    repo: Talend/ui
+  - title: 195858 made a pull request on Talend/tdi-studio-se
+    url: https://github.com/Talend/tdi-studio-se/pull/2736
+    time_stamp: "2018-10-01"
+    type: PullRequestEvent
+    user_name: "195858"
     repo: Talend/tdi-studio-se
-  - title: talend-dprot pushed to Talend/tuj
+  - title: build-travis-ci pushed to Talend/ui
     url: ""
-    time_stamp: "2018-09-30"
+    time_stamp: "2018-10-01"
     type: PushEvent
-    user_name: talend-dprot
-    repo: Talend/tuj
-  - title: talend-dprot made a pull request on Talend/tuj
-    url: https://github.com/Talend/tuj/pull/317
-    time_stamp: "2018-09-30"
-    type: PullRequestEvent
-    user_name: talend-dprot
-    repo: Talend/tuj
-  - title: talend-vlesquere pushed to Talend/data-quality
+    user_name: build-travis-ci
+    repo: Talend/ui
+  - title: dmytro-sylaiev pushed to Talend/tdi-studio-se
     url: ""
-    time_stamp: "2018-09-30"
+    time_stamp: "2018-10-01"
     type: PushEvent
-    user_name: talend-vlesquere
-    repo: Talend/data-quality
-  - title: talend-vlesquere made a pull request on Talend/data-quality
-    url: https://github.com/Talend/data-quality/pull/454
-    time_stamp: "2018-09-30"
+    user_name: dmytro-sylaiev
+    repo: Talend/tdi-studio-se
+  - title: jsomsanith pushed to Talend/ui
+    url: ""
+    time_stamp: "2018-10-01"
+    type: PushEvent
+    user_name: jsomsanith
+    repo: Talend/ui
+  - title: olhava pushed to Talend/components
+    url: ""
+    time_stamp: "2018-10-01"
+    type: PushEvent
+    user_name: olhava
+    repo: Talend/components
+  - title: olhava made a pull request on Talend/components
+    url: https://github.com/Talend/components/pull/1380
+    time_stamp: "2018-10-01"
     type: PullRequestEvent
-    user_name: talend-vlesquere
-    repo: Talend/data-quality
-  - title: hbhong made a pull request on Talend/tmdm-studio-se
-    url: https://github.com/Talend/tmdm-studio-se/pull/203
-    time_stamp: "2018-09-30"
-    type: PullRequestEvent
-    user_name: hbhong
-    repo: Talend/tmdm-studio-se
-  - title: hbhong made a pull request on Talend/tmdm-studio-se
-    url: https://github.com/Talend/tmdm-studio-se/pull/202
-    time_stamp: "2018-09-30"
-    type: PullRequestEvent
-    user_name: hbhong
-    repo: Talend/tmdm-studio-se
+    user_name: olhava
+    repo: Talend/components
+  - title: frassinier pushed to Talend/ui
+    url: ""
+    time_stamp: "2018-10-01"
+    type: PushEvent
+    user_name: frassinier
+    repo: Talend/ui
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
