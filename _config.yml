@@ -1058,6 +1058,16 @@ partners:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/chartiq-logo.png
   image_width: "150"
   latest_blog:
+  - title: Five Core Principles for Delivering Great UX on Any Platform
+    url: https://blog.chartiq.com/five-core-principles-for-delivering-great-ux-on-any-platform
+    time_stamp: "2018-09-27 13:52:17"
+  - title: Chartiq Adds Market Earlybird App To Ecosystem Delivers Best Tool for Social
+      Monitoring
+    url: https://blog.chartiq.com/chartiq-adds-market-earlybird-app-to-ecosystem-delivers-best-tool-for-social-monitoring
+    time_stamp: "2018-09-18 08:18:51"
+  - title: Awardwinning data sharing platform ipushpull partners with ChartIQ
+    url: https://blog.chartiq.com/award-winning-data-sharing-platform-ipushpull-partners-with-chartiq
+    time_stamp: "2018-09-12 08:40:12"
   - title: 3 Keys to Building a First Class Cryptocurrency Exchange Trading Platform
     url: https://blog.chartiq.com/3-keys-to-building-a-first-class-cryptocurrency-exchange-trading-platform
     time_stamp: "2018-08-07 08:17:39"
