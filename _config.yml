@@ -2861,78 +2861,66 @@ partners:
     url: https://twitter.com/Talend/status/1042943613716422656
     time_stamp: "2018-09-20 18:08:29"
   latest_github_activity:
+  - title: build-talend-common commented on an issue for Talend/components
+    url: https://api.github.com/repos/Talend/components/issues/comments/426402340
+    time_stamp: "2018-10-02"
+    type: IssueCommentEvent
+    user_name: build-talend-common
+    repo: Talend/components
+  - title: skermabon made a pull request on Talend/components
+    url: https://github.com/Talend/components/pull/1390
+    time_stamp: "2018-10-02"
+    type: PullRequestEvent
+    user_name: skermabon
+    repo: Talend/components
+  - title: rmannibucau pushed to Talend/tdi-studio-se
+    url: ""
+    time_stamp: "2018-10-02"
+    type: PushEvent
+    user_name: rmannibucau
+    repo: Talend/tdi-studio-se
   - title: slushatel pushed to Talend/connectors-se
     url: ""
-    time_stamp: "2018-10-01"
+    time_stamp: "2018-10-02"
     type: PushEvent
     user_name: slushatel
     repo: Talend/connectors-se
-  - title: rmannibucau pushed to Talend/component-runtime
-    url: ""
-    time_stamp: "2018-10-01"
-    type: PushEvent
-    user_name: rmannibucau
-    repo: Talend/component-runtime
-  - title: build-travis-ci commented on an issue for Talend/ui
-    url: https://api.github.com/repos/Talend/ui/issues/comments/425971347
-    time_stamp: "2018-10-01"
+  - title: build-talend-studio-ci commented on an issue for Talend/tbd-studio-se
+    url: https://api.github.com/repos/Talend/tbd-studio-se/issues/comments/426333012
+    time_stamp: "2018-10-02"
     type: IssueCommentEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: 195858 made a pull request on Talend/tdi-studio-se
-    url: https://github.com/Talend/tdi-studio-se/pull/2737
-    time_stamp: "2018-10-01"
-    type: PullRequestEvent
-    user_name: "195858"
-    repo: Talend/tdi-studio-se
-  - title: build-travis-ci commented on an issue for Talend/ui
-    url: https://api.github.com/repos/Talend/ui/issues/comments/425968302
-    time_stamp: "2018-10-01"
-    type: IssueCommentEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: 195858 made a pull request on Talend/tdi-studio-se
-    url: https://github.com/Talend/tdi-studio-se/pull/2736
-    time_stamp: "2018-10-01"
-    type: PullRequestEvent
-    user_name: "195858"
-    repo: Talend/tdi-studio-se
-  - title: build-travis-ci pushed to Talend/ui
+    user_name: build-talend-studio-ci
+    repo: Talend/tbd-studio-se
+  - title: gonchar-ivan pushed to Talend/tdi-studio-se
     url: ""
-    time_stamp: "2018-10-01"
+    time_stamp: "2018-10-02"
     type: PushEvent
-    user_name: build-travis-ci
-    repo: Talend/ui
-  - title: dmytro-sylaiev pushed to Talend/tdi-studio-se
+    user_name: gonchar-ivan
+    repo: Talend/tdi-studio-se
+  - title: gonchar-ivan made a pull request on Talend/tdi-studio-se
+    url: https://github.com/Talend/tdi-studio-se/pull/2742
+    time_stamp: "2018-10-02"
+    type: PullRequestEvent
+    user_name: gonchar-ivan
+    repo: Talend/tdi-studio-se
+  - title: gonchar-ivan made a pull request on Talend/tdi-studio-se
+    url: https://github.com/Talend/tdi-studio-se/pull/2742
+    time_stamp: "2018-10-02"
+    type: PullRequestEvent
+    user_name: gonchar-ivan
+    repo: Talend/tdi-studio-se
+  - title: akhabali pushed to Talend/tdi-studio-se
     url: ""
-    time_stamp: "2018-10-01"
+    time_stamp: "2018-10-02"
     type: PushEvent
+    user_name: akhabali
+    repo: Talend/tdi-studio-se
+  - title: dmytro-sylaiev made a pull request on Talend/tdi-studio-se
+    url: https://github.com/Talend/tdi-studio-se/pull/2741
+    time_stamp: "2018-10-02"
+    type: PullRequestEvent
     user_name: dmytro-sylaiev
     repo: Talend/tdi-studio-se
-  - title: jsomsanith pushed to Talend/ui
-    url: ""
-    time_stamp: "2018-10-01"
-    type: PushEvent
-    user_name: jsomsanith
-    repo: Talend/ui
-  - title: olhava pushed to Talend/components
-    url: ""
-    time_stamp: "2018-10-01"
-    type: PushEvent
-    user_name: olhava
-    repo: Talend/components
-  - title: olhava made a pull request on Talend/components
-    url: https://github.com/Talend/components/pull/1380
-    time_stamp: "2018-10-01"
-    type: PullRequestEvent
-    user_name: olhava
-    repo: Talend/components
-  - title: frassinier pushed to Talend/ui
-    url: ""
-    time_stamp: "2018-10-01"
-    type: PushEvent
-    user_name: frassinier
-    repo: Talend/ui
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
