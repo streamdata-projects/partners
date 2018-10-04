@@ -2682,7 +2682,7 @@ partners:
   description: Talend open source integration software offers real-time solutions
     for all types of data integration. Learn more about the benefits of Hadoop and
     Spark.
-  url: ""
+  url: https://github.com/Talend/components/pull/1393
   email: info@talend.com
   blog_url: http://www.talend.com/blog
   blog_rss_url: http://feeds.feedburner.com/Talend
@@ -2861,60 +2861,66 @@ partners:
     url: https://twitter.com/Talend/status/1042943613716422656
     time_stamp: "2018-09-20 18:08:29"
   latest_github_activity:
-  - title: arunjadhavt made a pull request on Talend/talend-cloud-installer
-    url: https://github.com/Talend/talend-cloud-installer/pull/207
-    time_stamp: "2018-10-03"
-    type: PullRequestEvent
-    user_name: arunjadhavt
-    repo: Talend/talend-cloud-installer
-  - title: mtuhai pushed to Talend/tbd-studio-se
+  - title: romainseb pushed to Talend/ui
     url: ""
-    time_stamp: "2018-10-03"
+    time_stamp: "2018-10-04"
     type: PushEvent
+    user_name: romainseb
+    repo: Talend/ui
+  - title: mtuhai made a pull request on Talend/tdi-studio-se
+    url: https://github.com/Talend/tdi-studio-se/pull/2750
+    time_stamp: "2018-10-04"
+    type: PullRequestEvent
     user_name: mtuhai
-    repo: Talend/tbd-studio-se
-  - title: Talend/connectors-se being watched by joseroubert08
-    url: ""
-    time_stamp: "2018-10-03"
-    type: WatchEvent
-    user_name: joseroubert08
-    repo: Talend/connectors-se
-  - title: dmytro-sylaiev pushed to Talend/tdi-studio-se
-    url: ""
-    time_stamp: "2018-10-03"
-    type: PushEvent
-    user_name: dmytro-sylaiev
     repo: Talend/tdi-studio-se
-  - title: dmytro-sylaiev made a pull request on Talend/tdi-studio-se
-    url: https://github.com/Talend/tdi-studio-se/pull/2746
-    time_stamp: "2018-10-03"
+  - title: fhuaulme pushed to Talend/daikon
+    url: ""
+    time_stamp: "2018-10-04"
+    type: PushEvent
+    user_name: fhuaulme
+    repo: Talend/daikon
+  - title: fhuaulme made a pull request on Talend/daikon
+    url: https://github.com/Talend/daikon/pull/406
+    time_stamp: "2018-10-04"
     type: PullRequestEvent
-    user_name: dmytro-sylaiev
-    repo: Talend/tdi-studio-se
-  - title: lbourgeois pushed to Talend/tbd-studio-se
-    url: ""
-    time_stamp: "2018-10-03"
-    type: PushEvent
-    user_name: lbourgeois
-    repo: Talend/tbd-studio-se
-  - title: lbourgeois made a pull request on Talend/tbd-studio-se
-    url: https://github.com/Talend/tbd-studio-se/pull/872
-    time_stamp: "2018-10-03"
+    user_name: fhuaulme
+    repo: Talend/daikon
+  - title: build-talend-common commented on an issue for Talend/daikon
+    url: https://api.github.com/repos/Talend/daikon/issues/comments/427140582
+    time_stamp: "2018-10-04"
+    type: IssueCommentEvent
+    user_name: build-talend-common
+    repo: Talend/daikon
+  - title: fhuaulme made a pull request on Talend/daikon
+    url: https://github.com/Talend/daikon/pull/406
+    time_stamp: "2018-10-04"
     type: PullRequestEvent
-    user_name: lbourgeois
-    repo: Talend/tbd-studio-se
-  - title: tacokit pushed to Talend/component-runtime
+    user_name: fhuaulme
+    repo: Talend/daikon
+  - title: iwangtalend pushed to Talend/puppetlabs-java
     url: ""
-    time_stamp: "2018-10-03"
+    time_stamp: "2018-10-04"
     type: PushEvent
-    user_name: tacokit
-    repo: Talend/component-runtime
-  - title: ncomont pushed to Talend/data-prep
+    user_name: iwangtalend
+    repo: Talend/puppetlabs-java
+  - title: iwangtalend pushed to Talend/puppetlabs-java
     url: ""
-    time_stamp: "2018-10-03"
+    time_stamp: "2018-10-04"
     type: PushEvent
-    user_name: ncomont
-    repo: Talend/data-prep
+    user_name: iwangtalend
+    repo: Talend/puppetlabs-java
+  - title: build-talend-common commented on an issue for Talend/components
+    url: https://api.github.com/repos/Talend/components/issues/comments/427100228
+    time_stamp: "2018-10-04"
+    type: IssueCommentEvent
+    user_name: build-talend-common
+    repo: Talend/components
+  - title: ypiel-talend made a pull request on Talend/components
+    url: https://github.com/Talend/components/pull/1393
+    time_stamp: "2018-10-04"
+    type: PullRequestEvent
+    user_name: ypiel-talend
+    repo: Talend/components
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
