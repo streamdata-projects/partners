@@ -2682,7 +2682,7 @@ partners:
   description: Talend open source integration software offers real-time solutions
     for all types of data integration. Learn more about the benefits of Hadoop and
     Spark.
-  url: https://github.com/Talend/components/pull/1393
+  url: https://github.com/Talend/data-prep/pull/1640
   email: info@talend.com
   blog_url: http://www.talend.com/blog
   blog_rss_url: http://feeds.feedburner.com/Talend
@@ -2861,66 +2861,60 @@ partners:
     url: https://twitter.com/Talend/status/1042943613716422656
     time_stamp: "2018-09-20 18:08:29"
   latest_github_activity:
-  - title: romainseb pushed to Talend/ui
-    url: ""
-    time_stamp: "2018-10-04"
-    type: PushEvent
-    user_name: romainseb
-    repo: Talend/ui
-  - title: mtuhai made a pull request on Talend/tdi-studio-se
-    url: https://github.com/Talend/tdi-studio-se/pull/2750
-    time_stamp: "2018-10-04"
-    type: PullRequestEvent
-    user_name: mtuhai
-    repo: Talend/tdi-studio-se
-  - title: fhuaulme pushed to Talend/daikon
-    url: ""
-    time_stamp: "2018-10-04"
-    type: PushEvent
-    user_name: fhuaulme
-    repo: Talend/daikon
-  - title: fhuaulme made a pull request on Talend/daikon
-    url: https://github.com/Talend/daikon/pull/406
-    time_stamp: "2018-10-04"
-    type: PullRequestEvent
-    user_name: fhuaulme
-    repo: Talend/daikon
-  - title: build-talend-common commented on an issue for Talend/daikon
-    url: https://api.github.com/repos/Talend/daikon/issues/comments/427140582
-    time_stamp: "2018-10-04"
+  - title: sizhaoliu commented on an issue for Talend/data-prep
+    url: https://api.github.com/repos/Talend/data-prep/issues/comments/427510924
+    time_stamp: "2018-10-05"
     type: IssueCommentEvent
-    user_name: build-talend-common
-    repo: Talend/daikon
-  - title: fhuaulme made a pull request on Talend/daikon
-    url: https://github.com/Talend/daikon/pull/406
-    time_stamp: "2018-10-04"
+    user_name: sizhaoliu
+    repo: Talend/data-prep
+  - title: talend-dprot made a pull request on Talend/tdq-studio-se
+    url: https://github.com/Talend/tdq-studio-se/pull/351
+    time_stamp: "2018-10-05"
     type: PullRequestEvent
-    user_name: fhuaulme
-    repo: Talend/daikon
-  - title: iwangtalend pushed to Talend/puppetlabs-java
+    user_name: talend-dprot
+    repo: Talend/tdq-studio-se
+  - title: sizhaoliu pushed to Talend/data-quality
     url: ""
-    time_stamp: "2018-10-04"
+    time_stamp: "2018-10-05"
     type: PushEvent
-    user_name: iwangtalend
-    repo: Talend/puppetlabs-java
-  - title: iwangtalend pushed to Talend/puppetlabs-java
+    user_name: sizhaoliu
+    repo: Talend/data-quality
+  - title: hmdebenque pushed to Talend/data-prep
     url: ""
-    time_stamp: "2018-10-04"
+    time_stamp: "2018-10-05"
     type: PushEvent
-    user_name: iwangtalend
-    repo: Talend/puppetlabs-java
+    user_name: hmdebenque
+    repo: Talend/data-prep
+  - title: hmdebenque made a pull request on Talend/data-prep
+    url: https://github.com/Talend/data-prep/pull/1666
+    time_stamp: "2018-10-05"
+    type: PullRequestEvent
+    user_name: hmdebenque
+    repo: Talend/data-prep
+  - title: hmdebenque made a pull request on Talend/data-prep
+    url: https://github.com/Talend/data-prep/pull/1666
+    time_stamp: "2018-10-05"
+    type: PullRequestEvent
+    user_name: hmdebenque
+    repo: Talend/data-prep
   - title: build-talend-common commented on an issue for Talend/components
-    url: https://api.github.com/repos/Talend/components/issues/comments/427100228
-    time_stamp: "2018-10-04"
+    url: https://api.github.com/repos/Talend/components/issues/comments/427423084
+    time_stamp: "2018-10-05"
     type: IssueCommentEvent
     user_name: build-talend-common
     repo: Talend/components
-  - title: ypiel-talend made a pull request on Talend/components
-    url: https://github.com/Talend/components/pull/1393
-    time_stamp: "2018-10-04"
+  - title: elogeart pushed to Talend/data-prep
+    url: ""
+    time_stamp: "2018-10-05"
+    type: PushEvent
+    user_name: elogeart
+    repo: Talend/data-prep
+  - title: elogeart made a pull request on Talend/data-prep
+    url: https://github.com/Talend/data-prep/pull/1640
+    time_stamp: "2018-10-05"
     type: PullRequestEvent
-    user_name: ypiel-talend
-    repo: Talend/components
+    user_name: elogeart
+    repo: Talend/data-prep
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
