@@ -690,9 +690,28 @@ partners:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21-axway.jpg
   image_width: "150"
   latest_blog:
+  - title: National Taco Day at Axway
+    url: https://blog.axway.com/life-axway/national-taco-day
+    time_stamp: "2018-10-05 17:40:38"
+  - title: 'MSC: Why they embraced DevOps and AMPLIFY API Management'
+    url: https://blog.axway.com/amplify/api-management/msc-embraced-devops-amplify-api-management
+    time_stamp: "2018-10-04 01:52:43"
+  - title: Iron Lady in the Axway house!
+    url: https://blog.axway.com/life-axway/iron-lady-axway-house
+    time_stamp: "2018-10-02 09:04:31"
+  - title: Axway R&D Dublin Summer Party 2018
+    url: https://blog.axway.com/life-axway/axway-rd-dublin-summer-party-2018
+    time_stamp: "2018-09-20 06:58:35"
+  - title: Axway and API World bring a great meeting of API minds to San Jose
+    url: https://blog.axway.com/events/api-world-2018
+    time_stamp: "2018-09-18 01:24:09"
   - title: "Tr\xE8s Chic! Axway brings fantastique team collaboration to Ch\xE2teau
       de Nointel"
     url: https://blog.axway.com/events/tres-chic-axway-brings-fantastique-team-collaboration-to-chateau-de-nointel
+    time_stamp: "2018-09-14 01:30:31"
+  - title: "Tr\xE8s Chic! Axway brings fantastique team collaboration to Ch\xE2teau
+      de Nointel"
+    url: https://blog.axway.com/life-axway/tres-chic-axway-brings-fantastique-team-collaboration-to-chateau-de-nointel
     time_stamp: "2018-09-14 01:30:31"
   - title: Knock Down Barriers to Content Collaboration in Healthcare
     url: https://blog.axway.com/amplify/collaboration/content-collaboration-in-healthcare
@@ -708,6 +727,9 @@ partners:
     time_stamp: "2018-09-06 01:49:52"
   - title: Axway Digital Marketing Team Rocks Seattle
     url: https://blog.axway.com/events/axway-digital-marketing-team-rocks-seattle
+    time_stamp: "2018-09-05 02:12:21"
+  - title: Axway Digital Marketing Team Rocks Seattle
+    url: https://blog.axway.com/life-axway/axway-digital-marketing-team-rocks-seattle
     time_stamp: "2018-09-05 02:12:21"
   - title: 'A Real World Digital Transformation Demo: AMPLIFY MFT'
     url: https://blog.axway.com/amplify/amplify-mft-digital-transformation-demo
@@ -746,30 +768,6 @@ partners:
   - title: Tech Mahindra
     url: https://www.axway.com/en/partners/tech-mahindra
     time_stamp: "2018-08-21 15:07:37"
-  - title: Tata Consultancy Services
-    url: https://www.axway.com/en/partners/tata-consultancy-services
-    time_stamp: "2018-08-21 15:04:51"
-  - title: Take Solutions
-    url: https://www.axway.com/en/partners/take-solutions
-    time_stamp: "2018-08-21 15:04:04"
-  - title: Squirrel Mobile
-    url: https://www.axway.com/en/partners/squirrel-mobile
-    time_stamp: "2018-08-21 15:02:29"
-  - title: 'API Talk: The compass for Microservices and API Management!'
-    url: https://www.axway.com/en/event/api-talk-compass-micro-services-and-api-management
-    time_stamp: "2018-08-17 08:20:00"
-  - title: 'API Talk: How to protect your API infrastructure from Cyberattacks with
-      AI'
-    url: https://www.axway.com/en/event/api-talk-how-protect-your-api-infrastructure-cyber-attacks-ai
-    time_stamp: "2018-08-13 13:09:29"
-  - title: What is a Hybrid Integration Platform and how can it work for you to propel
-      your company forward?
-    url: https://blog.axway.com/amplify/what-is-a-hybrid-integration-platform-and-how-can-it-work-for-you-to-propel-your-company-forward
-    time_stamp: "2018-08-10 00:52:47"
-  - title: What is a Hybrid Integration Platform and how can it work for you to propel
-      your company forward?
-    url: https://blog.axway.com/integration/hybrid-integration/hybrid-integration-platform-definition
-    time_stamp: "2018-08-10 00:52:47"
   latest_tweets:
   - title: "Market forces and regulatory mandates are changing the way financial institutions
       operate. Click below to download... https://t.co/4yvs9RaszN"
