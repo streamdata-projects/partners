@@ -1056,6 +1056,10 @@ partners:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/chartiq-logo.png
   image_width: "150"
   latest_blog:
+  - title: How ChartIQ Applied The Core Principles of Great UX When Building Their
+      Capital Markets INtegration Platform
+    url: https://blog.chartiq.com/how-chartiq-applied-the-core-principles-of-great-ux-when-building-their-capital-markets-integration-platform
+    time_stamp: "2018-10-04 08:08:44"
   - title: Five Core Principles for Delivering Great UX on Any Platform
     url: https://blog.chartiq.com/five-core-principles-for-delivering-great-ux-on-any-platform
     time_stamp: "2018-09-27 13:52:17"
