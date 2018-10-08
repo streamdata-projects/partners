@@ -2862,7 +2862,79 @@ partners:
       for hosting! https://t.co/Y5sIBQUgW6'
     url: https://twitter.com/Talend/status/1042943613716422656
     time_stamp: "2018-09-20 18:08:29"
-  latest_github_activity: []
+  latest_github_activity:
+  - title: Talend/tcommon-studio-se was forked by tcommon-studio-se
+    url: ""
+    time_stamp: "2018-10-08"
+    type: ForkEvent
+    user_name: tcommon-studio-se
+    repo: Talend/tcommon-studio-se
+  - title: slushatel pushed to Talend/connectors-se
+    url: ""
+    time_stamp: "2018-10-08"
+    type: PushEvent
+    user_name: slushatel
+    repo: Talend/connectors-se
+  - title: mtuhai pushed to Talend/tbd-studio-se
+    url: ""
+    time_stamp: "2018-10-08"
+    type: PushEvent
+    user_name: mtuhai
+    repo: Talend/tbd-studio-se
+  - title: Voievidko made a pull request on Talend/tdi-studio-se
+    url: https://github.com/Talend/tdi-studio-se/pull/2758
+    time_stamp: "2018-10-08"
+    type: PullRequestEvent
+    user_name: Voievidko
+    repo: Talend/tdi-studio-se
+  - title: gonchar-ivan pushed to Talend/components
+    url: ""
+    time_stamp: "2018-10-08"
+    type: PushEvent
+    user_name: gonchar-ivan
+    repo: Talend/components
+  - title: tacokit pushed to Talend/component-runtime
+    url: ""
+    time_stamp: "2018-10-08"
+    type: PushEvent
+    user_name: tacokit
+    repo: Talend/component-runtime
+  - title: andrii-holovko-dev pushed to Talend/ui
+    url: ""
+    time_stamp: "2018-10-08"
+    type: PushEvent
+    user_name: andrii-holovko-dev
+    repo: Talend/ui
+  - title: gonchar-ivan pushed to Talend/components
+    url: ""
+    time_stamp: "2018-10-08"
+    type: PushEvent
+    user_name: gonchar-ivan
+    repo: Talend/components
+  - title: apoltavtsev pushed to Talend/tesb-studio-se
+    url: ""
+    time_stamp: "2018-10-08"
+    type: PushEvent
+    user_name: apoltavtsev
+    repo: Talend/tesb-studio-se
+  - title: cmeng-talend made a pull request on Talend/tdi-studio-se
+    url: https://github.com/Talend/tdi-studio-se/pull/2757
+    time_stamp: "2018-10-08"
+    type: PullRequestEvent
+    user_name: cmeng-talend
+    repo: Talend/tdi-studio-se
+  - title: hw-zhu pushed to Talend/tmdm-server-se
+    url: ""
+    time_stamp: "2018-10-08"
+    type: PushEvent
+    user_name: hw-zhu
+    repo: Talend/tmdm-server-se
+  - title: dlin-talend pushed to Talend/tdi-studio-se
+    url: ""
+    time_stamp: "2018-10-08"
+    type: PushEvent
+    user_name: dlin-talend
+    repo: Talend/tdi-studio-se
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
