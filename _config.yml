@@ -2860,19 +2860,7 @@ partners:
       for hosting! https://t.co/Y5sIBQUgW6'
     url: https://twitter.com/Talend/status/1042943613716422656
     time_stamp: "2018-09-20 18:08:29"
-  latest_github_activity:
-  - title: tacokit pushed to Talend/component-runtime
-    url: ""
-    time_stamp: "2018-10-06"
-    type: PushEvent
-    user_name: tacokit
-    repo: Talend/component-runtime
-  - title: rmannibucau pushed to Talend/component-runtime
-    url: ""
-    time_stamp: "2018-10-06"
-    type: PushEvent
-    user_name: rmannibucau
-    repo: Talend/component-runtime
+  latest_github_activity: []
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
