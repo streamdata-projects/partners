@@ -3240,6 +3240,18 @@ partners:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trading-central.jpeg
   image_width: "150"
   latest_blog:
+  - title: Penetrating The Most Profitable Asset Class For Brokers
+    url: http://blog.tradingcentral.com/blog/penetrating-the-most-profitable-asset-class-for-brokers
+    time_stamp: "2018-10-05 16:15:00"
+  - title: Insight From A Digital Publisher
+    url: http://blog.tradingcentral.com/blog/insight-from-a-digital-publisher
+    time_stamp: "2018-10-03 12:20:00"
+  - title: View From the Critics and Research Community
+    url: http://blog.tradingcentral.com/blog/view-from-the-critics-and-research-community
+    time_stamp: "2018-10-02 12:05:36"
+  - title: Using UX Design To Build Client Relationships
+    url: http://blog.tradingcentral.com/blog/using-ux-design-to-build-client-relationships
+    time_stamp: "2018-10-01 11:05:40"
   - title: Guide to Options Strategies
     url: http://blog.tradingcentral.com/blog/guide-to-options-strategies
     time_stamp: "2018-09-27 14:30:00"
