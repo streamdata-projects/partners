@@ -2688,7 +2688,7 @@ partners:
   description: Talend open source integration software offers real-time solutions
     for all types of data integration. Learn more about the benefits of Hadoop and
     Spark.
-  url: ""
+  url: https://api.github.com/repos/Talend/components/issues/comments/428232197
   email: info@talend.com
   blog_url: http://www.talend.com/blog
   blog_rss_url: http://feeds.feedburner.com/Talend
@@ -2867,78 +2867,90 @@ partners:
     url: https://twitter.com/Talend/status/1042943613716422656
     time_stamp: "2018-09-20 18:08:29"
   latest_github_activity:
-  - title: Talend/tcommon-studio-se was forked by tcommon-studio-se
+  - title: sizhaoliu pushed to Talend/data-quality
     url: ""
-    time_stamp: "2018-10-08"
-    type: ForkEvent
-    user_name: tcommon-studio-se
-    repo: Talend/tcommon-studio-se
-  - title: slushatel pushed to Talend/connectors-se
-    url: ""
-    time_stamp: "2018-10-08"
+    time_stamp: "2018-10-09"
     type: PushEvent
-    user_name: slushatel
-    repo: Talend/connectors-se
-  - title: mtuhai pushed to Talend/tbd-studio-se
+    user_name: sizhaoliu
+    repo: Talend/data-quality
+  - title: arunjadhavt pushed to Talend/talend-cloud-installer
     url: ""
-    time_stamp: "2018-10-08"
+    time_stamp: "2018-10-09"
     type: PushEvent
-    user_name: mtuhai
-    repo: Talend/tbd-studio-se
-  - title: Voievidko made a pull request on Talend/tdi-studio-se
-    url: https://github.com/Talend/tdi-studio-se/pull/2758
-    time_stamp: "2018-10-08"
-    type: PullRequestEvent
-    user_name: Voievidko
-    repo: Talend/tdi-studio-se
-  - title: gonchar-ivan pushed to Talend/components
+    user_name: arunjadhavt
+    repo: Talend/talend-cloud-installer
+  - title: arunjadhavt pushed to Talend/talend-cloud-installer
     url: ""
-    time_stamp: "2018-10-08"
+    time_stamp: "2018-10-09"
     type: PushEvent
-    user_name: gonchar-ivan
+    user_name: arunjadhavt
+    repo: Talend/talend-cloud-installer
+  - title: build-talend-common commented on an issue for Talend/components
+    url: https://api.github.com/repos/Talend/components/issues/comments/428311884
+    time_stamp: "2018-10-09"
+    type: IssueCommentEvent
+    user_name: build-talend-common
     repo: Talend/components
+  - title: arunjadhavt pushed to Talend/talend-cloud-installer
+    url: ""
+    time_stamp: "2018-10-09"
+    type: PushEvent
+    user_name: arunjadhavt
+    repo: Talend/talend-cloud-installer
+  - title: arunjadhavt pushed to Talend/talend-cloud-installer
+    url: ""
+    time_stamp: "2018-10-09"
+    type: PushEvent
+    user_name: arunjadhavt
+    repo: Talend/talend-cloud-installer
+  - title: arunjadhavt pushed to Talend/talend-cloud-installer
+    url: ""
+    time_stamp: "2018-10-09"
+    type: PushEvent
+    user_name: arunjadhavt
+    repo: Talend/talend-cloud-installer
   - title: tacokit pushed to Talend/component-runtime
     url: ""
-    time_stamp: "2018-10-08"
+    time_stamp: "2018-10-09"
     type: PushEvent
     user_name: tacokit
     repo: Talend/component-runtime
-  - title: andrii-holovko-dev pushed to Talend/ui
+  - title: rmannibucau pushed to Talend/component-runtime
     url: ""
-    time_stamp: "2018-10-08"
+    time_stamp: "2018-10-09"
     type: PushEvent
-    user_name: andrii-holovko-dev
-    repo: Talend/ui
-  - title: gonchar-ivan pushed to Talend/components
-    url: ""
-    time_stamp: "2018-10-08"
-    type: PushEvent
-    user_name: gonchar-ivan
+    user_name: rmannibucau
+    repo: Talend/component-runtime
+  - title: build-talend-common commented on an issue for Talend/components
+    url: https://api.github.com/repos/Talend/components/issues/comments/428257560
+    time_stamp: "2018-10-09"
+    type: IssueCommentEvent
+    user_name: build-talend-common
     repo: Talend/components
-  - title: apoltavtsev pushed to Talend/tesb-studio-se
+  - title: slushatel pushed to Talend/connectors-se
     url: ""
-    time_stamp: "2018-10-08"
+    time_stamp: "2018-10-09"
     type: PushEvent
-    user_name: apoltavtsev
-    repo: Talend/tesb-studio-se
-  - title: cmeng-talend made a pull request on Talend/tdi-studio-se
-    url: https://github.com/Talend/tdi-studio-se/pull/2757
-    time_stamp: "2018-10-08"
-    type: PullRequestEvent
-    user_name: cmeng-talend
-    repo: Talend/tdi-studio-se
-  - title: hw-zhu pushed to Talend/tmdm-server-se
+    user_name: slushatel
+    repo: Talend/connectors-se
+  - title: mbasiuk-talend pushed to Talend/components
     url: ""
-    time_stamp: "2018-10-08"
+    time_stamp: "2018-10-09"
     type: PushEvent
-    user_name: hw-zhu
-    repo: Talend/tmdm-server-se
-  - title: dlin-talend pushed to Talend/tdi-studio-se
+    user_name: mbasiuk-talend
+    repo: Talend/components
+  - title: jmfrancois pushed to Talend/ui
     url: ""
-    time_stamp: "2018-10-08"
+    time_stamp: "2018-10-09"
     type: PushEvent
-    user_name: dlin-talend
-    repo: Talend/tdi-studio-se
+    user_name: jmfrancois
+    repo: Talend/ui
+  - title: build-talend-common commented on an issue for Talend/components
+    url: https://api.github.com/repos/Talend/components/issues/comments/428232197
+    time_stamp: "2018-10-09"
+    type: IssueCommentEvent
+    user_name: build-talend-common
+    repo: Talend/components
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
