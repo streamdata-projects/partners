@@ -2867,48 +2867,24 @@ partners:
     url: https://twitter.com/Talend/status/1042943613716422656
     time_stamp: "2018-09-20 18:08:29"
   latest_github_activity:
-  - title: build-talend-studio-ci commented on an issue for Talend/tbd-studio-se
-    url: https://api.github.com/repos/Talend/tbd-studio-se/issues/comments/428731981
-    time_stamp: "2018-10-10"
+  - title: arunjadhavt pushed to Talend/talend-cloud-installer
+    url: ""
+    time_stamp: "2018-10-11"
+    type: PushEvent
+    user_name: arunjadhavt
+    repo: Talend/talend-cloud-installer
+  - title: build-talend-common commented on an issue for Talend/components
+    url: https://api.github.com/repos/Talend/components/issues/comments/429044106
+    time_stamp: "2018-10-11"
     type: IssueCommentEvent
-    user_name: build-talend-studio-ci
-    repo: Talend/tbd-studio-se
-  - title: arunjadhavt pushed to Talend/talend-cloud-installer
-    url: ""
-    time_stamp: "2018-10-10"
-    type: PushEvent
-    user_name: arunjadhavt
-    repo: Talend/talend-cloud-installer
-  - title: arunjadhavt pushed to Talend/talend-cloud-installer
-    url: ""
-    time_stamp: "2018-10-10"
-    type: PushEvent
-    user_name: arunjadhavt
-    repo: Talend/talend-cloud-installer
-  - title: arunjadhavt pushed to Talend/talend-cloud-installer
-    url: ""
-    time_stamp: "2018-10-10"
-    type: PushEvent
-    user_name: arunjadhavt
-    repo: Talend/talend-cloud-installer
-  - title: arunjadhavt pushed to Talend/talend-cloud-installer
-    url: ""
-    time_stamp: "2018-10-10"
-    type: PushEvent
-    user_name: arunjadhavt
-    repo: Talend/talend-cloud-installer
-  - title: arunjadhavt pushed to Talend/talend-cloud-installer
-    url: ""
-    time_stamp: "2018-10-10"
-    type: PushEvent
-    user_name: arunjadhavt
-    repo: Talend/talend-cloud-installer
-  - title: arashankar pushed to Talend/tesb-rt-se
-    url: ""
-    time_stamp: "2018-10-10"
-    type: PushEvent
-    user_name: arashankar
-    repo: Talend/tesb-rt-se
+    user_name: build-talend-common
+    repo: Talend/components
+  - title: dmytro-sylaiev made a pull request on Talend/components
+    url: https://github.com/Talend/components/pull/1401
+    time_stamp: "2018-10-11"
+    type: PullRequestEvent
+    user_name: dmytro-sylaiev
+    repo: Talend/components
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
