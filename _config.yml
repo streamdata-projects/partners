@@ -2866,7 +2866,25 @@ partners:
       for hosting! https://t.co/Y5sIBQUgW6'
     url: https://twitter.com/Talend/status/1042943613716422656
     time_stamp: "2018-09-20 18:08:29"
-  latest_github_activity: []
+  latest_github_activity:
+  - title: ypiel-talend pushed to Talend/components
+    url: ""
+    time_stamp: "2018-10-14"
+    type: PushEvent
+    user_name: ypiel-talend
+    repo: Talend/components
+  - title: sizhaoliu pushed to Talend/data-quality
+    url: ""
+    time_stamp: "2018-10-14"
+    type: PushEvent
+    user_name: sizhaoliu
+    repo: Talend/data-quality
+  - title: sizhaoliu pushed to Talend/data-quality
+    url: ""
+    time_stamp: "2018-10-14"
+    type: PushEvent
+    user_name: sizhaoliu
+    repo: Talend/data-quality
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
