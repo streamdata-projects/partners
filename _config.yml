@@ -3186,6 +3186,15 @@ partners:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trading-central.jpeg
   image_width: "150"
   latest_blog:
+  - title: U.S. Markets  Weekly Review
+    url: http://blog.tradingcentral.com/blog/u.s.-markets-weekly-review-sept
+    time_stamp: "2018-10-11 10:00:11"
+  - title: Basic of Technical Analysis
+    url: http://blog.tradingcentral.com/blog/basic-of-technical-analysis
+    time_stamp: "2018-10-10 08:55:42"
+  - title: "Trading Central's awardwinning analytics now available in MT5"
+    url: http://blog.tradingcentral.com/blog/trading-centrals-award-winning-analytics-now-available-in-mt5
+    time_stamp: "2018-10-09 07:30:00"
   - title: Penetrating The Most Profitable Asset Class For Brokers
     url: http://blog.tradingcentral.com/blog/penetrating-the-most-profitable-asset-class-for-brokers
     time_stamp: "2018-10-05 16:15:00"
@@ -3253,12 +3262,6 @@ partners:
   - title: IFX International
     url: http://blog.tradingcentral.com/blog/ifx-international-2018
     time_stamp: "2018-06-14 06:24:32"
-  - title: Integrated Device Technology charging up
-    url: http://blog.tradingcentral.com/blog/integrated-device-technology-charging-up
-    time_stamp: "2018-06-01 09:00:37"
-  - title: Technical Insight wins Best Specialist Product
-    url: http://blog.tradingcentral.com/blog/technical-insight-wins-best-specialist-product
-    time_stamp: "2018-05-29 12:18:12"
   latest_tweets:
   - title: "\U0001F514 Bed Bath &amp; Beyond Inc ( $BBBY #NASDAQ ) formed a Continuation
       Wedge #chartpattern. This #bullish signal indica... https://t.co/oJRZ2znxSH"
