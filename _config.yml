@@ -1701,6 +1701,9 @@ partners:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3776-postman.jpg
   image_width: "150"
   latest_blog:
+  - title: 'New Postman Feature: Comments on Collections'
+    url: http://blog.getpostman.com/2018/10/10/new-postman-feature-comments-on-collections/
+    time_stamp: "2018-10-10 09:51:33"
   - title: "Using a Postman app to ... Run the Dishwasher"
     url: http://blog.getpostman.com/2018/08/18/using-a-postman-app-to-run-the-dishwasher/
     time_stamp: "2018-08-17 14:38:28"
@@ -1774,9 +1777,6 @@ partners:
   - title: "First 5 things to try if you're new to Postman"
     url: http://blog.getpostman.com/2018/04/11/first-5-things-to-try-if-youre-new-to-postman/
     time_stamp: "2018-04-11 07:37:32"
-  - title: Looping through a data file in the Postman Collection Runner
-    url: http://blog.getpostman.com/2018/04/11/looping-through-a-data-file-in-the-postman-collection-runner/
-    time_stamp: "2018-04-10 13:42:03"
   latest_tweets:
   - title: 'Postman is a proud sponsor of #APIStrat - stop by our booth and say hi!
       @apistrat https://t.co/RFAaAza4Ty'
