@@ -2688,7 +2688,7 @@ partners:
   description: Talend open source integration software offers real-time solutions
     for all types of data integration. Learn more about the benefits of Hadoop and
     Spark.
-  url: ""
+  url: https://github.com/Talend/data-prep/pull/1677
   email: info@talend.com
   blog_url: http://www.talend.com/blog
   blog_rss_url: http://feeds.feedburner.com/Talend
@@ -2867,51 +2867,63 @@ partners:
     url: https://twitter.com/Talend/status/1042943613716422656
     time_stamp: "2018-09-20 18:08:29"
   latest_github_activity:
-  - title: tacokit pushed to Talend/component-runtime
+  - title: build-talend pushed to Talend/data-prep
     url: ""
-    time_stamp: "2018-10-16"
+    time_stamp: "2018-10-17"
     type: PushEvent
-    user_name: tacokit
-    repo: Talend/component-runtime
-  - title: rmannibucau pushed to Talend/component-runtime
-    url: ""
-    time_stamp: "2018-10-16"
-    type: PushEvent
-    user_name: rmannibucau
-    repo: Talend/component-runtime
-  - title: frassinier made a pull request on Talend/data-prep
-    url: https://github.com/Talend/data-prep/pull/1669
-    time_stamp: "2018-10-16"
-    type: PullRequestEvent
-    user_name: frassinier
+    user_name: build-talend
     repo: Talend/data-prep
+  - title: build-talend pushed to Talend/data-prep
+    url: ""
+    time_stamp: "2018-10-17"
+    type: PushEvent
+    user_name: build-talend
+    repo: Talend/data-prep
+  - title: Fangrou pushed to Talend/data-quality
+    url: ""
+    time_stamp: "2018-10-17"
+    type: PushEvent
+    user_name: Fangrou
+    repo: Talend/data-quality
+  - title: dsergent made a pull request on Talend/tesb-studio-se
+    url: https://github.com/Talend/tesb-studio-se/pull/271
+    time_stamp: "2018-10-17"
+    type: PullRequestEvent
+    user_name: dsergent
+    repo: Talend/tesb-studio-se
+  - title: dsergent pushed to Talend/tesb-studio-se
+    url: ""
+    time_stamp: "2018-10-17"
+    type: PushEvent
+    user_name: dsergent
+    repo: Talend/tesb-studio-se
+  - title: dsergent pushed to Talend/tesb-studio-se
+    url: ""
+    time_stamp: "2018-10-17"
+    type: PushEvent
+    user_name: dsergent
+    repo: Talend/tesb-studio-se
   - title: ncomont pushed to Talend/data-prep
     url: ""
-    time_stamp: "2018-10-16"
+    time_stamp: "2018-10-17"
     type: PushEvent
     user_name: ncomont
     repo: Talend/data-prep
   - title: ncomont made a pull request on Talend/data-prep
-    url: https://github.com/Talend/data-prep/pull/1670
-    time_stamp: "2018-10-16"
+    url: https://github.com/Talend/data-prep/pull/1679
+    time_stamp: "2018-10-17"
     type: PullRequestEvent
     user_name: ncomont
     repo: Talend/data-prep
-  - title: frassinier made a pull request on Talend/data-prep
-    url: https://github.com/Talend/data-prep/pull/1670
-    time_stamp: "2018-10-16"
-    type: PullRequestEvent
-    user_name: frassinier
-    repo: Talend/data-prep
   - title: ncomont pushed to Talend/data-prep
     url: ""
-    time_stamp: "2018-10-16"
+    time_stamp: "2018-10-17"
     type: PushEvent
     user_name: ncomont
     repo: Talend/data-prep
   - title: ncomont made a pull request on Talend/data-prep
-    url: https://github.com/Talend/data-prep/pull/1669
-    time_stamp: "2018-10-16"
+    url: https://github.com/Talend/data-prep/pull/1677
+    time_stamp: "2018-10-17"
     type: PullRequestEvent
     user_name: ncomont
     repo: Talend/data-prep
