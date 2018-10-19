@@ -2688,7 +2688,7 @@ partners:
   description: Talend open source integration software offers real-time solutions
     for all types of data integration. Learn more about the benefits of Hadoop and
     Spark.
-  url: https://github.com/Talend/data-quality/pull/478
+  url: ""
   email: info@talend.com
   blog_url: http://www.talend.com/blog
   blog_rss_url: http://feeds.feedburner.com/Talend
@@ -2867,114 +2867,120 @@ partners:
     url: https://twitter.com/Talend/status/1042943613716422656
     time_stamp: "2018-09-20 18:08:29"
   latest_github_activity:
-  - title: hmdebenque pushed to Talend/daikon
-    url: ""
-    time_stamp: "2018-10-18"
-    type: PushEvent
-    user_name: hmdebenque
-    repo: Talend/daikon
-  - title: hmdebenque made a pull request on Talend/daikon
-    url: https://github.com/Talend/daikon/pull/414
-    time_stamp: "2018-10-18"
+  - title: hmdebenque made a pull request on Talend/data-prep
+    url: https://github.com/Talend/data-prep/pull/1685
+    time_stamp: "2018-10-19"
     type: PullRequestEvent
     user_name: hmdebenque
-    repo: Talend/daikon
+    repo: Talend/data-prep
   - title: fhuaulme pushed to Talend/daikon
     url: ""
-    time_stamp: "2018-10-18"
+    time_stamp: "2018-10-19"
     type: PushEvent
     user_name: fhuaulme
     repo: Talend/daikon
-  - title: fhuaulme pushed to Talend/daikon
+  - title: tlnd-elefranc pushed to Talend/data-prep
     url: ""
-    time_stamp: "2018-10-18"
+    time_stamp: "2018-10-19"
     type: PushEvent
-    user_name: fhuaulme
-    repo: Talend/daikon
-  - title: fhuaulme pushed to Talend/daikon
-    url: ""
-    time_stamp: "2018-10-18"
-    type: PushEvent
-    user_name: fhuaulme
-    repo: Talend/daikon
-  - title: fhuaulme pushed to Talend/daikon
-    url: ""
-    time_stamp: "2018-10-18"
-    type: PushEvent
-    user_name: fhuaulme
-    repo: Talend/daikon
-  - title: fhuaulme pushed to Talend/daikon
-    url: ""
-    time_stamp: "2018-10-18"
-    type: PushEvent
-    user_name: fhuaulme
-    repo: Talend/daikon
-  - title: arunjadhavt pushed to Talend/talend-cloud-installer
-    url: ""
-    time_stamp: "2018-10-18"
-    type: PushEvent
-    user_name: arunjadhavt
-    repo: Talend/talend-cloud-installer
-  - title: arunjadhavt made a pull request on Talend/talend-cloud-installer
-    url: https://github.com/Talend/talend-cloud-installer/pull/207
-    time_stamp: "2018-10-18"
+    user_name: tlnd-elefranc
+    repo: Talend/data-prep
+  - title: tlnd-elefranc made a pull request on Talend/data-prep
+    url: https://github.com/Talend/data-prep/pull/1684
+    time_stamp: "2018-10-19"
     type: PullRequestEvent
-    user_name: arunjadhavt
-    repo: Talend/talend-cloud-installer
-  - title: slushatel pushed to Talend/connectors-se
-    url: ""
-    time_stamp: "2018-10-18"
-    type: PushEvent
-    user_name: slushatel
-    repo: Talend/connectors-se
-  - title: amarouni pushed to Talend/connectors-se
-    url: ""
-    time_stamp: "2018-10-18"
-    type: PushEvent
-    user_name: amarouni
-    repo: Talend/connectors-se
-  - title: amarouni made a pull request on Talend/connectors-se
-    url: https://github.com/Talend/connectors-se/pull/48
-    time_stamp: "2018-10-18"
+    user_name: tlnd-elefranc
+    repo: Talend/data-prep
+  - title: build-talend-common commented on an issue for Talend/components
+    url: https://api.github.com/repos/Talend/components/issues/comments/431424437
+    time_stamp: "2018-10-19"
+    type: IssueCommentEvent
+    user_name: build-talend-common
+    repo: Talend/components
+  - title: gonchar-ivan made a pull request on Talend/tcommon-studio-se
+    url: https://github.com/Talend/tcommon-studio-se/pull/1918
+    time_stamp: "2018-10-19"
     type: PullRequestEvent
-    user_name: amarouni
-    repo: Talend/connectors-se
-  - title: amarouni pushed to Talend/connectors-se
+    user_name: gonchar-ivan
+    repo: Talend/tcommon-studio-se
+  - title: dmytro-sylaiev pushed to Talend/connectors-se
     url: ""
-    time_stamp: "2018-10-18"
+    time_stamp: "2018-10-19"
     type: PushEvent
-    user_name: amarouni
+    user_name: dmytro-sylaiev
     repo: Talend/connectors-se
-  - title: RyanSkraba pushed to Talend/connectors-se
-    url: ""
-    time_stamp: "2018-10-18"
-    type: PushEvent
-    user_name: RyanSkraba
-    repo: Talend/connectors-se
-  - title: RyanSkraba pushed to Talend/connectors-se
-    url: ""
-    time_stamp: "2018-10-18"
-    type: PushEvent
-    user_name: RyanSkraba
-    repo: Talend/connectors-se
-  - title: talend-dprot pushed to Talend/data-quality
-    url: ""
-    time_stamp: "2018-10-18"
-    type: PushEvent
-    user_name: talend-dprot
-    repo: Talend/data-quality
-  - title: talend-dprot made a pull request on Talend/data-quality
-    url: https://github.com/Talend/data-quality/pull/478
-    time_stamp: "2018-10-18"
+  - title: build-talend-common commented on an issue for Talend/components
+    url: https://api.github.com/repos/Talend/components/issues/comments/431408182
+    time_stamp: "2018-10-19"
+    type: IssueCommentEvent
+    user_name: build-talend-common
+    repo: Talend/components
+  - title: gonchar-ivan made a pull request on Talend/studio-se-master
+    url: https://github.com/Talend/studio-se-master/pull/134
+    time_stamp: "2018-10-19"
     type: PullRequestEvent
-    user_name: talend-dprot
-    repo: Talend/data-quality
-  - title: sizhaoliu made a pull request on Talend/data-quality
-    url: https://github.com/Talend/data-quality/pull/478
-    time_stamp: "2018-10-18"
+    user_name: gonchar-ivan
+    repo: Talend/studio-se-master
+  - title: build-talend-common commented on an issue for Talend/components
+    url: https://api.github.com/repos/Talend/components/issues/comments/431405515
+    time_stamp: "2018-10-19"
+    type: IssueCommentEvent
+    user_name: build-talend-common
+    repo: Talend/components
+  - title: fhuaulme pushed to Talend/daikon
+    url: ""
+    time_stamp: "2018-10-19"
+    type: PushEvent
+    user_name: fhuaulme
+    repo: Talend/daikon
+  - title: fhuaulme pushed to Talend/daikon
+    url: ""
+    time_stamp: "2018-10-19"
+    type: PushEvent
+    user_name: fhuaulme
+    repo: Talend/daikon
+  - title: build-talend-common commented on an issue for Talend/components
+    url: https://api.github.com/repos/Talend/components/issues/comments/431402329
+    time_stamp: "2018-10-19"
+    type: IssueCommentEvent
+    user_name: build-talend-common
+    repo: Talend/components
+  - title: ypiel-talend pushed to Talend/components
+    url: ""
+    time_stamp: "2018-10-19"
+    type: PushEvent
+    user_name: ypiel-talend
+    repo: Talend/components
+  - title: ypiel-talend made a pull request on Talend/components
+    url: https://github.com/Talend/components/pull/1417
+    time_stamp: "2018-10-19"
     type: PullRequestEvent
-    user_name: sizhaoliu
-    repo: Talend/data-quality
+    user_name: ypiel-talend
+    repo: Talend/components
+  - title: fhuaulme pushed to Talend/daikon
+    url: ""
+    time_stamp: "2018-10-19"
+    type: PushEvent
+    user_name: fhuaulme
+    repo: Talend/daikon
+  - title: ypiel-talend pushed to Talend/components
+    url: ""
+    time_stamp: "2018-10-19"
+    type: PushEvent
+    user_name: ypiel-talend
+    repo: Talend/components
+  - title: ypiel-talend made a pull request on Talend/components
+    url: https://github.com/Talend/components/pull/1417
+    time_stamp: "2018-10-19"
+    type: PullRequestEvent
+    user_name: ypiel-talend
+    repo: Talend/components
+  - title: fhuaulme pushed to Talend/daikon
+    url: ""
+    time_stamp: "2018-10-19"
+    type: PushEvent
+    user_name: fhuaulme
+    repo: Talend/daikon
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
