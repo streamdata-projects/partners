@@ -3270,6 +3270,15 @@ partners:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trading-central.jpeg
   image_width: "150"
   latest_blog:
+  - title: 'Whats Moving Markets: This Weeks U.S. Update'
+    url: http://blog.tradingcentral.com/blog/whats-moving-markets-this-weeks-u.s.-update
+    time_stamp: "2018-10-22 09:30:00"
+  - title: Octobers U.S. Equity Market Outlook
+    url: http://blog.tradingcentral.com/blog/octobers-u.s.-equity-market-market-outlook
+    time_stamp: "2018-10-17 14:30:00"
+  - title: A High Flier In The Cannabis Sector
+    url: http://blog.tradingcentral.com/blog/a-high-flier-in-the-cannabis-sector
+    time_stamp: "2018-10-16 11:36:44"
   - title: U.S. Markets  Weekly Review
     url: http://blog.tradingcentral.com/blog/u.s.-markets-weekly-review-sept
     time_stamp: "2018-10-11 10:00:11"
@@ -3337,15 +3346,6 @@ partners:
       recent modernization of flagship product."
     url: http://blog.tradingcentral.com/blog/trading-central-awarded-best-specialist-product-following-recent-modernization-of-flagship-product
     time_stamp: "2018-06-27 10:03:26"
-  - title: Tuning in to Volatility
-    url: http://blog.tradingcentral.com/blog/tuning-in-to-volatility
-    time_stamp: "2018-06-26 09:48:49"
-  - title: U.S. technologyservices firms set for continuing strength
-    url: http://blog.tradingcentral.com/blog/u-s-technology-services-firms-set-for-continuing-strength
-    time_stamp: "2018-06-25 12:16:32"
-  - title: IFX International
-    url: http://blog.tradingcentral.com/blog/ifx-international-2018
-    time_stamp: "2018-06-14 06:24:32"
   latest_tweets:
   - title: "\U0001F514 Bed Bath &amp; Beyond Inc ( $BBBY #NASDAQ ) formed a Continuation
       Wedge #chartpattern. This #bullish signal indica... https://t.co/oJRZ2znxSH"
