@@ -2074,7 +2074,7 @@ partners:
   description: Build more meaningful and lasting relationships and connect with your
     customers across sales, customer service, marketing, communities, apps, analytics,
     and more using our Customer Success Platform. Try for Free.
-  url: https://api.github.com/repos/salesforce/Argus/issues/comments/413363506
+  url: ""
   email: info@salesforce.com
   blog_url: https://developer.salesforce.com/blogs/
   blog_rss_url: http://feeds.feedburner.com/SforceBlog
@@ -2265,102 +2265,150 @@ partners:
     url: https://twitter.com/SalesforceDevs/status/1040661481942130688
     time_stamp: "2018-09-14 11:00:06"
   latest_github_activity:
-  - title: studanshu pushed to salesforce/Argus
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PushEvent
-    user_name: studanshu
-    repo: salesforce/Argus
-  - title: studanshu made a pull request on salesforce/Argus
-    url: https://github.com/salesforce/Argus/pull/876
-    time_stamp: "2018-08-15"
-    type: PullRequestEvent
-    user_name: studanshu
-    repo: salesforce/Argus
-  - title: salesforce/WikiSQL being watched by alanwang93
-    url: ""
-    time_stamp: "2018-08-15"
-    type: WatchEvent
-    user_name: alanwang93
-    repo: salesforce/WikiSQL
-  - title: msgroi pushed to salesforce/mt-dynamo
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PushEvent
-    user_name: msgroi
-    repo: salesforce/mt-dynamo
-  - title: salesforce/zsync4j being watched by Lokawn
-    url: ""
-    time_stamp: "2018-08-15"
-    type: WatchEvent
-    user_name: Lokawn
-    repo: salesforce/zsync4j
-  - title: salesforce/decaNLP being watched by KaiwenZhong
-    url: ""
-    time_stamp: "2018-08-15"
-    type: WatchEvent
-    user_name: KaiwenZhong
-    repo: salesforce/decaNLP
   - title: salesforce/decaNLP was forked by decaNLP
     url: ""
-    time_stamp: "2018-08-15"
+    time_stamp: "2018-10-21"
     type: ForkEvent
     user_name: decaNLP
     repo: salesforce/decaNLP
-  - title: salesforce/decaNLP being watched by stanfordvan
+  - title: salesforce/ja3 being watched by schsebgto
     url: ""
-    time_stamp: "2018-08-15"
+    time_stamp: "2018-10-21"
     type: WatchEvent
-    user_name: stanfordvan
-    repo: salesforce/decaNLP
-  - title: Crim pushed to salesforce/kafka-junit
+    user_name: schsebgto
+    repo: salesforce/ja3
+  - title: salesforce/awd-lstm-lm being watched by thelightbleu
     url: ""
-    time_stamp: "2018-08-15"
-    type: PushEvent
-    user_name: Crim
-    repo: salesforce/kafka-junit
-  - title: Crim made a pull request on salesforce/kafka-junit
-    url: https://github.com/salesforce/kafka-junit/pull/24
-    time_stamp: "2018-08-15"
-    type: PullRequestEvent
-    user_name: Crim
-    repo: salesforce/kafka-junit
-  - title: Crim pushed to salesforce/kafka-junit
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PushEvent
-    user_name: Crim
-    repo: salesforce/kafka-junit
-  - title: Crim pushed to salesforce/kafka-junit
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PushEvent
-    user_name: Crim
-    repo: salesforce/kafka-junit
-  - title: Crim pushed to salesforce/kafka-junit
-    url: ""
-    time_stamp: "2018-08-15"
-    type: PushEvent
-    user_name: Crim
-    repo: salesforce/kafka-junit
-  - title: salesforce/kafka-junit being watched by ligustah
-    url: ""
-    time_stamp: "2018-08-15"
+    time_stamp: "2018-10-21"
     type: WatchEvent
-    user_name: ligustah
-    repo: salesforce/kafka-junit
-  - title: interactivellama made a pull request on salesforce/design-system-react
-    url: https://github.com/salesforce/design-system-react/pull/1506
-    time_stamp: "2018-08-15"
-    type: PullRequestEvent
-    user_name: interactivellama
-    repo: salesforce/design-system-react
-  - title: codecov-io commented on an issue for salesforce/Argus
-    url: https://api.github.com/repos/salesforce/Argus/issues/comments/413363506
-    time_stamp: "2018-08-15"
+    user_name: thelightbleu
+    repo: salesforce/awd-lstm-lm
+  - title: stale[bot] commented on an issue for salesforce/design-system-react
+    url: https://api.github.com/repos/salesforce/design-system-react/issues/comments/431689871
+    time_stamp: "2018-10-21"
     type: IssueCommentEvent
-    user_name: codecov-io
-    repo: salesforce/Argus
+    user_name: stale[bot]
+    repo: salesforce/design-system-react
+  - title: salesforce/decaNLP being watched by giranntu
+    url: ""
+    time_stamp: "2018-10-21"
+    type: WatchEvent
+    user_name: giranntu
+    repo: salesforce/decaNLP
+  - title: salesforce/decaNLP being watched by shsh88
+    url: ""
+    time_stamp: "2018-10-21"
+    type: WatchEvent
+    user_name: shsh88
+    repo: salesforce/decaNLP
+  - title: salesforce/reactive-grpc being watched by kanjianhaian
+    url: ""
+    time_stamp: "2018-10-21"
+    type: WatchEvent
+    user_name: kanjianhaian
+    repo: salesforce/reactive-grpc
+  - title: salesforce/cove was forked by cove
+    url: ""
+    time_stamp: "2018-10-21"
+    type: ForkEvent
+    user_name: cove
+    repo: salesforce/cove
+  - title: salesforce/hassh being watched by voilet7z
+    url: ""
+    time_stamp: "2018-10-21"
+    type: WatchEvent
+    user_name: voilet7z
+    repo: salesforce/hassh
+  - title: salesforce/reactive-grpc being watched by dnlowman
+    url: ""
+    time_stamp: "2018-10-21"
+    type: WatchEvent
+    user_name: dnlowman
+    repo: salesforce/reactive-grpc
+  - title: salesforce/reactive-grpc being watched by rnkoaa
+    url: ""
+    time_stamp: "2018-10-21"
+    type: WatchEvent
+    user_name: rnkoaa
+    repo: salesforce/reactive-grpc
+  - title: salesforce/hassh was forked by hassh
+    url: ""
+    time_stamp: "2018-10-21"
+    type: ForkEvent
+    user_name: hassh
+    repo: salesforce/hassh
+  - title: salesforce/reactive-grpc being watched by omidp
+    url: ""
+    time_stamp: "2018-10-21"
+    type: WatchEvent
+    user_name: omidp
+    repo: salesforce/reactive-grpc
+  - title: salesforce/reactive-grpc being watched by rnorth
+    url: ""
+    time_stamp: "2018-10-21"
+    type: WatchEvent
+    user_name: rnorth
+    repo: salesforce/reactive-grpc
+  - title: salesforce/TransmogrifAI being watched by qiyuehaoran
+    url: ""
+    time_stamp: "2018-10-20"
+    type: WatchEvent
+    user_name: qiyuehaoran
+    repo: salesforce/TransmogrifAI
+  - title: salesforce/TransmogrifAI being watched by qiyuehaoran
+    url: ""
+    time_stamp: "2018-10-20"
+    type: WatchEvent
+    user_name: qiyuehaoran
+    repo: salesforce/TransmogrifAI
+  - title: salesforce/threatshell being watched by Burner0x00Sec
+    url: ""
+    time_stamp: "2018-10-20"
+    type: WatchEvent
+    user_name: Burner0x00Sec
+    repo: salesforce/threatshell
+  - title: salesforce/secure-filters being watched by Burner0x00Sec
+    url: ""
+    time_stamp: "2018-10-20"
+    type: WatchEvent
+    user_name: Burner0x00Sec
+    repo: salesforce/secure-filters
+  - title: salesforce/grpc-java-contrib being watched by hypercube1024
+    url: ""
+    time_stamp: "2018-10-20"
+    type: WatchEvent
+    user_name: hypercube1024
+    repo: salesforce/grpc-java-contrib
+  - title: salesforce/awd-lstm-lm was forked by awd-lstm-lm
+    url: ""
+    time_stamp: "2018-10-20"
+    type: ForkEvent
+    user_name: awd-lstm-lm
+    repo: salesforce/awd-lstm-lm
+  - title: salesforce/vulnreport being watched by Burner0x00Sec
+    url: ""
+    time_stamp: "2018-10-20"
+    type: WatchEvent
+    user_name: Burner0x00Sec
+    repo: salesforce/vulnreport
+  - title: salesforce/ja3 being watched by steeve85
+    url: ""
+    time_stamp: "2018-10-20"
+    type: WatchEvent
+    user_name: steeve85
+    repo: salesforce/ja3
+  - title: salesforce/reactive-grpc being watched by dio
+    url: ""
+    time_stamp: "2018-10-20"
+    type: WatchEvent
+    user_name: dio
+    repo: salesforce/reactive-grpc
+  - title: salesforce/reactive-grpc being watched by adriancole
+    url: ""
+    time_stamp: "2018-10-20"
+    type: WatchEvent
+    user_name: adriancole
+    repo: salesforce/reactive-grpc
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
