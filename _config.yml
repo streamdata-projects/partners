@@ -1701,6 +1701,9 @@ partners:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3776-postman.jpg
   image_width: "150"
   latest_blog:
+  - title: Run in Postman is now available for Linux
+    url: http://blog.getpostman.com/2018/10/16/run-in-postman-is-now-available-for-linux/
+    time_stamp: "2018-10-16 01:17:20"
   - title: 'New Postman Feature: Comments on Collections'
     url: http://blog.getpostman.com/2018/10/10/new-postman-feature-comments-on-collections/
     time_stamp: "2018-10-10 09:51:33"
@@ -1774,9 +1777,6 @@ partners:
   - title: 'Integrations: how Postman plays with some of your favorite tools'
     url: http://blog.getpostman.com/2018/04/13/integrations-how-postman-plays-with-some-of-your-favorite-tools/
     time_stamp: "2018-04-13 11:26:54"
-  - title: "First 5 things to try if you're new to Postman"
-    url: http://blog.getpostman.com/2018/04/11/first-5-things-to-try-if-youre-new-to-postman/
-    time_stamp: "2018-04-11 07:37:32"
   latest_tweets:
   - title: 'Postman is a proud sponsor of #APIStrat - stop by our booth and say hi!
       @apistrat https://t.co/RFAaAza4Ty'
