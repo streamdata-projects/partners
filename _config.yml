@@ -2080,7 +2080,7 @@ partners:
   description: Build more meaningful and lasting relationships and connect with your
     customers across sales, customer service, marketing, communities, apps, analytics,
     and more using our Customer Success Platform. Try for Free.
-  url: https://api.github.com/repos/salesforce/reactive-grpc/issues/comments/432450486
+  url: https://api.github.com/repos/salesforce/reactive-grpc/issues/comments/432852286
   email: info@salesforce.com
   blog_url: https://developer.salesforce.com/blogs/
   blog_rss_url: http://feeds.feedburner.com/SforceBlog
@@ -2271,137 +2271,119 @@ partners:
     url: https://twitter.com/SalesforceDevs/status/1040661481942130688
     time_stamp: "2018-09-14 11:00:06"
   latest_github_activity:
-  - title: bmccann pushed to salesforce/decaNLP
-    url: ""
-    time_stamp: "2018-10-23"
-    type: PushEvent
-    user_name: bmccann
-    repo: salesforce/decaNLP
-  - title: bmccann commented on an issue for salesforce/decaNLP
-    url: https://api.github.com/repos/salesforce/decaNLP/issues/comments/432472056
-    time_stamp: "2018-10-23"
+  - title: codecov-io commented on an issue for salesforce/reactive-grpc
+    url: https://api.github.com/repos/salesforce/reactive-grpc/issues/comments/432886798
+    time_stamp: "2018-10-24"
     type: IssueCommentEvent
-    user_name: bmccann
-    repo: salesforce/decaNLP
-  - title: bmccann made a pull request on salesforce/decaNLP
-    url: https://github.com/salesforce/decaNLP/pull/40
-    time_stamp: "2018-10-23"
-    type: PullRequestEvent
-    user_name: bmccann
-    repo: salesforce/decaNLP
-  - title: bmccann pushed to salesforce/decaNLP
-    url: ""
-    time_stamp: "2018-10-23"
-    type: PushEvent
-    user_name: bmccann
-    repo: salesforce/decaNLP
-  - title: bmccann commented on an issue for salesforce/decaNLP
-    url: https://api.github.com/repos/salesforce/decaNLP/issues/comments/432471083
-    time_stamp: "2018-10-23"
-    type: IssueCommentEvent
-    user_name: bmccann
-    repo: salesforce/decaNLP
-  - title: bmccann commented on an issue for salesforce/decaNLP
-    url: https://api.github.com/repos/salesforce/decaNLP/issues/comments/432470954
-    time_stamp: "2018-10-23"
-    type: IssueCommentEvent
-    user_name: bmccann
-    repo: salesforce/decaNLP
-  - title: davidlygagnon submitted an issue on salesforce/design-system-react
-    url: https://api.github.com/repos/salesforce/design-system-react/issues/1615
-    time_stamp: "2018-10-23"
-    type: IssuesEvent
-    user_name: davidlygagnon
-    repo: salesforce/design-system-react
-  - title: rmichela made a pull request on salesforce/reactive-grpc
-    url: https://github.com/salesforce/reactive-grpc/pull/127
-    time_stamp: "2018-10-23"
-    type: PullRequestEvent
-    user_name: rmichela
+    user_name: codecov-io
     repo: salesforce/reactive-grpc
-  - title: prestonfff pushed to salesforce/Argus
-    url: ""
-    time_stamp: "2018-10-23"
-    type: PushEvent
-    user_name: prestonfff
-    repo: salesforce/Argus
-  - title: prestonfff made a pull request on salesforce/Argus
-    url: https://github.com/salesforce/Argus/pull/973
-    time_stamp: "2018-10-23"
-    type: PullRequestEvent
-    user_name: prestonfff
-    repo: salesforce/Argus
   - title: rmichela pushed to salesforce/reactive-grpc
     url: ""
-    time_stamp: "2018-10-23"
+    time_stamp: "2018-10-24"
     type: PushEvent
     user_name: rmichela
     repo: salesforce/reactive-grpc
-  - title: rmichela made a pull request on salesforce/reactive-grpc
-    url: https://github.com/salesforce/reactive-grpc/pull/126
-    time_stamp: "2018-10-23"
+  - title: salesforce/vulnreport was forked by vulnreport
+    url: ""
+    time_stamp: "2018-10-24"
+    type: ForkEvent
+    user_name: vulnreport
+    repo: salesforce/vulnreport
+  - title: iamigo pushed to salesforce/refocus
+    url: ""
+    time_stamp: "2018-10-24"
+    type: PushEvent
+    user_name: iamigo
+    repo: salesforce/refocus
+  - title: codecov-io commented on an issue for salesforce/Argus
+    url: https://api.github.com/repos/salesforce/Argus/issues/comments/432866530
+    time_stamp: "2018-10-24"
+    type: IssueCommentEvent
+    user_name: codecov-io
+    repo: salesforce/Argus
+  - title: nkunal commented on an issue for salesforce/Argus
+    url: https://api.github.com/repos/salesforce/Argus/issues/comments/432866529
+    time_stamp: "2018-10-24"
+    type: IssueCommentEvent
+    user_name: nkunal
+    repo: salesforce/Argus
+  - title: iamigo made a pull request on salesforce/refocus
+    url: https://github.com/salesforce/refocus/pull/1022
+    time_stamp: "2018-10-24"
     type: PullRequestEvent
+    user_name: iamigo
+    repo: salesforce/refocus
+  - title: codecov-io commented on an issue for salesforce/reactive-grpc
+    url: https://api.github.com/repos/salesforce/reactive-grpc/issues/comments/432865081
+    time_stamp: "2018-10-24"
+    type: IssueCommentEvent
+    user_name: codecov-io
+    repo: salesforce/reactive-grpc
+  - title: rmichela pushed to salesforce/reactive-grpc
+    url: ""
+    time_stamp: "2018-10-24"
+    type: PushEvent
     user_name: rmichela
     repo: salesforce/reactive-grpc
-  - title: rmichela submitted an issue on salesforce/reactive-grpc
-    url: https://api.github.com/repos/salesforce/reactive-grpc/issues/123
-    time_stamp: "2018-10-23"
-    type: IssuesEvent
+  - title: studanshu made a pull request on salesforce/Argus
+    url: https://github.com/salesforce/Argus/pull/978
+    time_stamp: "2018-10-24"
+    type: PullRequestEvent
+    user_name: studanshu
+    repo: salesforce/Argus
+  - title: bmccann commented on an issue for salesforce/decaNLP
+    url: https://api.github.com/repos/salesforce/decaNLP/issues/comments/432861667
+    time_stamp: "2018-10-24"
+    type: IssueCommentEvent
+    user_name: bmccann
+    repo: salesforce/decaNLP
+  - title: rmichela pushed to salesforce/reactive-grpc
+    url: ""
+    time_stamp: "2018-10-24"
+    type: PushEvent
     user_name: rmichela
     repo: salesforce/reactive-grpc
   - title: codecov-io commented on an issue for salesforce/Argus
-    url: https://api.github.com/repos/salesforce/Argus/issues/comments/432457048
-    time_stamp: "2018-10-23"
+    url: https://api.github.com/repos/salesforce/Argus/issues/comments/432856676
+    time_stamp: "2018-10-24"
     type: IssueCommentEvent
     user_name: codecov-io
     repo: salesforce/Argus
-  - title: gauravk48 commented on an issue for salesforce/Argus
-    url: https://api.github.com/repos/salesforce/Argus/issues/comments/432456303
-    time_stamp: "2018-10-23"
-    type: IssueCommentEvent
-    user_name: gauravk48
+  - title: colbyguan pushed to salesforce/Argus
+    url: ""
+    time_stamp: "2018-10-24"
+    type: PushEvent
+    user_name: colbyguan
     repo: salesforce/Argus
-  - title: codecov-io commented on an issue for salesforce/Argus
-    url: https://api.github.com/repos/salesforce/Argus/issues/comments/432455722
-    time_stamp: "2018-10-23"
-    type: IssueCommentEvent
-    user_name: codecov-io
+  - title: iamigo pushed to salesforce/refocus-collector
+    url: ""
+    time_stamp: "2018-10-24"
+    type: PushEvent
+    user_name: iamigo
+    repo: salesforce/refocus-collector
+  - title: iamigo made a pull request on salesforce/refocus-collector
+    url: https://github.com/salesforce/refocus-collector/pull/155
+    time_stamp: "2018-10-24"
+    type: PullRequestEvent
+    user_name: iamigo
+    repo: salesforce/refocus-collector
+  - title: colbyguan pushed to salesforce/Argus
+    url: ""
+    time_stamp: "2018-10-24"
+    type: PushEvent
+    user_name: colbyguan
+    repo: salesforce/Argus
+  - title: colbyguan made a pull request on salesforce/Argus
+    url: https://github.com/salesforce/Argus/pull/977
+    time_stamp: "2018-10-24"
+    type: PullRequestEvent
+    user_name: colbyguan
     repo: salesforce/Argus
   - title: codecov-io commented on an issue for salesforce/reactive-grpc
-    url: https://api.github.com/repos/salesforce/reactive-grpc/issues/comments/432454407
-    time_stamp: "2018-10-23"
+    url: https://api.github.com/repos/salesforce/reactive-grpc/issues/comments/432852286
+    time_stamp: "2018-10-24"
     type: IssueCommentEvent
     user_name: codecov-io
-    repo: salesforce/reactive-grpc
-  - title: prestonfff made a pull request on salesforce/Argus
-    url: https://github.com/salesforce/Argus/pull/973
-    time_stamp: "2018-10-23"
-    type: PullRequestEvent
-    user_name: prestonfff
-    repo: salesforce/Argus
-  - title: prestonfff made a pull request on salesforce/Argus
-    url: https://github.com/salesforce/Argus/pull/972
-    time_stamp: "2018-10-23"
-    type: PullRequestEvent
-    user_name: prestonfff
-    repo: salesforce/Argus
-  - title: prestonfff made a pull request on salesforce/Argus
-    url: https://github.com/salesforce/Argus/pull/972
-    time_stamp: "2018-10-23"
-    type: PullRequestEvent
-    user_name: prestonfff
-    repo: salesforce/Argus
-  - title: prestonfff made a pull request on salesforce/Argus
-    url: https://github.com/salesforce/Argus/pull/971
-    time_stamp: "2018-10-23"
-    type: PullRequestEvent
-    user_name: prestonfff
-    repo: salesforce/Argus
-  - title: rmichela commented on an issue for salesforce/reactive-grpc
-    url: https://api.github.com/repos/salesforce/reactive-grpc/issues/comments/432450486
-    time_stamp: "2018-10-23"
-    type: IssueCommentEvent
-    user_name: rmichela
     repo: salesforce/reactive-grpc
   latest_reddit_searches: []
   latest_hacker_news_searches: []
