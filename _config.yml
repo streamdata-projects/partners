@@ -2271,108 +2271,108 @@ partners:
     url: https://twitter.com/SalesforceDevs/status/1040661481942130688
     time_stamp: "2018-09-14 11:00:06"
   latest_github_activity:
-  - title: naveenreddykarri pushed to salesforce/Argus
-    url: ""
-    time_stamp: "2018-10-25"
-    type: PushEvent
-    user_name: naveenreddykarri
-    repo: salesforce/Argus
-  - title: naveenreddykarri made a pull request on salesforce/Argus
-    url: https://github.com/salesforce/Argus/pull/976
-    time_stamp: "2018-10-25"
+  - title: nkunal made a pull request on salesforce/Argus
+    url: https://github.com/salesforce/Argus/pull/983
+    time_stamp: "2018-10-26"
     type: PullRequestEvent
-    user_name: naveenreddykarri
+    user_name: nkunal
     repo: salesforce/Argus
-  - title: studanshu pushed to salesforce/Argus
-    url: ""
-    time_stamp: "2018-10-25"
-    type: PushEvent
-    user_name: studanshu
-    repo: salesforce/Argus
-  - title: studanshu made a pull request on salesforce/Argus
-    url: https://github.com/salesforce/Argus/pull/978
-    time_stamp: "2018-10-25"
-    type: PullRequestEvent
-    user_name: studanshu
-    repo: salesforce/Argus
-  - title: studanshu pushed to salesforce/Argus
-    url: ""
-    time_stamp: "2018-10-25"
-    type: PushEvent
-    user_name: studanshu
-    repo: salesforce/Argus
-  - title: studanshu made a pull request on salesforce/Argus
-    url: https://github.com/salesforce/Argus/pull/974
-    time_stamp: "2018-10-25"
-    type: PullRequestEvent
-    user_name: studanshu
-    repo: salesforce/Argus
-  - title: interactivellama pushed to salesforce/design-system-react
-    url: ""
-    time_stamp: "2018-10-25"
-    type: PushEvent
-    user_name: interactivellama
-    repo: salesforce/design-system-react
-  - title: interactivellama pushed to salesforce/design-system-react
-    url: ""
-    time_stamp: "2018-10-25"
-    type: PushEvent
-    user_name: interactivellama
-    repo: salesforce/design-system-react
-  - title: interactivellama made a pull request on salesforce/design-system-react
-    url: https://github.com/salesforce/design-system-react/pull/1622
-    time_stamp: "2018-10-25"
-    type: PullRequestEvent
-    user_name: interactivellama
-    repo: salesforce/design-system-react
-  - title: jalthouse-sfdc submitted an issue on salesforce/ja3
-    url: https://api.github.com/repos/salesforce/ja3/issues/22
-    time_stamp: "2018-10-25"
-    type: IssuesEvent
-    user_name: jalthouse-sfdc
-    repo: salesforce/ja3
-  - title: jalthouse-sfdc commented on an issue for salesforce/ja3
-    url: https://api.github.com/repos/salesforce/ja3/issues/comments/433243106
-    time_stamp: "2018-10-25"
+  - title: coveralls commented on an issue for salesforce/mt-dynamo
+    url: https://api.github.com/repos/salesforce/mt-dynamo/issues/comments/433580240
+    time_stamp: "2018-10-26"
     type: IssueCommentEvent
-    user_name: jalthouse-sfdc
-    repo: salesforce/ja3
-  - title: jalthouse-sfdc pushed to salesforce/ja3
-    url: ""
-    time_stamp: "2018-10-25"
-    type: PushEvent
-    user_name: jalthouse-sfdc
-    repo: salesforce/ja3
-  - title: jalthouse-sfdc made a pull request on salesforce/ja3
-    url: https://github.com/salesforce/ja3/pull/25
-    time_stamp: "2018-10-25"
+    user_name: coveralls
+    repo: salesforce/mt-dynamo
+  - title: horwitzj made a pull request on salesforce/mt-dynamo
+    url: https://github.com/salesforce/mt-dynamo/pull/180
+    time_stamp: "2018-10-26"
     type: PullRequestEvent
-    user_name: jalthouse-sfdc
-    repo: salesforce/ja3
-  - title: jalthouse-sfdc pushed to salesforce/ja3
+    user_name: horwitzj
+    repo: salesforce/mt-dynamo
+  - title: tovbinm pushed to salesforce/TransmogrifAI
     url: ""
-    time_stamp: "2018-10-25"
+    time_stamp: "2018-10-26"
     type: PushEvent
-    user_name: jalthouse-sfdc
-    repo: salesforce/ja3
-  - title: jalthouse-sfdc made a pull request on salesforce/ja3
-    url: https://github.com/salesforce/ja3/pull/23
-    time_stamp: "2018-10-25"
-    type: PullRequestEvent
-    user_name: jalthouse-sfdc
-    repo: salesforce/ja3
-  - title: bmccann pushed to salesforce/decaNLP
-    url: ""
-    time_stamp: "2018-10-25"
-    type: PushEvent
-    user_name: bmccann
-    repo: salesforce/decaNLP
-  - title: salesforce/TransmogrifAI being watched by shaeselix
-    url: ""
-    time_stamp: "2018-10-25"
-    type: WatchEvent
-    user_name: shaeselix
+    user_name: tovbinm
     repo: salesforce/TransmogrifAI
+  - title: tovbinm pushed to salesforce/TransmogrifAI
+    url: ""
+    time_stamp: "2018-10-26"
+    type: PushEvent
+    user_name: tovbinm
+    repo: salesforce/TransmogrifAI
+  - title: tovbinm made a pull request on salesforce/TransmogrifAI
+    url: https://github.com/salesforce/TransmogrifAI/pull/166
+    time_stamp: "2018-10-26"
+    type: PullRequestEvent
+    user_name: tovbinm
+    repo: salesforce/TransmogrifAI
+  - title: salesforce/TransmogrifAI was forked by TransmogrifAI
+    url: ""
+    time_stamp: "2018-10-26"
+    type: ForkEvent
+    user_name: TransmogrifAI
+    repo: salesforce/TransmogrifAI
+  - title: michaelweilsalesforce pushed to salesforce/TransmogrifAI
+    url: ""
+    time_stamp: "2018-10-26"
+    type: PushEvent
+    user_name: michaelweilsalesforce
+    repo: salesforce/TransmogrifAI
+  - title: salesforce/TransmogrifAI was forked by TransmogrifAI
+    url: ""
+    time_stamp: "2018-10-26"
+    type: ForkEvent
+    user_name: TransmogrifAI
+    repo: salesforce/TransmogrifAI
+  - title: jgraff2 pushed to salesforce/refocus-sgt-trust1
+    url: ""
+    time_stamp: "2018-10-26"
+    type: PushEvent
+    user_name: jgraff2
+    repo: salesforce/refocus-sgt-trust1
+  - title: jgraff2 made a pull request on salesforce/refocus-sgt-trust1
+    url: https://github.com/salesforce/refocus-sgt-trust1/pull/3
+    time_stamp: "2018-10-26"
+    type: PullRequestEvent
+    user_name: jgraff2
+    repo: salesforce/refocus-sgt-trust1
+  - title: kevinparkerson commented on an issue for salesforce/design-system-react
+    url: https://api.github.com/repos/salesforce/design-system-react/issues/comments/433566360
+    time_stamp: "2018-10-26"
+    type: IssueCommentEvent
+    user_name: kevinparkerson
+    repo: salesforce/design-system-react
+  - title: interactivellama commented on an issue for salesforce/design-system-react
+    url: https://api.github.com/repos/salesforce/design-system-react/issues/comments/433565500
+    time_stamp: "2018-10-26"
+    type: IssueCommentEvent
+    user_name: interactivellama
+    repo: salesforce/design-system-react
+  - title: interactivellama commented on an issue for salesforce/design-system-react
+    url: https://api.github.com/repos/salesforce/design-system-react/issues/comments/433565270
+    time_stamp: "2018-10-26"
+    type: IssueCommentEvent
+    user_name: interactivellama
+    repo: salesforce/design-system-react
+  - title: interactivellama commented on an issue for salesforce/design-system-react
+    url: https://api.github.com/repos/salesforce/design-system-react/issues/comments/433562496
+    time_stamp: "2018-10-26"
+    type: IssueCommentEvent
+    user_name: interactivellama
+    repo: salesforce/design-system-react
+  - title: kevinparkerson commented on an issue for salesforce/design-system-react
+    url: https://api.github.com/repos/salesforce/design-system-react/issues/comments/433561744
+    time_stamp: "2018-10-26"
+    type: IssueCommentEvent
+    user_name: kevinparkerson
+    repo: salesforce/design-system-react
+  - title: interactivellama pushed to salesforce/design-system-react
+    url: ""
+    time_stamp: "2018-10-26"
+    type: PushEvent
+    user_name: interactivellama
+    repo: salesforce/design-system-react
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
