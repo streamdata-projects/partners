@@ -3264,6 +3264,12 @@ partners:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trading-central.jpeg
   image_width: "150"
   latest_blog:
+  - title: Bargainhunting for large caps that look oversold
+    url: http://blog.tradingcentral.com/blog/bargain-hunting-for-large-caps-that-look-oversold
+    time_stamp: "2018-10-24 13:30:00"
+  - title: 'Missiles and moats: Defence stocks for a defensive portfolio'
+    url: http://blog.tradingcentral.com/blog/missiles-and-moats-defence-stocks-for-a-defensive-portfolio
+    time_stamp: "2018-10-22 12:00:00"
   - title: 'Whats Moving Markets: This Weeks U.S. Update'
     url: http://blog.tradingcentral.com/blog/whats-moving-markets-this-weeks-u.s.-update
     time_stamp: "2018-10-22 09:30:00"
@@ -3333,13 +3339,6 @@ partners:
   - title: Digging for nuggets in the rallying basicmaterials sector
     url: http://blog.tradingcentral.com/blog/stocks-poised-to-benefit-from-the-january-effect-0
     time_stamp: "2018-07-16 15:15:00"
-  - title: A Noble Energy Plan
-    url: http://blog.tradingcentral.com/blog/possible-diamond-rough-0
-    time_stamp: "2018-07-14 14:25:00"
-  - title: "Trading Central awarded Best Specialist Product following
-      recent modernization of flagship product."
-    url: http://blog.tradingcentral.com/blog/trading-central-awarded-best-specialist-product-following-recent-modernization-of-flagship-product
-    time_stamp: "2018-06-27 10:03:26"
   latest_tweets:
   - title: "\U0001F514 Bed Bath &amp; Beyond Inc ( $BBBY #NASDAQ ) formed a Continuation
       Wedge #chartpattern. This #bullish signal indica... https://t.co/oJRZ2znxSH"
