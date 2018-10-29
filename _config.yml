@@ -697,6 +697,37 @@ partners:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21-axway.jpg
   image_width: "150"
   latest_blog:
+  - title: IDC DevOps conference wrapup
+    url: https://blog.axway.com/integration/devops/idc-devops-conference-wrapup
+    time_stamp: "2018-10-29 05:10:15"
+  - title: "Axway's Sharath Kolyoor brings a great customer experience to all!"
+    url: https://blog.axway.com/life-axway/axways-sharath-kolyoor-brings-great-customer-experience
+    time_stamp: "2018-10-26 01:28:41"
+  - title: Multicloud vs. hybrid cloud integration challenges. What is right for you?
+    url: https://blog.axway.com/integration/multi-cloud-vs-hybrid-cloud-integration-challenges
+    time_stamp: "2018-10-25 02:11:29"
+  - title: Axway gets creative with a TGIF shirt contest
+    url: https://blog.axway.com/life-axway/axway-gets-creative-tgif-shirt-contest
+    time_stamp: "2018-10-24 01:21:16"
+  - title: Hybrid architecture examples and how to build them
+    url: https://blog.axway.com/integration/integration-hybrid-integration-hybrid
+    time_stamp: "2018-10-23 01:59:43"
+  - title: What IT Leaders are Saying About IT Modernization [INFOGRAPHIC]
+    url: https://blog.axway.com/information-technology/internet-technology-modernization
+    time_stamp: "2018-10-22 14:34:12"
+  - title: "Customer Experience Hero for Axway's B2Bi ' Meet Gary!"
+    url: https://blog.axway.com/life-axway/customer-experience-hero-axway-b2bi
+    time_stamp: "2018-10-19 16:37:03"
+  - title: What is hybrid cloud architecture?
+    url: https://blog.axway.com/integration/hybrid-integration/hybrid-architecture-definition
+    time_stamp: "2018-10-18 01:34:37"
+  - title: "Content collaboration platforms work better with Microsoft + Axway's
+      Syncplicity"
+    url: https://blog.axway.com/amplify/content-collaboration-platforms-work-better-together-microsoft-axways-syncplicity
+    time_stamp: "2018-10-16 17:00:39"
+  - title: 'AMPLIFY B2Bi: Equinor transforms digitally with Axway'
+    url: https://blog.axway.com/digital-business/equinor-digitally-amplify-b2bi
+    time_stamp: "2018-10-16 02:46:51"
   - title: National Taco Day at Axway
     url: https://blog.axway.com/life-axway/national-taco-day
     time_stamp: "2018-10-05 17:40:38"
@@ -744,37 +775,6 @@ partners:
   - title: Contact Sales
     url: https://www.axway.com/en/contact-sales
     time_stamp: "2018-08-31 04:51:04"
-  - title: API World 2018 features Axway
-    url: https://blog.axway.com/amplify/api-management/api-world-2018-features-axway
-    time_stamp: "2018-08-28 07:40:11"
-  - title: AWS Summit Atlanta welcomes Axway
-    url: https://blog.axway.com/others/aws-summit-2018-atlanta-welcomes-axway
-    time_stamp: "2018-08-24 14:54:41"
-  - title: Syncplicity by Axway  Product Advisory Council
-    url: https://www.axway.com/en/axway_user_groups/syncplicity-axway-product-advisory-council
-    time_stamp: "2018-08-24 05:44:50"
-  - title: 403 | Forbidden
-    url: https://www.axway.com/en/403-forbidden
-    time_stamp: "2018-08-22 19:54:43"
-  - title: 404 | Not Found
-    url: https://www.axway.com/en/404-not-found
-    time_stamp: "2018-08-22 19:41:12"
-  - title: 'Magic Quadrant for Content Collaboration Platforms: Standing out from
-      the Crowd!'
-    url: https://blog.axway.com/amplify/collaboration/magic-quadrant-content-collaboration-platforms
-    time_stamp: "2018-08-22 13:51:42"
-  - title: Wipro
-    url: https://www.axway.com/en/partners/wipro
-    time_stamp: "2018-08-21 15:20:52"
-  - title: Vauban
-    url: https://www.axway.com/en/partners/vauban
-    time_stamp: "2018-08-21 15:18:29"
-  - title: Trustlink
-    url: https://www.axway.com/en/partners/trustlink
-    time_stamp: "2018-08-21 15:10:08"
-  - title: Tech Mahindra
-    url: https://www.axway.com/en/partners/tech-mahindra
-    time_stamp: "2018-08-21 15:07:37"
   latest_tweets:
   - title: "Market forces and regulatory mandates are changing the way financial institutions
       operate. Click below to download... https://t.co/4yvs9RaszN"
