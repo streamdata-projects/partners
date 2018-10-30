@@ -2080,7 +2080,7 @@ partners:
   description: Build more meaningful and lasting relationships and connect with your
     customers across sales, customer service, marketing, communities, apps, analytics,
     and more using our Customer Success Platform. Try for Free.
-  url: ""
+  url: https://api.github.com/repos/salesforce/design-system-react/issues/1618
   email: info@salesforce.com
   blog_url: https://developer.salesforce.com/blogs/
   blog_rss_url: http://feeds.feedburner.com/SforceBlog
@@ -2271,138 +2271,126 @@ partners:
     url: https://twitter.com/SalesforceDevs/status/1040661481942130688
     time_stamp: "2018-09-14 11:00:06"
   latest_github_activity:
-  - title: salesforce/TransmogrifAI being watched by Viviane1999
+  - title: salesforce/MultiHopKG being watched by phiedulxp
     url: ""
-    time_stamp: "2018-10-28"
+    time_stamp: "2018-10-29"
     type: WatchEvent
-    user_name: Viviane1999
+    user_name: phiedulxp
+    repo: salesforce/MultiHopKG
+  - title: salesforce/TransmogrifAI was forked by TransmogrifAI
+    url: ""
+    time_stamp: "2018-10-29"
+    type: ForkEvent
+    user_name: TransmogrifAI
     repo: salesforce/TransmogrifAI
-  - title: salesforce/ja3 being watched by scalefree
-    url: ""
-    time_stamp: "2018-10-28"
-    type: WatchEvent
-    user_name: scalefree
-    repo: salesforce/ja3
-  - title: salesforce/decaNLP being watched by argyris
-    url: ""
-    time_stamp: "2018-10-28"
-    type: WatchEvent
-    user_name: argyris
-    repo: salesforce/decaNLP
-  - title: salesforce/decaNLP being watched by fuath
-    url: ""
-    time_stamp: "2018-10-28"
-    type: WatchEvent
-    user_name: fuath
-    repo: salesforce/decaNLP
-  - title: salesforce/WikiSQL being watched by wanghaisheng
-    url: ""
-    time_stamp: "2018-10-28"
-    type: WatchEvent
-    user_name: wanghaisheng
-    repo: salesforce/WikiSQL
-  - title: salesforce/ja3 being watched by apburgess
-    url: ""
-    time_stamp: "2018-10-28"
-    type: WatchEvent
-    user_name: apburgess
-    repo: salesforce/ja3
-  - title: salesforce/ja3 being watched by ycaille
-    url: ""
-    time_stamp: "2018-10-28"
-    type: WatchEvent
-    user_name: ycaille
-    repo: salesforce/ja3
-  - title: rexhoffman pushed to salesforce/AptSpring
-    url: ""
-    time_stamp: "2018-10-28"
-    type: PushEvent
-    user_name: rexhoffman
-    repo: salesforce/AptSpring
-  - title: rexhoffman pushed to salesforce/AptSpring
-    url: ""
-    time_stamp: "2018-10-28"
-    type: PushEvent
-    user_name: rexhoffman
-    repo: salesforce/AptSpring
-  - title: rexhoffman pushed to salesforce/MavenParent
-    url: ""
-    time_stamp: "2018-10-28"
-    type: PushEvent
-    user_name: rexhoffman
-    repo: salesforce/MavenParent
-  - title: rexhoffman pushed to salesforce/MavenParent
-    url: ""
-    time_stamp: "2018-10-28"
-    type: PushEvent
-    user_name: rexhoffman
-    repo: salesforce/MavenParent
-  - title: rexhoffman pushed to salesforce/MavenParent
-    url: ""
-    time_stamp: "2018-10-28"
-    type: PushEvent
-    user_name: rexhoffman
-    repo: salesforce/MavenParent
-  - title: salesforce/ja3 being watched by 0x4243
-    url: ""
-    time_stamp: "2018-10-28"
-    type: WatchEvent
-    user_name: "0x4243"
-    repo: salesforce/ja3
-  - title: salesforce/awd-lstm-lm being watched by hunglethanh9
-    url: ""
-    time_stamp: "2018-10-28"
-    type: WatchEvent
-    user_name: hunglethanh9
-    repo: salesforce/awd-lstm-lm
-  - title: salesforce/tough-cookie being watched by Kamikadze4GAME
-    url: ""
-    time_stamp: "2018-10-28"
-    type: WatchEvent
-    user_name: Kamikadze4GAME
-    repo: salesforce/tough-cookie
-  - title: rexhoffman pushed to salesforce/MavenParent
-    url: ""
-    time_stamp: "2018-10-28"
-    type: PushEvent
-    user_name: rexhoffman
-    repo: salesforce/MavenParent
-  - title: salesforce/WikiSQL being watched by SeanLee97
-    url: ""
-    time_stamp: "2018-10-28"
-    type: WatchEvent
-    user_name: SeanLee97
-    repo: salesforce/WikiSQL
-  - title: salesforce/WikiSQL being watched by qhduan
-    url: ""
-    time_stamp: "2018-10-28"
-    type: WatchEvent
-    user_name: qhduan
-    repo: salesforce/WikiSQL
-  - title: tovbinm pushed to salesforce/TransmogrifAI
-    url: ""
-    time_stamp: "2018-10-27"
-    type: PushEvent
-    user_name: tovbinm
-    repo: salesforce/TransmogrifAI
-  - title: salesforce/design-system-react being watched by bramswenson
-    url: ""
-    time_stamp: "2018-10-27"
-    type: WatchEvent
-    user_name: bramswenson
+  - title: welcome[bot] commented on an issue for salesforce/design-system-react
+    url: https://api.github.com/repos/salesforce/design-system-react/issues/comments/434134343
+    time_stamp: "2018-10-29"
+    type: IssueCommentEvent
+    user_name: welcome[bot]
     repo: salesforce/design-system-react
-  - title: tovbinm pushed to salesforce/TransmogrifAI
+  - title: mlilley submitted an issue on salesforce/design-system-react
+    url: https://api.github.com/repos/salesforce/design-system-react/issues/1631
+    time_stamp: "2018-10-29"
+    type: IssuesEvent
+    user_name: mlilley
+    repo: salesforce/design-system-react
+  - title: pteyer pushed to salesforce/centrifuge
     url: ""
-    time_stamp: "2018-10-27"
+    time_stamp: "2018-10-29"
     type: PushEvent
-    user_name: tovbinm
-    repo: salesforce/TransmogrifAI
-  - title: tovbinm pushed to salesforce/TransmogrifAI
+    user_name: pteyer
+    repo: salesforce/centrifuge
+  - title: iamigo made a pull request on salesforce/refocus
+    url: https://github.com/salesforce/refocus/pull/1026
+    time_stamp: "2018-10-29"
+    type: PullRequestEvent
+    user_name: iamigo
+    repo: salesforce/refocus
+  - title: horwitzj pushed to salesforce/mt-dynamo
     url: ""
-    time_stamp: "2018-10-27"
+    time_stamp: "2018-10-29"
     type: PushEvent
-    user_name: tovbinm
-    repo: salesforce/TransmogrifAI
+    user_name: horwitzj
+    repo: salesforce/mt-dynamo
+  - title: wfhartford submitted an issue on salesforce/grpc-java-contrib
+    url: https://api.github.com/repos/salesforce/grpc-java-contrib/issues/91
+    time_stamp: "2018-10-29"
+    type: IssuesEvent
+    user_name: wfhartford
+    repo: salesforce/grpc-java-contrib
+  - title: YibingSF pushed to salesforce/test-drop-in-framework
+    url: ""
+    time_stamp: "2018-10-29"
+    type: PushEvent
+    user_name: YibingSF
+    repo: salesforce/test-drop-in-framework
+  - title: YibingSF pushed to salesforce/test-drop-in-framework
+    url: ""
+    time_stamp: "2018-10-29"
+    type: PushEvent
+    user_name: YibingSF
+    repo: salesforce/test-drop-in-framework
+  - title: pteyer pushed to salesforce/centrifuge
+    url: ""
+    time_stamp: "2018-10-29"
+    type: PushEvent
+    user_name: pteyer
+    repo: salesforce/centrifuge
+  - title: pteyer pushed to salesforce/centrifuge
+    url: ""
+    time_stamp: "2018-10-29"
+    type: PushEvent
+    user_name: pteyer
+    repo: salesforce/centrifuge
+  - title: pteyer pushed to salesforce/centrifuge
+    url: ""
+    time_stamp: "2018-10-29"
+    type: PushEvent
+    user_name: pteyer
+    repo: salesforce/centrifuge
+  - title: interactivellama pushed to salesforce/design-system-react
+    url: ""
+    time_stamp: "2018-10-29"
+    type: PushEvent
+    user_name: interactivellama
+    repo: salesforce/design-system-react
+  - title: interactivellama made a pull request on salesforce/design-system-react
+    url: https://github.com/salesforce/design-system-react/pull/1620
+    time_stamp: "2018-10-29"
+    type: PullRequestEvent
+    user_name: interactivellama
+    repo: salesforce/design-system-react
+  - title: interactivellama submitted an issue on salesforce/design-system-react
+    url: https://api.github.com/repos/salesforce/design-system-react/issues/1578
+    time_stamp: "2018-10-29"
+    type: IssuesEvent
+    user_name: interactivellama
+    repo: salesforce/design-system-react
+  - title: interactivellama commented on an issue for salesforce/design-system-react
+    url: https://api.github.com/repos/salesforce/design-system-react/issues/comments/434113627
+    time_stamp: "2018-10-29"
+    type: IssueCommentEvent
+    user_name: interactivellama
+    repo: salesforce/design-system-react
+  - title: interactivellama pushed to salesforce/design-system-react
+    url: ""
+    time_stamp: "2018-10-29"
+    type: PushEvent
+    user_name: interactivellama
+    repo: salesforce/design-system-react
+  - title: interactivellama made a pull request on salesforce/design-system-react
+    url: https://github.com/salesforce/design-system-react/pull/1619
+    time_stamp: "2018-10-29"
+    type: PullRequestEvent
+    user_name: interactivellama
+    repo: salesforce/design-system-react
+  - title: interactivellama submitted an issue on salesforce/design-system-react
+    url: https://api.github.com/repos/salesforce/design-system-react/issues/1618
+    time_stamp: "2018-10-29"
+    type: IssuesEvent
+    user_name: interactivellama
+    repo: salesforce/design-system-react
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
