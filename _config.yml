@@ -524,6 +524,12 @@ partners:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1916-apimetrics.jpg
   image_width: "150"
   latest_blog:
+  - title: Happy Birthday to Application Programming Interface (And Me!)
+    url: https://apimetrics.io/2018/10/29/application-programming-interface/
+    time_stamp: "2018-10-29 09:13:39"
+  - title: 'Top of the APIs: Which CMA9 Bank Was Summer Champion 2018?'
+    url: https://apimetrics.io/2018/10/17/top-cma9-bank-apis/
+    time_stamp: "2018-10-17 11:33:43"
   - title: Brought Low by a Humble Bug in the Google+ People API
     url: https://apimetrics.io/2018/10/17/google/
     time_stamp: "2018-10-17 11:29:45"
