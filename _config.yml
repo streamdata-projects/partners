@@ -2086,7 +2086,7 @@ partners:
   description: Build more meaningful and lasting relationships and connect with your
     customers across sales, customer service, marketing, communities, apps, analytics,
     and more using our Customer Success Platform. Try for Free.
-  url: https://api.github.com/repos/salesforce/design-system-react/issues/1618
+  url: https://api.github.com/repos/salesforce/design-system-react/issues/comments/434494554
   email: info@salesforce.com
   blog_url: https://developer.salesforce.com/blogs/
   blog_rss_url: http://feeds.feedburner.com/SforceBlog
@@ -2277,125 +2277,119 @@ partners:
     url: https://twitter.com/SalesforceDevs/status/1040661481942130688
     time_stamp: "2018-09-14 11:00:06"
   latest_github_activity:
-  - title: salesforce/MultiHopKG being watched by phiedulxp
+  - title: naveenreddykarri made a pull request on salesforce/Argus
+    url: https://github.com/salesforce/Argus/pull/997
+    time_stamp: "2018-10-30"
+    type: PullRequestEvent
+    user_name: naveenreddykarri
+    repo: salesforce/Argus
+  - title: salesforce/awd-lstm-lm being watched by HFVladimir
     url: ""
-    time_stamp: "2018-10-29"
+    time_stamp: "2018-10-30"
     type: WatchEvent
-    user_name: phiedulxp
+    user_name: HFVladimir
+    repo: salesforce/awd-lstm-lm
+  - title: salesforce/MultiHopKG being watched by neibla
+    url: ""
+    time_stamp: "2018-10-30"
+    type: WatchEvent
+    user_name: neibla
     repo: salesforce/MultiHopKG
+  - title: kow1011b pushed to salesforce/Argus
+    url: ""
+    time_stamp: "2018-10-30"
+    type: PushEvent
+    user_name: kow1011b
+    repo: salesforce/Argus
+  - title: kow1011b made a pull request on salesforce/Argus
+    url: https://github.com/salesforce/Argus/pull/996
+    time_stamp: "2018-10-30"
+    type: PullRequestEvent
+    user_name: kow1011b
+    repo: salesforce/Argus
+  - title: codecov-io commented on an issue for salesforce/Argus
+    url: https://api.github.com/repos/salesforce/Argus/issues/comments/434518107
+    time_stamp: "2018-10-30"
+    type: IssueCommentEvent
+    user_name: codecov-io
+    repo: salesforce/Argus
   - title: salesforce/TransmogrifAI was forked by TransmogrifAI
     url: ""
-    time_stamp: "2018-10-29"
+    time_stamp: "2018-10-30"
     type: ForkEvent
     user_name: TransmogrifAI
     repo: salesforce/TransmogrifAI
-  - title: welcome[bot] commented on an issue for salesforce/design-system-react
-    url: https://api.github.com/repos/salesforce/design-system-react/issues/comments/434134343
-    time_stamp: "2018-10-29"
-    type: IssueCommentEvent
-    user_name: welcome[bot]
-    repo: salesforce/design-system-react
-  - title: mlilley submitted an issue on salesforce/design-system-react
-    url: https://api.github.com/repos/salesforce/design-system-react/issues/1631
-    time_stamp: "2018-10-29"
-    type: IssuesEvent
-    user_name: mlilley
-    repo: salesforce/design-system-react
-  - title: pteyer pushed to salesforce/centrifuge
+  - title: salesforce/decaNLP was forked by decaNLP
     url: ""
-    time_stamp: "2018-10-29"
+    time_stamp: "2018-10-30"
+    type: ForkEvent
+    user_name: decaNLP
+    repo: salesforce/decaNLP
+  - title: marcovivero pushed to salesforce/TransmogrifAI
+    url: ""
+    time_stamp: "2018-10-30"
     type: PushEvent
-    user_name: pteyer
-    repo: salesforce/centrifuge
+    user_name: marcovivero
+    repo: salesforce/TransmogrifAI
+  - title: kow1011b made a pull request on salesforce/Argus
+    url: https://github.com/salesforce/Argus/pull/996
+    time_stamp: "2018-10-30"
+    type: PullRequestEvent
+    user_name: kow1011b
+    repo: salesforce/Argus
+  - title: codecov-io commented on an issue for salesforce/Argus
+    url: https://api.github.com/repos/salesforce/Argus/issues/comments/434513307
+    time_stamp: "2018-10-30"
+    type: IssueCommentEvent
+    user_name: codecov-io
+    repo: salesforce/Argus
+  - title: codecov-io commented on an issue for salesforce/Argus
+    url: https://api.github.com/repos/salesforce/Argus/issues/comments/434513070
+    time_stamp: "2018-10-30"
+    type: IssueCommentEvent
+    user_name: codecov-io
+    repo: salesforce/Argus
+  - title: prestonfff made a pull request on salesforce/Argus
+    url: https://github.com/salesforce/Argus/pull/995
+    time_stamp: "2018-10-30"
+    type: PullRequestEvent
+    user_name: prestonfff
+    repo: salesforce/Argus
+  - title: prestonfff made a pull request on salesforce/Argus
+    url: https://github.com/salesforce/Argus/pull/994
+    time_stamp: "2018-10-30"
+    type: PullRequestEvent
+    user_name: prestonfff
+    repo: salesforce/Argus
+  - title: coveralls commented on an issue for salesforce/refocus
+    url: https://api.github.com/repos/salesforce/refocus/issues/comments/434506576
+    time_stamp: "2018-10-30"
+    type: IssueCommentEvent
+    user_name: coveralls
+    repo: salesforce/refocus
   - title: iamigo made a pull request on salesforce/refocus
-    url: https://github.com/salesforce/refocus/pull/1026
-    time_stamp: "2018-10-29"
+    url: https://github.com/salesforce/refocus/pull/1028
+    time_stamp: "2018-10-30"
     type: PullRequestEvent
     user_name: iamigo
     repo: salesforce/refocus
-  - title: horwitzj pushed to salesforce/mt-dynamo
+  - title: salesforce/MultiHopKG being watched by thelostscientist
     url: ""
-    time_stamp: "2018-10-29"
-    type: PushEvent
-    user_name: horwitzj
-    repo: salesforce/mt-dynamo
-  - title: wfhartford submitted an issue on salesforce/grpc-java-contrib
-    url: https://api.github.com/repos/salesforce/grpc-java-contrib/issues/91
-    time_stamp: "2018-10-29"
-    type: IssuesEvent
-    user_name: wfhartford
-    repo: salesforce/grpc-java-contrib
-  - title: YibingSF pushed to salesforce/test-drop-in-framework
+    time_stamp: "2018-10-30"
+    type: WatchEvent
+    user_name: thelostscientist
+    repo: salesforce/MultiHopKG
+  - title: colbyguan pushed to salesforce/Argus
     url: ""
-    time_stamp: "2018-10-29"
+    time_stamp: "2018-10-30"
     type: PushEvent
-    user_name: YibingSF
-    repo: salesforce/test-drop-in-framework
-  - title: YibingSF pushed to salesforce/test-drop-in-framework
-    url: ""
-    time_stamp: "2018-10-29"
-    type: PushEvent
-    user_name: YibingSF
-    repo: salesforce/test-drop-in-framework
-  - title: pteyer pushed to salesforce/centrifuge
-    url: ""
-    time_stamp: "2018-10-29"
-    type: PushEvent
-    user_name: pteyer
-    repo: salesforce/centrifuge
-  - title: pteyer pushed to salesforce/centrifuge
-    url: ""
-    time_stamp: "2018-10-29"
-    type: PushEvent
-    user_name: pteyer
-    repo: salesforce/centrifuge
-  - title: pteyer pushed to salesforce/centrifuge
-    url: ""
-    time_stamp: "2018-10-29"
-    type: PushEvent
-    user_name: pteyer
-    repo: salesforce/centrifuge
-  - title: interactivellama pushed to salesforce/design-system-react
-    url: ""
-    time_stamp: "2018-10-29"
-    type: PushEvent
-    user_name: interactivellama
-    repo: salesforce/design-system-react
-  - title: interactivellama made a pull request on salesforce/design-system-react
-    url: https://github.com/salesforce/design-system-react/pull/1620
-    time_stamp: "2018-10-29"
-    type: PullRequestEvent
-    user_name: interactivellama
-    repo: salesforce/design-system-react
-  - title: interactivellama submitted an issue on salesforce/design-system-react
-    url: https://api.github.com/repos/salesforce/design-system-react/issues/1578
-    time_stamp: "2018-10-29"
-    type: IssuesEvent
-    user_name: interactivellama
-    repo: salesforce/design-system-react
-  - title: interactivellama commented on an issue for salesforce/design-system-react
-    url: https://api.github.com/repos/salesforce/design-system-react/issues/comments/434113627
-    time_stamp: "2018-10-29"
+    user_name: colbyguan
+    repo: salesforce/Argus
+  - title: stale[bot] commented on an issue for salesforce/design-system-react
+    url: https://api.github.com/repos/salesforce/design-system-react/issues/comments/434494554
+    time_stamp: "2018-10-30"
     type: IssueCommentEvent
-    user_name: interactivellama
-    repo: salesforce/design-system-react
-  - title: interactivellama pushed to salesforce/design-system-react
-    url: ""
-    time_stamp: "2018-10-29"
-    type: PushEvent
-    user_name: interactivellama
-    repo: salesforce/design-system-react
-  - title: interactivellama made a pull request on salesforce/design-system-react
-    url: https://github.com/salesforce/design-system-react/pull/1619
-    time_stamp: "2018-10-29"
-    type: PullRequestEvent
-    user_name: interactivellama
-    repo: salesforce/design-system-react
-  - title: interactivellama submitted an issue on salesforce/design-system-react
-    url: https://api.github.com/repos/salesforce/design-system-react/issues/1618
-    time_stamp: "2018-10-29"
-    type: IssuesEvent
-    user_name: interactivellama
+    user_name: stale[bot]
     repo: salesforce/design-system-react
   latest_reddit_searches: []
   latest_hacker_news_searches: []
