@@ -2897,60 +2897,18 @@ partners:
     url: https://twitter.com/Talend/status/1042943613716422656
     time_stamp: "2018-09-20 18:08:29"
   latest_github_activity:
-  - title: nrousseau pushed to Talend/tbd-studio-se
+  - title: ilazebny pushed to Talend/tesb-rt-se
     url: ""
-    time_stamp: "2018-10-20"
+    time_stamp: "2018-10-31"
     type: PushEvent
-    user_name: nrousseau
-    repo: Talend/tbd-studio-se
-  - title: nrousseau pushed to Talend/tbd-studio-se
+    user_name: ilazebny
+    repo: Talend/tesb-rt-se
+  - title: ilazebny pushed to Talend/tesb-rt-se
     url: ""
-    time_stamp: "2018-10-20"
+    time_stamp: "2018-10-31"
     type: PushEvent
-    user_name: nrousseau
-    repo: Talend/tbd-studio-se
-  - title: nrousseau made a pull request on Talend/tbd-studio-se
-    url: https://github.com/Talend/tbd-studio-se/pull/886
-    time_stamp: "2018-10-20"
-    type: PullRequestEvent
-    user_name: nrousseau
-    repo: Talend/tbd-studio-se
-  - title: hmdebenque made a pull request on Talend/data-prep
-    url: https://github.com/Talend/data-prep/pull/1685
-    time_stamp: "2018-10-19"
-    type: PullRequestEvent
-    user_name: hmdebenque
-    repo: Talend/data-prep
-  - title: fhuaulme pushed to Talend/daikon
-    url: ""
-    time_stamp: "2018-10-19"
-    type: PushEvent
-    user_name: fhuaulme
-    repo: Talend/daikon
-  - title: tlnd-elefranc pushed to Talend/data-prep
-    url: ""
-    time_stamp: "2018-10-19"
-    type: PushEvent
-    user_name: tlnd-elefranc
-    repo: Talend/data-prep
-  - title: tlnd-elefranc made a pull request on Talend/data-prep
-    url: https://github.com/Talend/data-prep/pull/1684
-    time_stamp: "2018-10-19"
-    type: PullRequestEvent
-    user_name: tlnd-elefranc
-    repo: Talend/data-prep
-  - title: build-talend-common commented on an issue for Talend/components
-    url: https://api.github.com/repos/Talend/components/issues/comments/431424437
-    time_stamp: "2018-10-19"
-    type: IssueCommentEvent
-    user_name: build-talend-common
-    repo: Talend/components
-  - title: gonchar-ivan made a pull request on Talend/tcommon-studio-se
-    url: https://github.com/Talend/tcommon-studio-se/pull/1918
-    time_stamp: "2018-10-19"
-    type: PullRequestEvent
-    user_name: gonchar-ivan
-    repo: Talend/tcommon-studio-se
+    user_name: ilazebny
+    repo: Talend/tesb-rt-se
   latest_reddit_searches: []
   latest_hacker_news_searches: []
   latest_stack_exchange_searches: []
